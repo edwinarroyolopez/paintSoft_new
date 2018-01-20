@@ -1,0 +1,1338 @@
+
+
+section#center div.title {
+   /* background: rgba(1, 150, 227, 0.89); */
+    background: rgba(194, 57, 139,0.89);
+}
+
+/* Seleccion Tab */
+.isSelect{  background: rgba(194, 57, 139, 0.3); }
+.isSelect:hover{ background: rgba(194, 57, 139, 0.3) !important; }
+
+section#center div.container div.tabMenu div.tab:hover{
+    background:  rgba(1, 150, 227, 0.1);;
+}
+section#center div.container div.tabMenu div.tab:active{
+    background:  rgba(194, 57, 139, 0.7);
+   /* transition: all .1s; */
+}
+
+section#center div.container div.frame {
+    background:  rgba(194, 57, 139, 0.3);
+}
+
+div.frame div.segment div.field div.textbox input:focus {
+    border-bottom: solid 2px rgba(194, 57, 139, 0.7);
+}
+
+div.frame div.segment div.field div.button:active{
+    background: rgba(194, 57, 139, 0.7);;
+    color: rgba(255,255,255,1);
+}
+
+
+/* FORMULARIO BUSQUEDA HACE VISIBLE ITEMS */
+.proveedorHidden{display: none !important;}
+
+/* FORMULARIO DE DESCRIPCION */
+
+section#center div.container div#frmDescripcion{
+
+}
+section#center div.container div#frmDescripcion div.descripcion{
+    background: rgba(255,255,255,1);
+    margin: 5px;
+    padding: 5px;
+}
+div#infoEmail,div#infoDireccion{font-size: 0.9em;}
+section#center div.container div#frmDescripcion div.descripcion div.movimientos{
+    border:dashed 1px rgba(200,200,200,1);
+    display: inline-block;
+    height: 220px;
+    padding: 5px;
+    vertical-align: top;
+    width: 200px;
+}
+
+section#center div.container div#frmDescripcion div.descripcion div.proveedor{
+    border: dashed 1px rgba(200,200,200,1);
+    display: inline-block;
+    padding: 5px;
+    vertical-align: top;
+    width: 200px
+}
+section#center div.container div#frmDescripcion div.descripcion div.proveedor div#infoRazon_social{
+    background: rgba(230,230,230,1);
+    font-size: 1.1em;
+    text-align: center;
+}
+section#center div.container div#frmDescripcion div.descripcion div.proveedor div.info{
+  padding: 4px;
+}
+section#center div.container div#frmDescripcion div.descripcion div.proveedor div.info div.label{
+    color: rgba(180,180,180,1);
+}
+section#center div.container div#frmDescripcion div.descripcion div.proveedor div.info div.value{
+    color: rgba(0,0,150,1);
+}
+
+/* END *** FORMULARIO DE DESCRIPCION *** END */
+div#frmVenta{width: 675px;}
+/* Venta */
+div#mVenta  div.field{padding: 5px;}
+
+/* Buscador */
+div#frmVenta div#buscador{
+    background: rgba(230,230,230,1);
+    display: none;
+    padding: 15px;
+    position: absolute;
+}
+.isVisible{display: block;}
+.isHidden{display: none !important;}
+
+div#frmVenta div#buscador div#search{
+    background: rgba(180,180,180,1);
+    min-height: 200px;
+    padding: 10px;
+    width: inherit;
+}
+div#buscador div#search div.item{
+    background: rgba(250,250,250,1);
+    border-radius: 3px;
+    cursor: pointer;
+    display: inline-block;
+    margin: 5px;
+    padding: 5px;
+    vertical-align: top;
+    width: 180px;
+}
+
+
+div#frmVenta div.marco{
+    background: rgba(255,255,255,1);
+    min-height: 300px;
+    padding: 5px;
+}
+div#frmVenta div.marco div.field{
+    cursor: pointer;
+}
+div#frmVenta div.marco div.field div.label{color: rgba(150,150,150,1);}
+
+div#frmVenta div.marco div.field div.search{
+    background: rgba(180,180,180,1);
+    height: 200px;
+    position: absolute;
+    width: inherit;
+}
+
+div#buscador{}
+div#buscador section{}
+
+.hidden{display: none !important;}
+
+/* ** inicio ** Búsqueda de producto ** Start ** */
+section#pqProducto{}
+section#pqProducto div.filter{
+    border:solid 1px #1e8bb4;
+    padding: 5px;
+}
+                section#pqProducto div.filter div.search,
+                section#pqProducto div.filter div.advance{
+                    display: inline-block;
+                    vertical-align: top;
+                }
+                 /* Caja de texto de búsqueda */
+                section#pqProducto div.filter div.search{
+                    vertical-align: bottom;
+                     width: 170px;
+                }
+                section#pqProducto div.filter div.search div.field{
+                    margin: auto;
+                    padding: 5px 5px 5px 10px;
+                    width: 150px;
+                }
+                section#pqProducto div.filter div.search div.field input{width: 150px;}
+
+                /* Configuración de venta */
+                section#pqProducto div.filter div.advance{
+                    border: solid 1px #7da315;
+                    padding: 0 0 0 10px;
+                }
+
+                section#pqProducto div.filter div.advance div.info,
+                section#pqProducto div.filter div.advance div.sell{
+                    display: inline-block;
+                    vertical-align: top;
+                }
+                section#pqProducto div.filter div.advance div.info{
+                    padding: 5px;
+                    width: 100px;
+                }
+                section#pqProducto div.filter div.advance div.sell{
+                    width: 280px;
+                }
+
+                section#pqProducto div.filter div.advance div.sell div.sp{
+                    margin: auto;
+                    width: 260px;
+                }
+                section#pqProducto div.filter div.advance div.sell div.sp div.field{
+                    display: inline-block;
+                    vertical-align: top;
+                    width: 110px;
+                }
+                section#pqProducto div.filter div.advance div.sell div.sp div.field div.textbox input{
+                    width: 100px;
+                }
+
+
+/* ** fin ** Búsqueda de producto ** End ** */
+
+
+
+
+/* Espacio para selección de cliente */
+div.marco div.sp_Cliente{
+    height: 100px;
+}
+div.marco div.sp_Cliente div.search_Cliente{
+    display: inline-block;
+    height: 90px;
+    padding: 5px;
+    vertical-align: top;
+    width: 210px;
+}
+div.marco div.sp_Cliente div.search_Cliente div#listClientes{
+    background: rgba(255,255,255,1);
+    border: solid 1px #707070;
+    position: absolute;
+    width: 180px;
+    z-index: 100;
+}
+
+/* Lista de clientes */
+div#listClientes div.item{
+    cursor: pointer;
+    margin: auto;
+    padding: 0 5px 0 5px;
+}
+div#listClientes div.item:hover{
+    background: rgba(220,220,220,1);
+}
+div#listClientes div.item div.nombre{
+    font-size: 0.9em;
+}
+div#listClientes div.item div.documento{
+    color: rgba(180,180,180,1);
+    font-size: 0.8em;
+    text-align: right;
+}
+/* Sin resultados */
+div#sin_resultados{
+     color: #990000;
+     font-size: 0.9em;
+     padding: 3px;
+     text-align: center;
+}
+
+/*  Factura - Forma de pago  */
+div.marco div.sp_Cliente div.search_Cliente div.contentFactura{
+
+}
+div.marco div.sp_Cliente div.search_Cliente div.contentFactura div.field {
+    display: inline-block;
+    width: 80px;
+    vertical-align: top;
+}
+
+div.marco div.sp_Cliente div.search_Cliente div.contentFactura div#fieldForma_pago{
+    text-align: center;
+    width: 100px;
+}
+
+div.marco div.sp_Cliente div.search_Cliente div.contentFactura div.field input{
+    width: 80px;
+}
+
+/* Datos de cliente */
+div.marco div.sp_Cliente div.data_Cliente{
+    /* background: rgba(105, 42, 210, 0.3); */
+    display: inline-block;
+    height: 90px;
+    padding:5px;
+    vertical-align: top;
+    width: 400px;
+}
+
+div.marco div.sp_Cliente div.data_Cliente div.titulo_cliente{
+    background: rgba(237, 196, 220, 0.52);
+    border-bottom: 1px solid rgb(200, 78, 151);
+    color: rgba(137, 5, 146, 0.88);
+    padding: 2px;
+    text-align: center;
+}
+
+div.marco div.sp_Cliente div.data_Cliente div.fila_cliente{
+    font-size: 0.9em;
+    padding: 2px;
+    text-align: center;
+}
+
+div.marco div.sp_Cliente div.data_Cliente div.fila_cliente div.cell_cliente{
+    display: inline-block;
+    vertical-align: top;
+    width: 90px;
+}
+div.marco div.sp_Cliente div.data_Cliente div.fila_cliente div.cell_cliente div.value{
+    color: rgba(201, 79, 152, 0.84);
+}
+
+div.marco div.sp_Cliente div.data_Cliente div.fila_cliente div.cell_cliente div.label{
+    color: rgba(150,150,150,1);
+}
+
+
+div.marco div.sp_Cliente div.data_Cliente div.fila_cliente div#data_direccion{
+    color: rgba(109, 28, 140, 0.8);
+    padding: 2px;
+}
+
+
+div.marco div.sp_Cliente div.data_Cliente div.fila_cliente div#cell_direccion{
+    width: 180px;
+}
+
+            /* Datos primarios */
+            div.marco div.sp_Cliente div.data_Cliente div.primary{padding: 2px 0px 2px 0px;}
+            div.marco div.sp_Cliente div.data_Cliente div.primary div#data_nombre{}
+            div.marco div.sp_Cliente div.data_Cliente div.primary div#data_documento{text-align: right;}
+
+            /* Datos secundarios */
+            div.marco div.sp_Cliente div.data_Cliente div.secundary{padding: 2px 0px 2px 0px;}
+            div.marco div.sp_Cliente div.data_Cliente div.secundary div#data_direccion{}
+            div.marco div.sp_Cliente div.data_Cliente div.secundary div#data_telefono{text-align: right;}
+
+
+/* Búsqueda de productos */
+div.marco div.sp_Producto{
+    height: 150px;
+}
+div.marco div.sp_Producto div.search_Producto{
+    display: inline-block;
+    height: 90px;
+    padding: 5px;
+    vertical-align: top;
+    width: 210px;
+}
+
+/* Lista de productos */
+div.marco div#cell_search_producto div#listProducto{
+    background: rgba(255,255,255,1);
+    border: solid 1px #7da315;
+    position: absolute;
+    width: 240px;
+}
+div#listProducto div.item{
+    cursor:pointer;
+    margin: auto;
+    padding: 0 5px 0 5px;
+}
+div#listProducto div.item:hover{background: rgba(220,220,220,1);}
+div#listProducto div.item div.descripcion{font-size: 0.9em;}
+div#listProducto div.item div.codigo{font-size: 0.8em;text-align: right;}
+
+/* Data producto */
+div.marco div.sp_Producto div.data_Producto{
+    display: inline-block;
+    height: 90px;
+    vertical-align: top;
+    width: 440px;
+}
+div.marco div.sp_Producto div.data_Producto div.titulo_producto{
+    background: rgba(237, 196, 220, 0.52);
+    border-bottom: 1px solid rgb(200, 78, 151);
+    color: rgba(137, 5, 146, 0.88);
+    padding: 2px;
+    text-align: center;
+}
+
+div.marco div.sp_Producto div.data_Producto div.fila_producto{}
+div.marco div.sp_Producto div.data_Producto div.fila_producto div#info_unidades,
+div.marco div.sp_Producto div.data_Producto div.fila_producto div.set_Producto{
+    display: inline-block;
+    vertical-align: top;
+    width: 125px;
+}
+
+div.marco div.sp_Producto div.data_Producto div.fila_producto div#info_unidades div.encabezado{
+    background: rgba(237, 196, 220, 0.52);
+    border-bottom: 1px solid rgb(200, 78, 151);
+    text-align: center;
+}
+div.marco div.sp_Producto div.data_Producto div.fila_producto div#info_unidades div.fila,
+div.row_formula{
+    cursor: pointer;
+}
+div.marco div.sp_Producto div.data_Producto div.fila_producto div#info_unidades div.fila,
+div.row_formula:hover{
+    background: rgba(137, 5, 146, 0.1);
+}
+
+div.marco div.sp_Producto div.data_Producto div.fila_producto div#info_unidades div.fila div.unidad,
+div.row_formula div.unidad{
+    display: inline-block;
+    width: 80px;
+}
+
+div.marco div.sp_Producto div.data_Producto div.fila_producto div#info_unidades div.fila div.disponible,
+div.row_formula div.disponible{
+    display: inline-block;
+    text-align: right;
+    width: 40px;
+}
+
+div.marco div.sp_Producto div.data_Producto div.fila_producto div.set_Producto{
+    width: 270px;
+}
+div.marco div.sp_Producto div.data_Producto div.fila_producto div.set_Producto div.sp{}
+div.marco div.sp_Producto div.data_Producto div.fila_producto div.set_Producto div.sp div.field{
+    display: inline-block;
+    vertical-align: top;
+    width: 120px;
+}
+div.marco div.sp_Producto div.data_Producto div.fila_producto div.set_Producto div.sp div.field div.textbox input{width: 100px;}
+
+div#s_busqueda_producto{
+    height: 150px;
+}
+
+div#s_busqueda_producto div#cell_setter_producto div.set_Producto div#listFracciones{
+    background: rgba(255,255,255,1);
+    border: solid 1px rgba(100,100,100,1);
+    padding: 2px;
+    position: absolute;
+    z-index: 1000;
+}
+div#s_busqueda_producto div#cell_setter_producto div.set_Producto div#listFracciones div.item:hover{
+     background: rgba(137, 5, 146, 0.1);
+}
+
+
+/* Detalle de factura */
+div.marco  div.detalle_factura{
+    display: inline-block;
+    min-height: 60px;
+    vertical-align: top;
+    width: 720px;
+}
+
+div.marco  div.detalle_factura div.configuracion_Producto{
+    border: solid 1px #3d4f0c;
+}
+/* Información del producto en inventario */
+div.marco  div.detalle_factura div.configuracion_Producto div.info_Producto{
+    background: #9ddff5;
+    display: inline-block;
+    height: 90px;
+    padding: 5px;
+    vertical-align: top;
+    width: 150px;
+}
+
+/* Información ---> Mostrada cuando se selecciona el producto */
+div.info{
+    display: inline-block;
+    margin: 0 0 0 20px;
+    vertical-align: top;
+}
+
+/* div.marco  div.detalle_factura div.configuracion_Producto div.info_Producto  */
+div#info_descripcion{
+    margin: 0 !important;
+
+}
+
+
+
+/* Unidades de medida y stock */
+div.marco  div.detalle_factura div.configuracion_Producto div.info_Producto div#info_unidades{
+    margin: auto;
+    padding: 5px;
+    width: 130px;
+}
+div.info_Producto div#info_unidades div.encabezado,
+div.info_Producto div#info_unidades div.fila{
+    font-size: 0.9em;
+     /* Quitar selección de texto */
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+ div.info_Producto div#info_unidades div.encabezado div,
+ div.info_Producto div#info_unidades div.fila div{
+     display: inline-block;
+     vertical-align: top;
+     width: 60px;
+ }
+
+div.info_Producto div#info_unidades div.fila{
+    cursor: pointer;
+}
+div.info_Producto div#info_unidades div.fila:hover{background: rgba(220,220,220,1);}
+
+div.info_Producto div#info_unidades div.fila div{
+    text-align: center;
+}
+
+div.marco div.sp_Producto div.detalle_factura div.configuracion_Producto div.set_Producto{
+    display: inline-block;
+    padding: 5px;
+    vertical-align: top;
+}
+
+div.marco div.sp_Producto div.detalle_factura div.configuracion_Producto div.set_Producto div.sp{
+    padding: 0 0 0 20px;
+}
+
+div.marco div.sp_Producto div.detalle_factura div.configuracion_Producto div.set_Producto div.sp div.field{
+    display: inline-block;
+    vertical-align: top;
+    width: 120px;
+}
+
+/* Datagrid de productos */
+div.detalle_factura{
+    padding: 4px;
+}
+/* Datagrid */
+div.datagrid{
+    font-size: 13px;
+}
+/* Control de operaciones: Eliminar - Editar */
+div.datagrid div#Operation{
+    height: 26px;
+}
+div.datagrid div#Operation div.center{
+    margin: auto;
+    width: 100px;
+}
+div.datagrid div#Operation div.center div#btnEliminar_fila{
+    background: rgba(226, 220, 223, 0.52);
+    border-bottom: 1px solid rgb(160, 157, 159);
+    border-radius: 5px;
+    border-top: 1px solid rgb(146, 145, 145);
+    color: rgba(161, 153, 161, 0.88);
+    cursor: pointer;
+
+    height: 20px;
+    margin: auto;
+    text-align: center;
+    width: 80px;
+}
+div.datagrid div#Operation div.center div#btnEliminar_fila div.label{
+    padding: 2px;
+}
+
+
+
+div.datagrid div.encabezado,
+div.datagrid div.fila,div.row_formula{
+    height: 20px;
+}
+div.datagrid div.encabezado{
+  background: rgba(201, 79, 152,1);
+}
+
+div.datagrid div.fila,
+div.row_formula:hover{
+    background: rgba(213, 159, 20,0.2);
+    cursor: pointer;
+}
+/* Pinta la fila selccionada */
+.pintar_fila{
+    background: rgba(237, 196, 220, 0.52) !important;
+}
+
+
+div.datagrid div.encabezado div{
+    border: solid 1px rgba(17, 17, 17, 0.2);
+    color: rgba(255,255,255,1);
+    display: inline-block;
+    height: 16px;
+    padding: 3px 0 0 0;
+    text-align: center;
+    vertical-align: top;
+}
+/* Columnas encabezado */
+div.datagrid div.encabezado div.codigo,
+div.datagrid div.fila div.codigo,
+div.row_formula div.codigo{width: 70px;}
+div.datagrid div.encabezado div.descripcion,
+div.datagrid div.fila div.descripcion,
+div.row_formula div.descripcion{width: 300px;}
+div.datagrid div.encabezado div.unidad,
+div.datagrid div.fila div.unidad,
+div.row_formula div.unidad{width: 60px;}
+div.datagrid div.encabezado div.cantidad,
+div.datagrid div.fila div.cantidad,
+div.row_formula div.cantidad{width: 52px;}
+div.datagrid div.encabezado div.precio_unidad,
+div.datagrid div.fila div.precio_unidad,
+div.row_formula div.precio_unidad{width: 60px;}
+div.datagrid div.encabezado div.descuento,
+div.datagrid div.fila div.descuento,
+div.row_formula div.descuento{width: 70px;}
+div.datagrid div.encabezado div.precio,
+div.datagrid div.fila div.precio,
+div.row_formula div.precio{width: 70px;}
+
+div.datagrid div.fila div,
+div.row_formula div{
+    margin: 0 0 0 4px;
+}
+
+/* Filas */
+div.datagrid div.fila,
+div.row_formula{
+    background: rgba(255,255,255,1);
+    border-bottom: solid 1px rgba(200,200,200,1);
+}
+
+div.datagrid div.fila div.codigo,
+div.datagrid div.fila div.descripcion,
+div.datagrid div.fila div.unidad,
+div.datagrid div.fila div.cantidad,
+div.datagrid div.fila div.precio_unidad,
+div.datagrid div.fila div.iva,
+div.datagrid div.fila div.descuento,
+div.datagrid div.fila div.precio,
+div.row_formula div.codigo,
+div.row_formula div.descripcion,
+div.row_formula div.unidad,
+div.row_formula div.cantidad,
+div.row_formula div.precio_unidad,
+div.row_formula div.iva,
+div.row_formula div.descuento,
+div.row_formula div.precio{
+    border: solid 1px rgba(17, 17, 17, 0.2);
+    color: rgb(91, 55, 166);
+    display: inline-block;
+    font-size: 0.9em;
+    height: 16px;
+    padding: 3px 0 0 0;
+    text-align: center;
+    vertical-align: top;
+}
+div.datagrid div.fila div.codigo,
+div.row_formula div.codigo{margin: 0 !important;}
+div.datagrid div.fila div.descripcion div,
+div.row_formula div.descripcion div{padding: 0 0 0 5px;}
+div.datagrid div.fila div.precio div,
+div.datagrid div.fila div.precio_unidad div,
+div.row_formula div.precio div,
+div.row_formula div.precio_unidad div{padding: 0 5px 0 0;}
+
+div.datagrid div.fila div.descripcion,
+div.row_formula div.descripcion{
+    text-align: left;
+}
+div.datagrid div.fila div.precio,
+div.datagrid div.fila div.precio_unidad,
+div.row_formula div.precio,
+div.row_formula div.precio_unidad{
+    text-align: right;
+}
+
+div.datagrid div.fila div.listFracciones{
+    display: none;
+}
+/* END *** Datagrid *** END */
+
+
+/* Items empezados */
+div#Item_empezado{
+    height: 20px;
+}
+div#Item_empezado div.label{
+    padding: 2px;
+    text-align: center;
+}
+
+
+
+/* Button Add Item */
+div.contentButton{
+    padding: 2px;
+}
+
+div.contentButton div#btnAddItem {
+    background: rgba(123, 24, 83,1);
+    border-radius: 3px;
+    color: rgba(230,230,230,1);
+    cursor: pointer;
+    height: 25px;
+    margin: auto;
+    text-align: center;
+    width: 330px;
+}
+
+div.contentButton div#btnAddItem div.label{
+    padding: 3px 0 0 0;
+}
+
+/* Resumen factura */
+div#resumen_factura div.encabezado_rf{
+    background: rgba(237, 196, 220, 0.52);
+    border-bottom: 1px solid rgba(200, 78, 151,1);
+    color: rgba(137, 5, 146, 0.88);
+    height: 15px;
+    padding: 2px;
+}
+div#resumen_factura div.fila_rf{
+    margin: auto;
+    width: 570px;
+}
+div#resumen_factura div.fila_rf div.field{
+    display: inline-block;
+    vertical-align: top;
+    width: 100px;
+}
+
+
+/* Finalizar factura */
+div#finalizar_factura{}
+
+div#finalizar_factura div#pago_factura,
+div#finalizar_factura div#contentBtn{
+    display: inline-block;
+    text-align: center;
+    vertical-align: top;
+    width: 410px;
+}
+
+div#finalizar_factura div#pago_factura{
+    width: 250px;
+}
+div#finalizar_factura div#pago_factura div.encabezado_pf{
+    background: rgba(237, 196, 220, 0.52);
+    border-bottom: 1px solid rgba(200, 78, 151,1);
+    color: rgba(137, 5, 146, 0.88);
+    height: 15px;
+    padding: 2px;
+}
+div#finalizar_factura div#pago_factura div#Contado,
+div#finalizar_factura div#pago_factura div#Credito{
+    height: 32px;
+}
+div#finalizar_factura div#pago_factura div#Contado div.label{
+    padding: 5px;
+    margin: auto;
+    width: 80px;
+}
+div#finalizar_factura div#pago_factura div#Credito div.field{
+    margin: auto;
+    width: 120px;
+}
+div#finalizar_factura div#pago_factura div#Credito div.field div.label,
+div#finalizar_factura div#pago_factura div#Credito div.field div.textbox{ display: inline-block;}
+
+div#finalizar_factura div#pago_factura div#Credito div.field input{
+    margin: 0 0 0 5px;
+    width: 60px;
+}
+
+div#finalizar_factura div#pago_factura div#Contado{text-align: center;}
+
+/* Forma de pago */
+div#fmPago{
+    text-align: center;
+}
+.contado,.credito{
+    color: rgba(0,0,255,1);
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+.credito{
+    color: rgba(255,0,0,1);
+}
+.fm_pago_error{
+    color: rgb(200,0,255);
+}
+
+/* Button Almacenar */
+
+div#finalizar_factura div#contentBtn div#btnAlmacenar,
+div#finalizar_factura div#contentBtn div#btnCotizacion{
+    background: rgba(237, 196, 220, 0.52);
+    border-bottom: 1px solid rgba(200, 78, 151,1);
+    border-radius: 5px;
+    border-top: 1px solid rgba(200, 78, 151,1);
+    color: rgba(137, 5, 146, 0.88);
+    cursor: pointer;
+    display: inline-block;
+    font-size: 14px;
+    height: 35px;
+    margin: auto;
+    text-align: center;
+    width: 150px;
+}
+div#finalizar_factura div#contentBtn div#btnAlmacenar:hover,
+div#finalizar_factura div#contentBtn div#btnCotizacion:hover{ background: rgba(237, 196, 220, 1);}
+div#finalizar_factura div#contentBtn div#btnAlmacenar div.label,
+div#finalizar_factura div#contentBtn div#btnCotizacion div.label{padding:  10px 0 0 0;}
+
+
+
+/* Sector --->>> */
+div.sector{
+    display: inline-block;
+    vertical-align: top;
+    width: 330px;
+}
+
+div.sector div.encabezado_sector {
+    background: rgba(237, 196, 220, 0.52);
+    border-bottom: 1px solid rgb(200, 78, 151);
+    color: rgba(137, 5, 146, 0.88);
+    height: 15px;
+    padding: 2px;
+}
+
+div.sector div.fila_sector{
+}
+
+/* Sector --->>>: Configuración factura  */
+div#s_configuracion_factura{}
+div#s_configuracion_factura div.field{
+    display: inline-block;
+    vertical-align: top;
+    width: 90px;
+}
+
+
+/* Sector --->>>: Buscador cliente  */
+
+div#s_busqueda_cliente{width: 350px;}
+
+div#s_busqueda_cliente div.textbox,
+div#s_busqueda_cliente div.label{
+    display: inline-block;
+    vertical-align: top;
+}
+div#s_busqueda_cliente div.textbox{
+    padding: 0 0 0 10px;
+    width: 210px;
+}
+div#s_busqueda_cliente div.textbox input{width: 210px;}
+
+div#s_busqueda_cliente div#listClientes{
+    background: rgba(255,255,255,1);
+    border: solid 1px #707070;
+
+    position: absolute;
+    width: 250px;
+    z-index: 100;
+}
+
+/* Lista de clientes */
+div#listClientes div.item{
+    cursor: pointer;
+    margin: auto;
+    padding: 0 5px 0 5px;
+}
+div#listClientes div.item:hover{
+    background: rgba(220,220,220,1);
+}
+div#listClientes div.item div.nombre{
+    font-size: 0.9em;
+}
+div#listClientes div.item div.documento{
+    color: rgba(180,180,180,1);
+    font-size: 0.8em;
+    text-align: right;
+}
+/* Sin resultados */
+div#sin_resultados{
+     color: #990000;
+     font-size: 0.9em;
+     padding: 3px;
+     text-align: center;
+}
+
+/* Datos del cliente */
+
+div#s_busqueda_cliente div.fila{
+    font-size: 0.9em;
+    padding: 2px;
+    text-align: center;
+}
+div#s_busqueda_cliente div.fila div.cell{
+    display: inline-block;
+    vertical-align: top;
+    width: 90px;
+}
+div#s_busqueda_cliente div.fila div.cell div.value{
+    color: rgba(201, 79, 152, 0.84);
+}
+div#s_busqueda_cliente div.fila div.cell div.label{
+    color: rgba(150,150,150,1);
+}
+div#s_busqueda_cliente div.fila div#data_direccion{
+    color: rgba(109, 28, 140, 0.8);
+    padding: 2px;
+}
+div#s_busqueda_cliente div.fila div#cell_direccion{
+    width: 180px;
+}
+
+/*  Búsqueda de productos  */
+div#s_busqueda_producto{width: 670px;}
+
+div#s_busqueda_producto div.cell{
+    display: inline-block;
+    vertical-align: top;
+}
+
+div#s_busqueda_producto div#cell_search_producto{
+    border-top: solid 1px rgb(240, 215, 230);
+    width: 190px;
+}
+
+div#s_busqueda_producto div#cell_setter_producto{
+    width: 470px;
+}
+
+div#s_busqueda_producto div#cell_setter_producto div#info_unidades,
+div#s_busqueda_producto div#cell_setter_producto div.set_Producto{
+    display: inline-block;
+    vertical-align: top;
+    width: 125px;
+}
+
+div#s_busqueda_producto div#cell_setter_producto div#info_unidades div.encabezado{
+    background: rgba(237, 196, 220, 0.52);
+    border-bottom: 1px solid rgb(200, 78, 151);
+    text-align: center;
+}
+
+
+div#s_busqueda_producto div#cell_setter_producto div#info_unidades div.item{
+    cursor: pointer;
+}
+div#s_busqueda_producto div#cell_setter_producto div#info_unidades div.item:hover{
+    background: rgba(137, 5, 146, 0.1);
+}
+
+div#s_busqueda_producto div#cell_setter_producto div#info_unidades div.item div.unidad{
+    display: inline-block;
+    width: 80px;
+}
+
+div#s_busqueda_producto div#cell_setter_producto div#info_unidades div.item div.disponible{
+    display: inline-block;
+    text-align: right;
+    width: 40px;
+}
+/* Setter productos */
+div#s_busqueda_producto div#cell_setter_producto div.fila{
+    height: 80px;
+}
+
+div#s_busqueda_producto div#cell_setter_producto div.set_Producto{width:340px;}
+
+div#s_busqueda_producto div#cell_setter_producto div.set_Producto div.field{
+    display: inline-block;
+    padding: 1px;
+    vertical-align: top;
+    width: 80px;
+}
+
+
+
+/* Formulas */
+div#frm_buscar_formula{
+    background: rgba(250, 250, 250, 1);
+    border-bottom: solid 4px rgb(237, 196, 220);
+    height: 235px;
+    position: absolute;
+    width: 735px;
+}
+
+div#frm_buscar_formula div.titulo_formula{
+    color: rgba(200,2,200,.6);
+    font-size: 1.1em;
+    font-weight: bold;
+    height: 24px;
+    text-align: center;
+
+}
+
+div#frm_buscar_formula div.titulo_formula div.label{
+    padding: 5px 0 0 0;
+}
+
+div#frm_buscar_formula div.fila_formula{
+    display: inline-block;
+    vertical-align: top;
+}
+
+div#frm_buscar_formula div.cell_formula{
+    background: rgba(255,255,255,1);
+    display: inline-block;
+    min-height: 100px;
+    vertical-align: top;
+    min-width: 200px;
+}
+div#frm_buscar_formula div.cell_formula div.encabezado{
+    background: rgb(170, 81, 133);
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+/* tamaño de buscadores */
+div#buscador_formula{height: 180px;}
+
+/* Formula rapida */
+div#buscador_formula div#listColors_fast_formula{
+    background: rgba(255,255,255,1);
+    margin: 0 0 0 10px;
+    position: absolute;
+    width: 190px;
+}
+div#buscador_formula div#listColors_fast_formula div.row{
+    cursor: pointer;
+    font-size: .9em;
+}
+div#buscador_formula div#listColors_fast_formula div.row:hover{
+    background: rgba(245,245,245,1);
+}
+div#buscador_formula div#listColors_fast_formula div.row:active{
+    background: rgba(235,235,235,1);
+}
+
+/* Message fast formula */
+div#buscador_formula div#message_fast_formula{
+    color: rgba(180,140,140,1);
+    padding: 10px 0 0 0;
+}
+
+/* Button set formula a datagrid */
+div#frm_buscar_formula div.content_button{
+    height: 30px;
+}
+/* content btn insertar */
+div#frm_buscar_formula div#content_btn_insertar{
+       display: inline-block;
+       vertical-align: top;
+}
+
+div#frm_buscar_formula div.content_button div#btn_insertar_formula_grid{
+    background: rgba(237, 196, 220, 0.52);
+    border-bottom: 1px solid rgba(200, 78, 151,1);
+    border-radius: 5px;
+    border-top: 1px solid rgba(200, 78, 151,1);
+    color: rgba(137, 5, 146, 0.88);
+    cursor: pointer;
+    font-size: 14px;
+    height: 30px;
+    margin: 12px auto auto auto;
+    width: 200px;
+
+}
+div#btn_insertar_formula_grid div.label{
+    padding: 7px;
+    text-align: center;
+}
+
+/* Maquina */
+div#cell_maquina{
+    width: 250px;
+}
+div#cell_maquina div#estructura_maquina{
+    border-bottom: solid 1px rgba(220,220,220,1);
+    margin: auto;
+    padding: 5px 0 5px 0;
+    width: 230px;
+}
+/* Buscador */
+div#cell_maquina div#buscador_maquina{
+    margin: auto;
+    width: 230px;
+}
+div#cell_maquina div#buscador_maquina div.label{
+    text-align: center;
+}
+
+/* Generales para buscador */
+div.buscador{}
+div.buscador div.label{
+    color: rgba(200,200,200,1);
+    padding: 3px 0 0 0;
+    text-align: center;
+}
+
+div.buscador div.textbox{
+    margin: auto;
+    width: 180px;
+}
+div.buscador input{
+    border-bottom: 1px solid rgba(200,200,200,1);
+    padding: 0 0 2px 5px;
+    width: 180px;
+}
+
+div.buscador input:focus{
+    border-bottom: 1px solid rgb(170, 81, 133);
+}
+
+/* Listas: Generalizaciones */
+div.list{
+    padding: 2px 0 0 0;
+    /* Quitar selección de texto */
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+div.list div.row{
+    border-bottom: 0.5px solid rgba(220,220,220,1);
+    cursor: pointer;
+
+}
+div.list div.row:hover{
+    background: rgba(200,20,200,.1);
+}
+div.list div.row:active{background: rgba(200,20,200,.3);}
+
+/* Listas: Individualizaciones */
+.listMarca{
+    margin: auto;
+    width: 90px;
+}
+.listModelo{
+    margin: auto;
+    text-align: center;
+    width: 80px;
+}
+.listDescripcion{
+    margin: auto;
+    text-align: center;
+    width: 160px;
+}
+
+/* Estructura de máquina */
+div.estructura{
+     /* Quitar selección de texto */
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+div.estructura div.label,
+div.estructura div.value{
+    display: inline-block;
+    vertical-align: top;
+}
+
+div.estructura div.label{
+    color: rgba(160,160,160,1);
+    padding: 0 10px 0 0;
+}
+div.estructura div.value{
+    cursor: pointer;
+}
+
+/* Fórmula ---> */
+
+div#cell_formula{
+    min-width: 220px !important;
+}
+
+div#buscador_formula{
+    margin: auto;
+    padding: 5px 0 0 0;
+    width: 210px;
+}
+
+div#buscador_formula div.textbox{padding: 0 0 5px 0;}
+
+/* Setter */
+div#cell_setter_formula{
+    width: 240px !important;
+}
+
+div#cell_setter_formula div.align{
+    margin: auto;
+    width: 220px;
+}
+
+div#cell_setter_formula div.field_formula{
+    display: inline-block;
+    vertical-align: top;
+    width: 70px;
+}
+
+div#cell_setter_formula div.field_formula input{
+    border-bottom: 1px solid rgba(200,200,200,1);
+    padding: 0 0 2px 5px;
+    width: 60px;
+}
+
+ div#cell_setter_formula div.field_formula input:focus{
+    border-bottom: 1px solid rgb(170, 81, 133);
+}
+
+/* Colores - Peso */
+div#listColores{
+    height: 173px;
+    margin: auto;
+    padding: 5px 0 0 0;
+    width: 230px;
+}
+div#listColores div.encabezado{}
+div#listColores div.row{
+    cursor: pointer;
+            /* Quitar selección de texto */
+                    -webkit-user-select: none;
+                    -moz-user-select: none;
+                    -ms-user-select: none;
+                    user-select: none;
+}
+div#listColores div.row:hover{
+    background: rgba(220,220,220,1);
+
+}
+div#listColores div.encabezado div.color,
+div#listColores div.row div.color,
+div#listColores div.row div.peso,
+div#listColores div.encabezado div.peso{
+    display: inline-block;
+    vertical-align: top;
+}
+div#listColores div.encabezado div.color,
+div#listColores div.row div.color{
+    padding: 0 10px 0 0;
+    width: 170px;
+}
+div#listColores div.row div.color{
+    font-size: 0.85em;
+    padding: 0 10px 0 5px !important;
+}
+div#listColores div.encabezado div.peso,
+div#listColores div.row div.peso{
+    text-align: center;
+    width: 40px;
+}
+
+/* List cantidad de formula */
+div#listUnidad_medida_formula{
+    background: rgba(255,255,255,1);
+    position: absolute;
+    text-align: center;
+    width: 75px;
+}
+
+div#listUnidad_medida_formula div.row{
+    border-bottom: solid 1px rgba(230,230,230,1);
+    cursor: pointer;
+}
+div#listUnidad_medida_formula div.row:hover{
+    background: rgba(200,20,200,.1);
+}
+div#listUnidad_medida_formula div.row:active{
+    background: rgba(200,20,200,.3);
+}
+
+/* No hay existencias en inventario --- > Ni empezados */
+.empty{
+    color:rgba(255,0,0,1);
+}
+
+
+/*  Botón que sirve para acceder a las fórmulas  */
+div#btnAcces_formula{
+    background: rgba(237, 196, 220, 0.2);
+    border-bottom: 1px solid rgba(200, 78, 151, .3);
+    border-radius: 5px;
+    border-top: 1px solid rgba(200, 78, 151,.3);
+    color: rgba(137, 5, 146, .4);
+    cursor: pointer;
+    font-size: 14px;
+    height: 25px;
+    margin: 10px auto 10px auto;
+    width: 100px;
+
+    /* Quitar selección de texto */
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+div#btnAcces_formula:hover{
+    background: rgba(237, 196, 220, 0.6);
+    border-bottom: 1px solid rgba(200, 78, 151, .6);
+    border-top: 1px solid rgba(200, 78, 151,.6);
+    color: rgba(137, 5, 146, .8);
+}
+
+div#btnAcces_formula:active{
+    background: rgba(237, 196, 220, 1);
+    border-bottom: 1px solid rgba(200, 78, 151, 1);
+    border-top: 1px solid rgba(200, 78, 151,1);
+    color: rgba(137, 5, 146, 1);
+
+}
+
+div#btnAcces_formula div.label{
+    padding: 6px;
+    text-align: center;
+}
+
+/* Boton para cerrar espaccio donde se agregan las fórmulas */
+div#btnClose_formula,div#btnClose_abono{
+    background: rgba(237, 196, 220, 0.1);
+    border-bottom: 1px solid rgba(200, 78, 151, .3);
+    border-radius: 5px;
+    border-top: 1px solid rgba(200, 78, 151,.3);
+    color: rgba(137, 5, 146, .5);
+    cursor: pointer;
+    height: 20px;
+    margin: 5px 0 0 30px;
+    position: absolute;
+    text-align: center;
+    width: 20px;
+
+      /* Quitar selección de texto */
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+div#btnClose_formula:hover,div#btnClose_abono:hover{
+    background: rgba(237, 196, 220, .6);
+    border-bottom: 1px solid rgba(200, 78, 151, .7);
+    border-radius: 5px;
+    border-top: 1px solid rgba(200, 78, 151,.7);
+    color: rgba(137, 5, 146, .6);
+}
+
+div#btnClose_formula:active,div#btnClose_abono:active{
+    background: rgba(237, 196, 220, 1);
+    border-bottom: 1px solid rgba(200, 78, 151, 1);
+    border-radius: 5px;
+    border-top: 1px solid rgba(200, 78, 151,1);
+    color: rgba(137, 5, 146, 1);
+}
+
+
+div#btnClose_formula div.label,
+div#btnClose_abono div.label{
+    padding: 2px;
+}

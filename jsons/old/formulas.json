@@ -1,0 +1,643 @@
+[{
+	"Id": 640,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE58",
+	"Descripcion": "BC Blanco galaxia"
+}, {
+	"Id": 399,
+	"Id_grupo": 1107,
+	"Id_marca": 1059,
+	"Codigo": "BICMAX01",
+	"Descripcion": "BC Perla Blanca fina"
+}, {
+	"Id": 266,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE18",
+	"Descripcion": "BC000 Verde cristal"
+}, {
+	"Id": 606,
+	"Id_grupo": 1107,
+	"Id_marca": 1010,
+	"Codigo": "BICCAR17",
+	"Descripcion": "BC3180 Amarillo cromo"
+}, {
+	"Id": 297,
+	"Id_grupo": 1107,
+	"Id_marca": 1010,
+	"Codigo": "BICCAR12",
+	"Descripcion": "BC3322 Rojo brillante"
+}, {
+	"Id": 585,
+	"Id_grupo": 1107,
+	"Id_marca": 1010,
+	"Codigo": "BICCAR14",
+	"Descripcion": "BC3324 Rojo limpio"
+}, {
+	"Id": 291,
+	"Id_grupo": 1107,
+	"Id_marca": 1010,
+	"Codigo": "BICCAR06",
+	"Descripcion": "BC3347 Marron"
+}, {
+	"Id": 1710,
+	"Id_grupo": 1107,
+	"Id_marca": 1010,
+	"Codigo": "BICCAR20",
+	"Descripcion": "BC3351 Rojo Oscuro Transparente"
+}, {
+	"Id": 293,
+	"Id_grupo": 1107,
+	"Id_marca": 1010,
+	"Codigo": "BICCAR08",
+	"Descripcion": "BC3390 Cafe oscuro"
+}, {
+	"Id": 298,
+	"Id_grupo": 1107,
+	"Id_marca": 1010,
+	"Codigo": "BICCAR13",
+	"Descripcion": "BC3926 Negro"
+}, {
+	"Id": 256,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE08",
+	"Descripcion": "BC501 Rojo Oxido o transparente"
+}, {
+	"Id": 253,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE05",
+	"Descripcion": "BC505 Azul Verdoso"
+}, {
+	"Id": 270,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE22",
+	"Descripcion": "BC509 Azul Rojizo"
+}, {
+	"Id": 263,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE15",
+	"Descripcion": "BC513 Ocre transparente"
+}, {
+	"Id": 268,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE20",
+	"Descripcion": "BC515 Amarillo Oxido"
+}, {
+	"Id": 497,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE31",
+	"Descripcion": "BC517 Verde Oscuro"
+}, {
+	"Id": 498,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE32",
+	"Descripcion": "BC519 Verde Oliva"
+}, {
+	"Id": 499,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE33",
+	"Descripcion": "BC521 Marron Azuloso"
+}, {
+	"Id": 265,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE17",
+	"Descripcion": "BC523 Aluminio grano fino"
+}, {
+	"Id": 255,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE07",
+	"Descripcion": "BC525 Violeta"
+}, {
+	"Id": 261,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE13",
+	"Descripcion": "BC529 Blanco"
+}, {
+	"Id": 500,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE34",
+	"Descripcion": "BC533 Marron Brown"
+}, {
+	"Id": 610,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE53",
+	"Descripcion": "BC537 Rojo amarilloso"
+}, {
+	"Id": 502,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE36",
+	"Descripcion": "BC539 Rojo Claro"
+}, {
+	"Id": 609,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE52",
+	"Descripcion": "BC540 Rojo Salmon"
+}, {
+	"Id": 503,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE37",
+	"Descripcion": "BC541 Rojo Burdeos"
+}, {
+	"Id": 521,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE51",
+	"Descripcion": "BC543 Rojo Oxido"
+}, {
+	"Id": 504,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE38",
+	"Descripcion": "BC545 Magenta Azulado"
+}, {
+	"Id": 262,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE14",
+	"Descripcion": "BC549 Azul intermedio"
+}, {
+	"Id": 505,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE39",
+	"Descripcion": "BC553 Azul Luminoso"
+}, {
+	"Id": 1740,
+	"Id_grupo": 1107,
+	"Id_marca": 1010,
+	"Codigo": "BICCAR",
+	"Descripcion": "BC5555 Azul Oceano"
+}, {
+	"Id": 251,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE03",
+	"Descripcion": "BC557 Negro Amarilloso"
+}, {
+	"Id": 496,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE30",
+	"Descripcion": "BC561 Negro Azulado"
+}, {
+	"Id": 273,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE25",
+	"Descripcion": "BC565 Blanco ultrafino"
+}, {
+	"Id": 257,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE09",
+	"Descripcion": "BC569 Verde Oro"
+}, {
+	"Id": 501,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE35",
+	"Descripcion": "BC573 Amarillo oro"
+}, {
+	"Id": 494,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BCIXE28",
+	"Descripcion": "BC577 Base Mateante"
+}, {
+	"Id": 274,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE26",
+	"Descripcion": "BC581 Amarillo brillante"
+}, {
+	"Id": 507,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE40",
+	"Descripcion": "BC583 Amarillo Verdoso"
+}, {
+	"Id": 508,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE41",
+	"Descripcion": "BC586 Naranja"
+}, {
+	"Id": 509,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE42",
+	"Descripcion": "BC588 Perla Amarilla"
+}, {
+	"Id": 264,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE16",
+	"Descripcion": "BC590 Perla Violeta"
+}, {
+	"Id": 510,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE43",
+	"Descripcion": "BC592 Perla Roja"
+}, {
+	"Id": 586,
+	"Id_grupo": 1107,
+	"Id_marca": 1010,
+	"Codigo": "BICCAR15",
+	"Descripcion": "BC5928 Negro intenso"
+}, {
+	"Id": 511,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE44",
+	"Descripcion": "BC595 Perla Azul"
+}, {
+	"Id": 512,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE45",
+	"Descripcion": "BC597 Perla Blanca"
+}, {
+	"Id": 259,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE11",
+	"Descripcion": "BC598 Perla Blanca extrafino"
+}, {
+	"Id": 252,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE04",
+	"Descripcion": "BC599 Perla Cobre"
+}, {
+	"Id": 513,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE46",
+	"Descripcion": "BC601 Perla dorada"
+}, {
+	"Id": 515,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE47",
+	"Descripcion": "BC603 Perla azul fina"
+}, {
+	"Id": 260,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE12",
+	"Descripcion": "BC604 Perla Verde"
+}, {
+	"Id": 267,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE19",
+	"Descripcion": "BC606 Rojo Perla fina"
+}, {
+	"Id": 258,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE10",
+	"Descripcion": "BC608 Aluminio lenticular extrafino"
+}, {
+	"Id": 517,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE48",
+	"Descripcion": "BC611 Aluminio satinado medio"
+}, {
+	"Id": 518,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE49",
+	"Descripcion": "BC614 Aluminio lenticular grueso"
+}, {
+	"Id": 269,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE21",
+	"Descripcion": "BC619 Aluminio extrafino"
+}, {
+	"Id": 520,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE50",
+	"Descripcion": "BC623 Aluminio fino"
+}, {
+	"Id": 495,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE29",
+	"Descripcion": "BC628 Aluminio medio"
+}, {
+	"Id": 250,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE02",
+	"Descripcion": "BC632 Aluminio grano grueso"
+}, {
+	"Id": 254,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE06",
+	"Descripcion": "BC637 Aluminio lenticular fino"
+}, {
+	"Id": 294,
+	"Id_grupo": 1107,
+	"Id_marca": 1010,
+	"Codigo": "BICCAR09",
+	"Descripcion": "BC724 Amarillo taxi"
+}, {
+	"Id": 288,
+	"Id_grupo": 1107,
+	"Id_marca": 1010,
+	"Codigo": "BICCAR03",
+	"Descripcion": "BCP33019 Perla Plata diamante"
+}, {
+	"Id": 292,
+	"Id_grupo": 1107,
+	"Id_marca": 1010,
+	"Codigo": "BICCAR07",
+	"Descripcion": "BCP33025 Blanco"
+}, {
+	"Id": 289,
+	"Id_grupo": 1107,
+	"Id_marca": 1010,
+	"Codigo": "BICCAR04",
+	"Descripcion": "BCP33427 Violeta Azuloso"
+}, {
+	"Id": 295,
+	"Id_grupo": 1107,
+	"Id_marca": 1010,
+	"Codigo": "BICCAR10",
+	"Descripcion": "BCP33505 Perla Azul"
+}, {
+	"Id": 296,
+	"Id_grupo": 1107,
+	"Id_marca": 1010,
+	"Codigo": "BICCAR11",
+	"Descripcion": "BCP33527 Azul profundo"
+}, {
+	"Id": 287,
+	"Id_grupo": 1107,
+	"Id_marca": 1010,
+	"Codigo": "BICCAR02",
+	"Descripcion": "BCP33696 Verde Amarilloso"
+}, {
+	"Id": 1726,
+	"Id_grupo": 1107,
+	"Id_marca": 1010,
+	"Codigo": "BICCAR25",
+	"Descripcion": "BCP33912 Aluminio Medio"
+}, {
+	"Id": 1727,
+	"Id_grupo": 1107,
+	"Id_marca": 1010,
+	"Codigo": "BICCAR26",
+	"Descripcion": "BCP33918 Aluminio Lecticular Fino"
+}, {
+	"Id": 290,
+	"Id_grupo": 1107,
+	"Id_marca": 1010,
+	"Codigo": "BICCAR05",
+	"Descripcion": "BCP5000 Transparente mezcla"
+}, {
+	"Id": 286,
+	"Id_grupo": 1107,
+	"Id_marca": 1010,
+	"Codigo": "BICCAR01",
+	"Descripcion": "BCP55929 Negro Azuloso"
+}, {
+	"Id": 639,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE56",
+	"Descripcion": "BCPRLX4 Cristal Azul"
+}, {
+	"Id": 599,
+	"Id_grupo": 1107,
+	"Id_marca": 1010,
+	"Codigo": "BICCAR16",
+	"Descripcion": "P5100 Transparente especial poliester"
+}, {
+	"Id": 275,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE27",
+	"Descripcion": "PLUS002 Perla Roja interferencia"
+}, {
+	"Id": 317,
+	"Id_grupo": 1105,
+	"Id_marca": 1010,
+	"Codigo": "POLCAR05",
+	"Descripcion": "POL Aluminio lenticular fino"
+}, {
+	"Id": 402,
+	"Id_grupo": 1105,
+	"Id_marca": 1010,
+	"Codigo": "POLCAR07",
+	"Descripcion": "POL Amarillo"
+}, {
+	"Id": 313,
+	"Id_grupo": 1105,
+	"Id_marca": 1010,
+	"Codigo": "POLCAR01",
+	"Descripcion": "POL Blanco"
+}, {
+	"Id": 600,
+	"Id_grupo": 1105,
+	"Id_marca": 1010,
+	"Codigo": "POLCAR10",
+	"Descripcion": "POL1041 Amarillo cromo rojizo"
+}, {
+	"Id": 695,
+	"Id_grupo": 1105,
+	"Id_marca": 1010,
+	"Codigo": "POLCAR20",
+	"Descripcion": "POL1322 Rojo brillante"
+}, {
+	"Id": 605,
+	"Id_grupo": 1105,
+	"Id_marca": 1010,
+	"Codigo": "POLCAR16",
+	"Descripcion": "POL1340 Rojo medio"
+}, {
+	"Id": 601,
+	"Id_grupo": 1105,
+	"Id_marca": 1010,
+	"Codigo": "POLCAR13",
+	"Descripcion": "POL724 Amarillo taxi"
+}, {
+	"Id": 282,
+	"Id_grupo": 1105,
+	"Id_marca": 1056,
+	"Codigo": "POLCOL07",
+	"Descripcion": "POL810 Amarillo claro"
+}, {
+	"Id": 523,
+	"Id_grupo": 1105,
+	"Id_marca": 1056,
+	"Codigo": "POLCOL12",
+	"Descripcion": "POL815 Amarillo puro"
+}, {
+	"Id": 645,
+	"Id_grupo": 1105,
+	"Id_marca": 1056,
+	"Codigo": "POLCOL14",
+	"Descripcion": "POL819 Amarillo verdoso"
+}, {
+	"Id": 279,
+	"Id_grupo": 1105,
+	"Id_marca": 1056,
+	"Codigo": "POLCOL04",
+	"Descripcion": "POL825 Ocre"
+}, {
+	"Id": 281,
+	"Id_grupo": 1105,
+	"Id_marca": 1056,
+	"Codigo": "POLCOL06",
+	"Descripcion": "POL830 Azul"
+}, {
+	"Id": 522,
+	"Id_grupo": 1105,
+	"Id_marca": 1056,
+	"Codigo": "POLCOL11",
+	"Descripcion": "POL840 Blanco"
+}, {
+	"Id": 285,
+	"Id_grupo": 1105,
+	"Id_marca": 1056,
+	"Codigo": "POLCOL10",
+	"Descripcion": "POL848 Naranja"
+}, {
+	"Id": 284,
+	"Id_grupo": 1105,
+	"Id_marca": 1056,
+	"Codigo": "POLCOL09",
+	"Descripcion": "POL852 Rojo organico"
+}, {
+	"Id": 283,
+	"Id_grupo": 1105,
+	"Id_marca": 1056,
+	"Codigo": "POLCOL08",
+	"Descripcion": "POL856 Verde puro"
+}, {
+	"Id": 280,
+	"Id_grupo": 1105,
+	"Id_marca": 1056,
+	"Codigo": "POLCOL05",
+	"Descripcion": "POL880 Negro"
+}, {
+	"Id": 278,
+	"Id_grupo": 1105,
+	"Id_marca": 1056,
+	"Codigo": "POLCOL03",
+	"Descripcion": "POL930 Azul puro"
+}, {
+	"Id": 276,
+	"Id_grupo": 1105,
+	"Id_marca": 1056,
+	"Codigo": "POLCOL01",
+	"Descripcion": "POL940 Blanco puro"
+}, {
+	"Id": 656,
+	"Id_grupo": 1105,
+	"Id_marca": 1056,
+	"Codigo": "POLCOL15",
+	"Descripcion": "POL945 Magenta"
+}, {
+	"Id": 657,
+	"Id_grupo": 1105,
+	"Id_marca": 1056,
+	"Codigo": "POLCOL16",
+	"Descripcion": "POL946 Rojo Bordeaux"
+}, {
+	"Id": 608,
+	"Id_grupo": 1105,
+	"Id_marca": 1056,
+	"Codigo": "POLCOL13",
+	"Descripcion": "POL950 Rojo limpio"
+}, {
+	"Id": 277,
+	"Id_grupo": 1105,
+	"Id_marca": 1056,
+	"Codigo": "POLCOL02",
+	"Descripcion": "POL980 Negro"
+}, {
+	"Id": 604,
+	"Id_grupo": 1105,
+	"Id_marca": 1010,
+	"Codigo": "POLCAR15",
+	"Descripcion": "POLCS80 Rojo transparen"
+}, {
+	"Id": 603,
+	"Id_grupo": 1105,
+	"Id_marca": 1010,
+	"Codigo": "POLCAR14",
+	"Descripcion": "POLCS81 Verde dorado"
+}, {
+	"Id": 592,
+	"Id_grupo": 1105,
+	"Id_marca": 1010,
+	"Codigo": "POLCAR09",
+	"Descripcion": "POLCS95 Negro mate"
+}, {
+	"Id": 314,
+	"Id_grupo": 1105,
+	"Id_marca": 1010,
+	"Codigo": "POLCAR02",
+	"Descripcion": "POLDP01 Aluminio fino"
+}, {
+	"Id": 316,
+	"Id_grupo": 1105,
+	"Id_marca": 1010,
+	"Codigo": "POLCAR04",
+	"Descripcion": "POLDP02 Aluminio grueso"
+}, {
+	"Id": 1730,
+	"Id_grupo": 1105,
+	"Id_marca": 1010,
+	"Codigo": "POLCAR028",
+	"Descripcion": "POLDP03 Aluminio lenticular fino"
+}, {
+	"Id": 315,
+	"Id_grupo": 1105,
+	"Id_marca": 1010,
+	"Codigo": "POLCAR03",
+	"Descripcion": "POLDP04 Aluminio super grueso"
+}, {
+	"Id": 588,
+	"Id_grupo": 1105,
+	"Id_marca": 1010,
+	"Codigo": "POLCAR08",
+	"Descripcion": "POLMS1026 Negro directo"
+}, {
+	"Id": 318,
+	"Id_grupo": 1105,
+	"Id_marca": 1010,
+	"Codigo": "POLCAR06",
+	"Descripcion": "POLMS1060 Blanco"
+}, {
+	"Id": 664,
+	"Id_grupo": 1105,
+	"Id_marca": 1010,
+	"Codigo": "POLCAR18",
+	"Descripcion": "POLMS1068 Verde azuloso"
+}]

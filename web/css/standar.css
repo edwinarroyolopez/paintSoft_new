@@ -1,0 +1,190 @@
+
+
+
+
+
+
+/* frames not visible */
+.isVisible{
+    display: block !important;
+}
+
+/*  frmRegistrar */
+
+/* Box */
+div.frame div.box{
+    background: rgba(255,255,255,1);
+    border-radius: 5px;
+}
+
+/* Campos */
+div.frame div.segment{
+    background: rgba(255,255,255,1);
+    border-radius: 5px;
+    display: inline-block;
+    margin: 5px;
+    vertical-align: top;
+    width: 220px;
+}
+div.frame div.segment div.field{
+    background: rgba(105, 42, 210, 0);
+    border-radius: 5px;
+    margin: 5px auto auto auto;
+    padding: 3px;
+    width: 180px;
+}
+div.frame div.segment div.field div.label{
+    height: 15px;
+    padding: 2px;
+}
+div.frame div.segment div.field div.label label{
+    color: rgba(120,120,120,1);
+    /*margin: 0 0 0 5px;*/
+}
+
+
+div.frame div.segment div.field div.textbox{
+    height: 20px;
+    padding: 2px;
+}
+
+div.frame div.segment div.field div.textbox input {
+    border-bottom: solid 1px rgba(200, 200, 200, .7);
+    padding: 0 0 3px 0 ;
+}
+
+
+/* Button */
+div.frame div.segment div.field div.button{
+    border: dashed 1px rgba(120,120,120,1);
+    border-radius: 2px;
+    cursor: pointer;
+    text-align: center;
+
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+
+}
+div.frame div.segment div.field div.button:hover{
+    background: rgba(220,220,220,1);
+}
+
+
+/*  frmBuscar */
+
+section#center div.container div#frmBusqueda div.search{
+    padding: 5px;
+}
+section#center div.container div#frmBusqueda div.textbox{
+    background: rgba(255,255,255,1);
+    height: 22px;
+    width: 200px;
+}
+section#center div.container div#frmBusqueda div.textbox input{
+    margin: 1px 0 0 4px;
+    padding: 3px;
+}
+
+
+
+section#center div.container div#frmBusqueda div.item{
+    background: rgba(255,255,255,1);
+    border: 1px rgba(100,100,100,1);
+    display: inline-block;
+    height: 80px;
+    margin: 5px;
+    padding: 3px;
+    vertical-align: top;
+    width: 180px;
+}
+section#center div.container div#frmBusqueda div.item:hover{
+     background: rgba(230,230,230,1);
+}
+
+section#center div.container div#frmBusqueda div.item div.id{
+    border: solid 1px rgba(100,100,100,.2);
+    border-style:dashed;
+    height: 25px;
+    text-align: center;
+}
+section#center div.container div#frmBusqueda div.item div.id:hover{
+    background: rgba(0,0,255,.25);
+    color: rgba(255,255,255,1);
+    font-weight: bold;
+}
+
+section#center div.container div#frmBusqueda div.item div.id div.nombre,
+section#center div.container div#frmBusqueda div.item div.id div.razon_social{
+    cursor: pointer;
+    padding: 5px;
+}
+
+section#center div.container div#frmBusqueda div.item  div.left ,
+section#center div.container div#frmBusqueda div.item  div.right{
+    color: rgba(160,160,160,1);
+    display: inline-block;
+    font-size: 0.85em;
+    height: 50px;
+    margin: 5px auto auto auto;
+    vertical-align: top;
+    width: 48%;
+}
+section#center div.container div#frmBusqueda div.item  div.left span{
+    margin: 0 0 0 5px;
+}
+.hidden{display: none !important;}
+
+section#center div.container div#frmBusqueda div.item  div.left div.fecha{
+    color: rgba(190,190,190,1);
+    font-size: 0.9em;
+    margin: 8px 0 0 5px;
+    text-align: center;
+}
+
+section#center div.container div#frmBusqueda div.item  div.right div.btnVenta,
+section#center div.container div#frmBusqueda div.item  div.right div.btnFacturas{
+    border: 1px solid rgba(100,100,100,0.4);
+  /*  border-style: dashed; */
+    border-radius: 3px;
+    cursor: pointer;
+    height: 16px;
+    margin: 4px 0 0 20px;
+    text-align: center;
+    width: 55px;
+}
+section#center div.container div#frmBusqueda div.item  div.right div.btnVenta div.label,
+section#center div.container div#frmBusqueda div.item  div.right div.btnFacturas div.label{
+    padding: 1px;
+}
+
+/*  frmDescipcion */
+
+
+/* Media querys */
+
+/* Buttons */
+/*div.content_button{}
+div.content_button div.button{
+        border-bottom: solid 1px rgba(220,220,220,1);
+        border-top: solid 1px rgba(220,220,220,1);
+        border-radius: 4px;
+        cursor: pointer;
+        height: 25px;
+        margin: auto;
+        text-align: center;
+        width: 100px;
+                  /* Quita seleccion de texto */
+                      /*-webkit-user-select: none;
+                      -moz-user-select: none;
+                      -ms-user-select: none;
+}
+div.content_button div.button:hover{
+    background: rgba(245,245,245,1);
+}
+div.content_button div.button:active{
+    background: rgba(240,240,240,1);
+}
+div.content_button div.button div.label{
+  padding: 5px 0 0 0;
+}*/

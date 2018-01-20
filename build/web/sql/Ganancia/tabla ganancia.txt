@@ -1,0 +1,6 @@
+Id int
+Id_factura --> Id encabezado
+Ganancia int
+Fecha date
+
+Ninguno permite nulls

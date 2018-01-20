@@ -1,0 +1,6193 @@
+[{
+	"Id": 13,
+	"Id_grupo": 1009,
+	"Id_marca": 1009,
+	"Codigo": "MASPOL01",
+	"Descripcion": "Masilla Premium",
+	"Grupo": "Masillas",
+	"Marca": "Poliescol",
+	"Id_medida": 18
+}, {
+	"Id": 14,
+	"Id_grupo": 1009,
+	"Id_marca": 1009,
+	"Codigo": "MASPOL02",
+	"Descripcion": "Masilla Poliflex",
+	"Grupo": "Masillas",
+	"Marca": "Poliescol",
+	"Id_medida": 18
+}, {
+	"Id": 15,
+	"Id_grupo": 1009,
+	"Id_marca": 1009,
+	"Codigo": "MASPOL03",
+	"Descripcion": "Masilla Roja Poliescol",
+	"Grupo": "Masillas",
+	"Marca": "Poliescol",
+	"Id_medida": 18
+}, {
+	"Id": 24,
+	"Id_grupo": 1011,
+	"Id_marca": 1009,
+	"Codigo": "SLLPOL01",
+	"Descripcion": "Sellador Poliescol P25",
+	"Grupo": "Sellador",
+	"Marca": "Poliescol",
+	"Id_medida": 18
+}, {
+	"Id": 25,
+	"Id_grupo": 1012,
+	"Id_marca": 1011,
+	"Codigo": "AERAER01",
+	"Descripcion": "Aerosol Negro Mate AT",
+	"Grupo": "Aerosol",
+	"Marca": "Pintuco",
+	"Id_medida": 18
+}, {
+	"Id": 26,
+	"Id_grupo": 1012,
+	"Id_marca": 1011,
+	"Codigo": "AERAER02",
+	"Descripcion": "Aerosol Negro Brillante AT",
+	"Grupo": "Aerosol",
+	"Marca": "Pintuco",
+	"Id_medida": 18
+}, {
+	"Id": 27,
+	"Id_grupo": 1012,
+	"Id_marca": 1011,
+	"Codigo": "AERAER03",
+	"Descripcion": "Aerosol Aluminio AT",
+	"Grupo": "Aerosol",
+	"Marca": "Pintuco",
+	"Id_medida": 18
+}, {
+	"Id": 36,
+	"Id_grupo": 1012,
+	"Id_marca": 1012,
+	"Codigo": "AERSOL01",
+	"Descripcion": "Aerosol Aluminio Brillante",
+	"Grupo": "Aerosol",
+	"Marca": "Solaris",
+	"Id_medida": 18
+}, {
+	"Id": 37,
+	"Id_grupo": 1012,
+	"Id_marca": 1012,
+	"Codigo": "AERSOL02",
+	"Descripcion": "Aerosol Naranja",
+	"Grupo": "Aerosol",
+	"Marca": "Solaris",
+	"Id_medida": 18
+}, {
+	"Id": 38,
+	"Id_grupo": 1012,
+	"Id_marca": 1012,
+	"Codigo": "AERSOL03",
+	"Descripcion": "Aerosol Azul Español",
+	"Grupo": "Aerosol",
+	"Marca": "Solaris",
+	"Id_medida": 18
+}, {
+	"Id": 41,
+	"Id_grupo": 1012,
+	"Id_marca": 1012,
+	"Codigo": "AERSOL20",
+	"Descripcion": "Aerosol Negro Brillante AT",
+	"Grupo": "Aerosol",
+	"Marca": "Solaris",
+	"Id_medida": 18
+}, {
+	"Id": 42,
+	"Id_grupo": 1012,
+	"Id_marca": 1012,
+	"Codigo": "AERSOL19",
+	"Descripcion": "Aerosol Aluminio AT",
+	"Grupo": "Aerosol",
+	"Marca": "Solaris",
+	"Id_medida": 18
+}, {
+	"Id": 43,
+	"Id_grupo": 1012,
+	"Id_marca": 1012,
+	"Codigo": "AERSOL05",
+	"Descripcion": "Aerosol Amarillo Caterpillar",
+	"Grupo": "Aerosol",
+	"Marca": "Solaris",
+	"Id_medida": 18
+}, {
+	"Id": 44,
+	"Id_grupo": 1012,
+	"Id_marca": 1012,
+	"Codigo": "AERSOL06",
+	"Descripcion": "Aerosol Anticorrosivo Blanco",
+	"Grupo": "Aerosol",
+	"Marca": "Solaris",
+	"Id_medida": 18
+}, {
+	"Id": 45,
+	"Id_grupo": 1012,
+	"Id_marca": 1012,
+	"Codigo": "AERSOL07",
+	"Descripcion": "Aerosol Rosa Mexicano",
+	"Grupo": "Aerosol",
+	"Marca": "Solaris",
+	"Id_medida": 18
+}, {
+	"Id": 48,
+	"Id_grupo": 1012,
+	"Id_marca": 1012,
+	"Codigo": "AERSOL10",
+	"Descripcion": "Aerosol Cobre",
+	"Grupo": "Aerosol",
+	"Marca": "Solaris",
+	"Id_medida": 18
+}, {
+	"Id": 49,
+	"Id_grupo": 1012,
+	"Id_marca": 1012,
+	"Codigo": "AERSOL11",
+	"Descripcion": "Aersol Verde Policromado",
+	"Grupo": "Aerosol",
+	"Marca": "Solaris",
+	"Id_medida": 18
+}, {
+	"Id": 50,
+	"Id_grupo": 1012,
+	"Id_marca": 1012,
+	"Codigo": "AERSOL12",
+	"Descripcion": "Aerosol Rojo Policromado",
+	"Grupo": "Aerosol",
+	"Marca": "Solaris",
+	"Id_medida": 18
+}, {
+	"Id": 51,
+	"Id_grupo": 1012,
+	"Id_marca": 1012,
+	"Codigo": "AERSOL13",
+	"Descripcion": "Aersol Azul Fluorescente",
+	"Grupo": "Aerosol",
+	"Marca": "Solaris",
+	"Id_medida": 18
+}, {
+	"Id": 52,
+	"Id_grupo": 1012,
+	"Id_marca": 1012,
+	"Codigo": "AERSOL14",
+	"Descripcion": "Aerosol Azul Lila",
+	"Grupo": "Aerosol",
+	"Marca": "Solaris",
+	"Id_medida": 18
+}, {
+	"Id": 54,
+	"Id_grupo": 1013,
+	"Id_marca": 1012,
+	"Codigo": "VINSOL01",
+	"Descripcion": "Vinilo Mandarina Tropical",
+	"Grupo": "Vinilos",
+	"Marca": "Solaris",
+	"Id_medida": 18
+}, {
+	"Id": 55,
+	"Id_grupo": 1013,
+	"Id_marca": 1012,
+	"Codigo": "VINSOL02",
+	"Descripcion": "Vinilo Blanco",
+	"Grupo": "Vinilos",
+	"Marca": "Solaris",
+	"Id_medida": 18
+}, {
+	"Id": 56,
+	"Id_grupo": 1013,
+	"Id_marca": 1013,
+	"Codigo": "VIIC01",
+	"Descripcion": "Azul Mediterraneo",
+	"Grupo": "Vinilos",
+	"Marca": "Ico",
+	"Id_medida": 18
+}, {
+	"Id": 57,
+	"Id_grupo": 1013,
+	"Id_marca": 1013,
+	"Codigo": "VIIC02",
+	"Descripcion": "Negro",
+	"Grupo": "Vinilos",
+	"Marca": "Ico",
+	"Id_medida": 18
+}, {
+	"Id": 58,
+	"Id_grupo": 1013,
+	"Id_marca": 1013,
+	"Codigo": "VIIC03",
+	"Descripcion": "Amarillo Vivo",
+	"Grupo": "Vinilos",
+	"Marca": "Ico",
+	"Id_medida": 18
+}, {
+	"Id": 59,
+	"Id_grupo": 1013,
+	"Id_marca": 1013,
+	"Codigo": "VIIC04",
+	"Descripcion": "Rojo",
+	"Grupo": "Vinilos",
+	"Marca": "Ico",
+	"Id_medida": 18
+}, {
+	"Id": 60,
+	"Id_grupo": 1013,
+	"Id_marca": 1013,
+	"Codigo": "VIIC05",
+	"Descripcion": "Azul Oceanico",
+	"Grupo": "Vinilos",
+	"Marca": "Ico",
+	"Id_medida": 18
+}, {
+	"Id": 61,
+	"Id_grupo": 1013,
+	"Id_marca": 1013,
+	"Codigo": "VIIC06",
+	"Descripcion": "Mandarina",
+	"Grupo": "Vinilos",
+	"Marca": "Ico",
+	"Id_medida": 18
+}, {
+	"Id": 62,
+	"Id_grupo": 1013,
+	"Id_marca": 1013,
+	"Codigo": "VIIC07",
+	"Descripcion": "Blanco",
+	"Grupo": "Vinilos",
+	"Marca": "Ico",
+	"Id_medida": 18
+}, {
+	"Id": 63,
+	"Id_grupo": 1013,
+	"Id_marca": 1013,
+	"Codigo": "VIIC08",
+	"Descripcion": "Verde Primaveral",
+	"Grupo": "Vinilos",
+	"Marca": "Ico",
+	"Id_medida": 18
+}, {
+	"Id": 64,
+	"Id_grupo": 1013,
+	"Id_marca": 1014,
+	"Codigo": "VICMX01",
+	"Descripcion": "Pistacho",
+	"Grupo": "Vinilos",
+	"Marca": "Color mix",
+	"Id_medida": 18
+}, {
+	"Id": 65,
+	"Id_grupo": 1013,
+	"Id_marca": 1014,
+	"Codigo": "VICMX02",
+	"Descripcion": "Rojo Colonial",
+	"Grupo": "Vinilos",
+	"Marca": "Color mix",
+	"Id_medida": 18
+}, {
+	"Id": 67,
+	"Id_grupo": 1013,
+	"Id_marca": 1014,
+	"Codigo": "VICMX03",
+	"Descripcion": "Terracota",
+	"Grupo": "Vinilos",
+	"Marca": "Color mix",
+	"Id_medida": 18
+}, {
+	"Id": 68,
+	"Id_grupo": 1013,
+	"Id_marca": 1015,
+	"Codigo": "VINTEC01",
+	"Descripcion": "Vinilo Naranja Fuerte",
+	"Grupo": "Vinilos",
+	"Marca": "Tecnidecor",
+	"Id_medida": 18
+}, {
+	"Id": 69,
+	"Id_grupo": 1013,
+	"Id_marca": 1015,
+	"Codigo": "VINTEC02",
+	"Descripcion": "Vinilo Verde profundo",
+	"Grupo": "Vinilos",
+	"Marca": "Tecnidecor",
+	"Id_medida": 18
+}, {
+	"Id": 70,
+	"Id_grupo": 1013,
+	"Id_marca": 1015,
+	"Codigo": "VINTEC03",
+	"Descripcion": "Vinilo Verde Primaveral",
+	"Grupo": "Vinilos",
+	"Marca": "Tecnidecor",
+	"Id_medida": 18
+}, {
+	"Id": 71,
+	"Id_grupo": 1013,
+	"Id_marca": 1016,
+	"Codigo": "VINCOL01",
+	"Descripcion": "Vinilo Mandarina Tropical",
+	"Grupo": "Vinilos",
+	"Marca": "Colpinturas",
+	"Id_medida": 18
+}, {
+	"Id": 72,
+	"Id_grupo": 1013,
+	"Id_marca": 1016,
+	"Codigo": "VINCOL02",
+	"Descripcion": "Vinilo Verde Pino",
+	"Grupo": "Vinilos",
+	"Marca": "Colpinturas",
+	"Id_medida": 18
+}, {
+	"Id": 73,
+	"Id_grupo": 1013,
+	"Id_marca": 1017,
+	"Codigo": "VINCT01",
+	"Descripcion": "Cafe Paris",
+	"Grupo": "Vinilos",
+	"Marca": "Color tone",
+	"Id_medida": 18
+}, {
+	"Id": 76,
+	"Id_grupo": 1014,
+	"Id_marca": 1016,
+	"Codigo": "ESMCOL03",
+	"Descripcion": "Esmalte Azul Mar Colpinturas",
+	"Grupo": "Esmalte",
+	"Marca": "Colpinturas",
+	"Id_medida": 18
+}, {
+	"Id": 77,
+	"Id_grupo": 1014,
+	"Id_marca": 1016,
+	"Codigo": "ESMCOL04",
+	"Descripcion": "Esmalte Rojo Colpinturas",
+	"Grupo": "Esmalte",
+	"Marca": "Colpinturas",
+	"Id_medida": 18
+}, {
+	"Id": 78,
+	"Id_grupo": 1014,
+	"Id_marca": 1016,
+	"Codigo": "ESMCOL05",
+	"Descripcion": "Esmalte Blanco Hueso Colpinturas",
+	"Grupo": "Esmalte",
+	"Marca": "Colpinturas",
+	"Id_medida": 18
+}, {
+	"Id": 80,
+	"Id_grupo": 1016,
+	"Id_marca": 1016,
+	"Codigo": "ANTCOL01",
+	"Descripcion": "Anticorrosivo Azul Colpinturas",
+	"Grupo": "Anticorrosivos",
+	"Marca": "Colpinturas",
+	"Id_medida": 18
+}, {
+	"Id": 81,
+	"Id_grupo": 1016,
+	"Id_marca": 1016,
+	"Codigo": "ANTCOL02",
+	"Descripcion": "Anticorrosivo Blanco Acabado Colpinturas",
+	"Grupo": "Anticorrosivos",
+	"Marca": "Colpinturas",
+	"Id_medida": 18
+}, {
+	"Id": 85,
+	"Id_grupo": 1016,
+	"Id_marca": 1016,
+	"Codigo": "ANTCOL06",
+	"Descripcion": "Anticorrosivo Negro Acabado Colpinturas",
+	"Grupo": "Anticorrosivos",
+	"Marca": "Colpinturas",
+	"Id_medida": 18
+}, {
+	"Id": 88,
+	"Id_grupo": 1014,
+	"Id_marca": 1016,
+	"Codigo": "ESMCOL08",
+	"Descripcion": "Esmalte Naranja Colpinturas",
+	"Grupo": "Esmalte",
+	"Marca": "Colpinturas",
+	"Id_medida": 18
+}, {
+	"Id": 90,
+	"Id_grupo": 1014,
+	"Id_marca": 1016,
+	"Codigo": "ESMCOL09",
+	"Descripcion": "Esmalte Dorado Colpinturas",
+	"Grupo": "Esmalte",
+	"Marca": "Colpinturas",
+	"Id_medida": 18
+}, {
+	"Id": 92,
+	"Id_grupo": 1014,
+	"Id_marca": 1016,
+	"Codigo": "ESMCOL11",
+	"Descripcion": "Esmalte Caoba Colpituras",
+	"Grupo": "Esmalte",
+	"Marca": "Colpinturas",
+	"Id_medida": 18
+}, {
+	"Id": 97,
+	"Id_grupo": 1015,
+	"Id_marca": 1019,
+	"Codigo": "LACEVE03",
+	"Descripcion": "Laca Rojo Toludine Every",
+	"Grupo": "Lacas",
+	"Marca": "Every",
+	"Id_medida": 18
+}, {
+	"Id": 98,
+	"Id_grupo": 1015,
+	"Id_marca": 1019,
+	"Codigo": "LACEVE04",
+	"Descripcion": "Laca Ocre Every",
+	"Grupo": "Lacas",
+	"Marca": "Every",
+	"Id_medida": 18
+}, {
+	"Id": 99,
+	"Id_grupo": 1015,
+	"Id_marca": 1019,
+	"Codigo": "LACEVE05",
+	"Descripcion": "Laca Nitro Amarillo Limon Every",
+	"Grupo": "Lacas",
+	"Marca": "Every",
+	"Id_medida": 18
+}, {
+	"Id": 100,
+	"Id_grupo": 1015,
+	"Id_marca": 1019,
+	"Codigo": "LACEVE06",
+	"Descripcion": "Laca Amarilla Every",
+	"Grupo": "Lacas",
+	"Marca": "Every",
+	"Id_medida": 18
+}, {
+	"Id": 104,
+	"Id_grupo": 1015,
+	"Id_marca": 1019,
+	"Codigo": "LACEVE09",
+	"Descripcion": "Laca Amarillo Cromo 1/2 Every",
+	"Grupo": "Lacas",
+	"Marca": "Every",
+	"Id_medida": 18
+}, {
+	"Id": 105,
+	"Id_grupo": 1015,
+	"Id_marca": 1019,
+	"Codigo": "LACEVE10",
+	"Descripcion": "Laca Azul Entonador Every",
+	"Grupo": "Lacas",
+	"Marca": "Every",
+	"Id_medida": 18
+}, {
+	"Id": 108,
+	"Id_grupo": 1015,
+	"Id_marca": 1019,
+	"Codigo": "LACEVE12",
+	"Descripcion": "Laca Aluminio grano grueso Every",
+	"Grupo": "Lacas",
+	"Marca": "Every",
+	"Id_medida": 18
+}, {
+	"Id": 109,
+	"Id_grupo": 1015,
+	"Id_marca": 1019,
+	"Codigo": "LACEVE13",
+	"Descripcion": "Laca Aluminio grano fino Every",
+	"Grupo": "Lacas",
+	"Marca": "Every",
+	"Id_medida": 18
+}, {
+	"Id": 110,
+	"Id_grupo": 1015,
+	"Id_marca": 1019,
+	"Codigo": "LACEVE14",
+	"Descripcion": "Laca Aluminio grano medio Every",
+	"Grupo": "Lacas",
+	"Marca": "Every",
+	"Id_medida": 18
+}, {
+	"Id": 111,
+	"Id_grupo": 1015,
+	"Id_marca": 1019,
+	"Codigo": "LACEVE15",
+	"Descripcion": "Laca Gold Toner Every",
+	"Grupo": "Lacas",
+	"Marca": "Every",
+	"Id_medida": 18
+}, {
+	"Id": 112,
+	"Id_grupo": 1015,
+	"Id_marca": 1019,
+	"Codigo": "LACEVE16",
+	"Descripcion": "Laca Amarillo Oxido Every",
+	"Grupo": "Lacas",
+	"Marca": "Every",
+	"Id_medida": 18
+}, {
+	"Id": 113,
+	"Id_grupo": 1015,
+	"Id_marca": 1020,
+	"Codigo": "LACSUP01",
+	"Descripcion": "Laca Blanco Mezcla",
+	"Grupo": "Lacas",
+	"Marca": "Super",
+	"Id_medida": 18
+}, {
+	"Id": 114,
+	"Id_grupo": 1015,
+	"Id_marca": 1020,
+	"Codigo": "LACSUP02",
+	"Descripcion": "Base Gris",
+	"Grupo": "Lacas",
+	"Marca": "Super",
+	"Id_medida": 18
+}, {
+	"Id": 116,
+	"Id_grupo": 1015,
+	"Id_marca": 1020,
+	"Codigo": "LACSUP04",
+	"Descripcion": "Laca Verde entonador",
+	"Grupo": "Lacas",
+	"Marca": "Super",
+	"Id_medida": 18
+}, {
+	"Id": 117,
+	"Id_grupo": 1015,
+	"Id_marca": 1020,
+	"Codigo": "LACSUP05",
+	"Descripcion": "Laca Negro",
+	"Grupo": "Lacas",
+	"Marca": "Super",
+	"Id_medida": 18
+}, {
+	"Id": 118,
+	"Id_grupo": 1015,
+	"Id_marca": 1020,
+	"Codigo": "LACSUP06",
+	"Descripcion": "Laca Amarillo Limon",
+	"Grupo": "Lacas",
+	"Marca": "Super",
+	"Id_medida": 18
+}, {
+	"Id": 119,
+	"Id_grupo": 1015,
+	"Id_marca": 1020,
+	"Codigo": "LACSUP07",
+	"Descripcion": "Laca Verde Oliva",
+	"Grupo": "Lacas",
+	"Marca": "Super",
+	"Id_medida": 18
+}, {
+	"Id": 120,
+	"Id_grupo": 1015,
+	"Id_marca": 1020,
+	"Codigo": "LACSUP08",
+	"Descripcion": "Laca Amarillo Cromo",
+	"Grupo": "Lacas",
+	"Marca": "Super",
+	"Id_medida": 18
+}, {
+	"Id": 127,
+	"Id_grupo": 1024,
+	"Id_marca": 1022,
+	"Codigo": "ESPPIN01",
+	"Descripcion": "Espatula metalica",
+	"Grupo": "Espatula",
+	"Marca": "Pinacolor",
+	"Id_medida": 19
+}, {
+	"Id": 128,
+	"Id_grupo": 1024,
+	"Id_marca": 1023,
+	"Codigo": "ESPATL01",
+	"Descripcion": "Espatula metalica Atlas 2\" 1/2",
+	"Grupo": "Espatula",
+	"Marca": "Atlas",
+	"Id_medida": 19
+}, {
+	"Id": 129,
+	"Id_grupo": 1025,
+	"Id_marca": 1024,
+	"Codigo": "LIJABR01",
+	"Descripcion": "Lija  Abracol # 60",
+	"Grupo": "Lijas",
+	"Marca": "Abracol",
+	"Id_medida": 20
+}, {
+	"Id": 130,
+	"Id_grupo": 1025,
+	"Id_marca": 1026,
+	"Codigo": "LIJCAR01",
+	"Descripcion": "Lija Roja # 80",
+	"Grupo": "Lijas",
+	"Marca": "Carborundum",
+	"Id_medida": 20
+}, {
+	"Id": 132,
+	"Id_grupo": 1026,
+	"Id_marca": 1027,
+	"Codigo": "CINCEL01",
+	"Descripcion": "Cinta de enmascarar 3/4\" Cellux",
+	"Grupo": "Cintas",
+	"Marca": "Cellux",
+	"Id_medida": 19
+}, {
+	"Id": 133,
+	"Id_grupo": 1026,
+	"Id_marca": 1025,
+	"Codigo": "CIN3M01",
+	"Descripcion": "Cinta de enmascarar F3 3M  1/2\"",
+	"Grupo": "Cintas",
+	"Marca": "3M",
+	"Id_medida": 19
+}, {
+	"Id": 134,
+	"Id_grupo": 1026,
+	"Id_marca": 1025,
+	"Codigo": "CIN3M02",
+	"Descripcion": "Cinta de enmascarar 233+ 1/2\"",
+	"Grupo": "Cintas",
+	"Marca": "3M",
+	"Id_medida": 19
+}, {
+	"Id": 135,
+	"Id_grupo": 1026,
+	"Id_marca": 1025,
+	"Codigo": "CIN3M03",
+	"Descripcion": "Cinta doble faz 3/4 3M",
+	"Grupo": "Cintas",
+	"Marca": "3M",
+	"Id_medida": 19
+}, {
+	"Id": 136,
+	"Id_grupo": 1027,
+	"Id_marca": 1022,
+	"Codigo": "BROPIN01",
+	"Descripcion": "Brocha Pinacolor 2\"",
+	"Grupo": "Brochas",
+	"Marca": "Pinacolor",
+	"Id_medida": 19
+}, {
+	"Id": 137,
+	"Id_grupo": 1027,
+	"Id_marca": 1023,
+	"Codigo": "BROATL01",
+	"Descripcion": "Brocha Atlas Amarilla 2\" 1/2",
+	"Grupo": "Brochas",
+	"Marca": "Atlas",
+	"Id_medida": 19
+}, {
+	"Id": 138,
+	"Id_grupo": 1027,
+	"Id_marca": 1029,
+	"Codigo": "BROGOY01",
+	"Descripcion": "Brocha Goya",
+	"Grupo": "Brochas",
+	"Marca": "Goya",
+	"Id_medida": 19
+}, {
+	"Id": 139,
+	"Id_grupo": 1028,
+	"Id_marca": 1030,
+	"Codigo": "PISGGB01",
+	"Descripcion": "Pistola P7",
+	"Grupo": "Pistola",
+	"Marca": "GGB",
+	"Id_medida": 18
+}, {
+	"Id": 140,
+	"Id_grupo": 1028,
+	"Id_marca": 1030,
+	"Codigo": "PISGGB02",
+	"Descripcion": "Pistola body shoot DS2",
+	"Grupo": "Pistola",
+	"Marca": "GGB",
+	"Id_medida": 18
+}, {
+	"Id": 141,
+	"Id_grupo": 1029,
+	"Id_marca": 1031,
+	"Codigo": "CERIND01",
+	"Descripcion": "Brillo car 240 ml",
+	"Grupo": "Cera",
+	"Marca": "Induresina",
+	"Id_medida": 18
+}, {
+	"Id": 142,
+	"Id_grupo": 1030,
+	"Id_marca": 1032,
+	"Codigo": "RENVEH01",
+	"Descripcion": "Renovador de partes negras 500ml",
+	"Grupo": "Renovador",
+	"Marca": "Vehigreen",
+	"Id_medida": 18
+}, {
+	"Id": 143,
+	"Id_grupo": 1029,
+	"Id_marca": 1010,
+	"Codigo": "CERCAR01",
+	"Descripcion": "Cera Polcar P400",
+	"Grupo": "Cera",
+	"Marca": "Caralz",
+	"Id_medida": 18
+}, {
+	"Id": 144,
+	"Id_grupo": 1027,
+	"Id_marca": 1033,
+	"Codigo": "BROBYP01",
+	"Descripcion": "Brocha byp 3\"",
+	"Grupo": "Brochas",
+	"Marca": "BYP",
+	"Id_medida": 19
+}, {
+	"Id": 160,
+	"Id_grupo": 1078,
+	"Id_marca": 1049,
+	"Codigo": "COPGLA01",
+	"Descripcion": "Copado Glasurit",
+	"Grupo": "Copado",
+	"Marca": "Glasurit",
+	"Id_medida": 18
+}, {
+	"Id": 161,
+	"Id_grupo": 1079,
+	"Id_marca": 1029,
+	"Codigo": "CEPGOY01",
+	"Descripcion": "Cepillo de Alambre",
+	"Grupo": "Cepillo de Alambre",
+	"Marca": "Goya",
+	"Id_medida": 107
+}, {
+	"Id": 162,
+	"Id_grupo": 1080,
+	"Id_marca": 1025,
+	"Codigo": "CAR3M01",
+	"Descripcion": "Careta semifacial 3M",
+	"Grupo": "Caretas",
+	"Marca": "3M",
+	"Id_medida": 107
+}, {
+	"Id": 163,
+	"Id_grupo": 1080,
+	"Id_marca": 1030,
+	"Codigo": "CARGGB01",
+	"Descripcion": "Careta GGB Professional negra",
+	"Grupo": "Caretas",
+	"Marca": "GGB",
+	"Id_medida": 107
+}, {
+	"Id": 165,
+	"Id_grupo": 1081,
+	"Id_marca": 1050,
+	"Codigo": "TAPABO01",
+	"Descripcion": "Tapa boca sencillo",
+	"Grupo": "Tapa bocas",
+	"Marca": "N/A",
+	"Id_medida": 107
+}, {
+	"Id": 166,
+	"Id_grupo": 1081,
+	"Id_marca": 1025,
+	"Codigo": "TAP3M01",
+	"Descripcion": "Tapa boca con filtro 8210V N95 3M ",
+	"Grupo": "Tapa bocas",
+	"Marca": "3M",
+	"Id_medida": 107
+}, {
+	"Id": 167,
+	"Id_grupo": 1082,
+	"Id_marca": 1050,
+	"Codigo": "PANOLA01",
+	"Descripcion": "Panola Roja",
+	"Grupo": "Panola",
+	"Marca": "N/A",
+	"Id_medida": 19
+}, {
+	"Id": 168,
+	"Id_grupo": 1082,
+	"Id_marca": 1050,
+	"Codigo": "PANOLA02",
+	"Descripcion": "Panola Blanca",
+	"Grupo": "Panola",
+	"Marca": "N/A",
+	"Id_medida": 19
+}, {
+	"Id": 169,
+	"Id_grupo": 1083,
+	"Id_marca": 1012,
+	"Codigo": "PEGSOL01",
+	"Descripcion": "Pega Blanca Polurietano Solaris",
+	"Grupo": "Pegante",
+	"Marca": "Solaris",
+	"Id_medida": 18
+}, {
+	"Id": 170,
+	"Id_grupo": 1084,
+	"Id_marca": 1051,
+	"Codigo": "SILCRC01",
+	"Descripcion": "Silicona protectora CRC 300ml",
+	"Grupo": "Silicona",
+	"Marca": "CRC",
+	"Id_medida": 18
+}, {
+	"Id": 172,
+	"Id_grupo": 1086,
+	"Id_marca": 1030,
+	"Codigo": "PINGGB01",
+	"Descripcion": "Pincel # 2",
+	"Grupo": "Pincel",
+	"Marca": "GGB",
+	"Id_medida": 19
+}, {
+	"Id": 173,
+	"Id_grupo": 1088,
+	"Id_marca": 1010,
+	"Codigo": "DISCAR01",
+	"Descripcion": "Disolvente RB60 Caralz",
+	"Grupo": "Disolvente",
+	"Marca": "Caralz",
+	"Id_medida": 18
+}, {
+	"Id": 174,
+	"Id_grupo": 1088,
+	"Id_marca": 1052,
+	"Codigo": "DISPPG01",
+	"Descripcion": "Disolvente U-200",
+	"Grupo": "Disolvente",
+	"Marca": "PPG",
+	"Id_medida": 18
+}, {
+	"Id": 175,
+	"Id_grupo": 1090,
+	"Id_marca": 1010,
+	"Codigo": "BARCAR01",
+	"Descripcion": "Barniz MS100",
+	"Grupo": "Barniz",
+	"Marca": "Caralz",
+	"Id_medida": 18
+}, {
+	"Id": 177,
+	"Id_grupo": 1093,
+	"Id_marca": 1053,
+	"Codigo": "RISINV01",
+	"Descripcion": "RP020 Resina invesa",
+	"Grupo": "Resina",
+	"Marca": "Invesa",
+	"Id_medida": 18
+}, {
+	"Id": 178,
+	"Id_grupo": 1093,
+	"Id_marca": 1009,
+	"Codigo": "RESPOL01",
+	"Descripcion": "P809 Resina poliescol",
+	"Grupo": "Resina",
+	"Marca": "Poliescol",
+	"Id_medida": 18
+}, {
+	"Id": 179,
+	"Id_grupo": 1095,
+	"Id_marca": 1010,
+	"Codigo": "CATCAR01",
+	"Descripcion": "Catalizador DX07",
+	"Grupo": "Catalizador ",
+	"Marca": "Caralz",
+	"Id_medida": 18
+}, {
+	"Id": 180,
+	"Id_grupo": 1095,
+	"Id_marca": 1010,
+	"Codigo": "CATCAR02",
+	"Descripcion": "Catalizador DX03",
+	"Grupo": "Catalizador ",
+	"Marca": "Caralz",
+	"Id_medida": 18
+}, {
+	"Id": 181,
+	"Id_grupo": 1095,
+	"Id_marca": 1010,
+	"Codigo": "CATCAR03",
+	"Descripcion": "Catalizador DX08",
+	"Grupo": "Catalizador ",
+	"Marca": "Caralz",
+	"Id_medida": 18
+}, {
+	"Id": 182,
+	"Id_grupo": 1090,
+	"Id_marca": 1052,
+	"Codigo": "BARPPG01",
+	"Descripcion": "Barniz 70000",
+	"Grupo": "Barniz",
+	"Marca": "PPG",
+	"Id_medida": 18
+}, {
+	"Id": 185,
+	"Id_grupo": 1090,
+	"Id_marca": 1052,
+	"Codigo": "BARPPG02",
+	"Descripcion": "Barniz Clear 990",
+	"Grupo": "Barniz",
+	"Marca": "PPG",
+	"Id_medida": 18
+}, {
+	"Id": 186,
+	"Id_grupo": 1014,
+	"Id_marca": 1053,
+	"Codigo": "ESMINV01",
+	"Descripcion": "Esmalte rojo",
+	"Grupo": "Esmalte",
+	"Marca": "Invesa",
+	"Id_medida": 18
+}, {
+	"Id": 187,
+	"Id_grupo": 1014,
+	"Id_marca": 1053,
+	"Codigo": "ESMINV02",
+	"Descripcion": "Esmalte Negro Brillante",
+	"Grupo": "Esmalte",
+	"Marca": "Invesa",
+	"Id_medida": 18
+}, {
+	"Id": 188,
+	"Id_grupo": 1014,
+	"Id_marca": 1053,
+	"Codigo": "ESMINV03",
+	"Descripcion": "Esmalte Negro Mate",
+	"Grupo": "Esmalte",
+	"Marca": "Invesa",
+	"Id_medida": 18
+}, {
+	"Id": 189,
+	"Id_grupo": 1014,
+	"Id_marca": 1053,
+	"Codigo": "ESMINV04",
+	"Descripcion": "Esmalte Blanco Brillante",
+	"Grupo": "Esmalte",
+	"Marca": "Invesa",
+	"Id_medida": 18
+}, {
+	"Id": 190,
+	"Id_grupo": 1014,
+	"Id_marca": 1053,
+	"Codigo": "ESMINV05",
+	"Descripcion": "Esmalte Blanco Mate",
+	"Grupo": "Esmalte",
+	"Marca": "Invesa",
+	"Id_medida": 18
+}, {
+	"Id": 191,
+	"Id_grupo": 1014,
+	"Id_marca": 1053,
+	"Codigo": "ESMINV06",
+	"Descripcion": "Esmalte Blanco Hueso",
+	"Grupo": "Esmalte",
+	"Marca": "Invesa",
+	"Id_medida": 18
+}, {
+	"Id": 192,
+	"Id_grupo": 1014,
+	"Id_marca": 1053,
+	"Codigo": "ESMINV07",
+	"Descripcion": "Esmalte Amarillo",
+	"Grupo": "Esmalte",
+	"Marca": "Invesa",
+	"Id_medida": 18
+}, {
+	"Id": 193,
+	"Id_grupo": 1014,
+	"Id_marca": 1053,
+	"Codigo": "ESMINV08",
+	"Descripcion": "Esmalte Verde Primaveral",
+	"Grupo": "Esmalte",
+	"Marca": "Invesa",
+	"Id_medida": 18
+}, {
+	"Id": 195,
+	"Id_grupo": 1014,
+	"Id_marca": 1053,
+	"Codigo": "ESMINV10",
+	"Descripcion": "Esmalte Azul Mar",
+	"Grupo": "Esmalte",
+	"Marca": "Invesa",
+	"Id_medida": 18
+}, {
+	"Id": 196,
+	"Id_grupo": 1014,
+	"Id_marca": 1053,
+	"Codigo": "ESMINV11",
+	"Descripcion": "Esmalte Caoba",
+	"Grupo": "Esmalte",
+	"Marca": "Invesa",
+	"Id_medida": 18
+}, {
+	"Id": 197,
+	"Id_grupo": 1014,
+	"Id_marca": 1053,
+	"Codigo": "ESMINV12",
+	"Descripcion": "Esmalte Dorado",
+	"Grupo": "Esmalte",
+	"Marca": "Invesa",
+	"Id_medida": 18
+}, {
+	"Id": 198,
+	"Id_grupo": 1014,
+	"Id_marca": 1053,
+	"Codigo": "ESMINV13",
+	"Descripcion": "Esmalte Anoloc Bronce",
+	"Grupo": "Esmalte",
+	"Marca": "Invesa",
+	"Id_medida": 18
+}, {
+	"Id": 199,
+	"Id_grupo": 1014,
+	"Id_marca": 1053,
+	"Codigo": "ESMINV14",
+	"Descripcion": "Esmalte Azul Español",
+	"Grupo": "Esmalte",
+	"Marca": "Invesa",
+	"Id_medida": 18
+}, {
+	"Id": 200,
+	"Id_grupo": 1016,
+	"Id_marca": 1053,
+	"Codigo": "ANTINV01",
+	"Descripcion": "Anticorrosivo Rojo",
+	"Grupo": "Anticorrosivos",
+	"Marca": "Invesa",
+	"Id_medida": 18
+}, {
+	"Id": 201,
+	"Id_grupo": 1016,
+	"Id_marca": 1053,
+	"Codigo": "ANTINV02",
+	"Descripcion": "Anticorrosivo Acabado Blanco",
+	"Grupo": "Anticorrosivos",
+	"Marca": "Invesa",
+	"Id_medida": 18
+}, {
+	"Id": 202,
+	"Id_grupo": 1016,
+	"Id_marca": 1053,
+	"Codigo": "ANTINV03",
+	"Descripcion": "Anticorrosivo Azul",
+	"Grupo": "Anticorrosivos",
+	"Marca": "Invesa",
+	"Id_medida": 18
+}, {
+	"Id": 203,
+	"Id_grupo": 1016,
+	"Id_marca": 1053,
+	"Codigo": "ANTINV04",
+	"Descripcion": "Anticorrosivo Acabado Negro",
+	"Grupo": "Anticorrosivos",
+	"Marca": "Invesa",
+	"Id_medida": 18
+}, {
+	"Id": 204,
+	"Id_grupo": 1016,
+	"Id_marca": 1053,
+	"Codigo": "ANTINV05",
+	"Descripcion": "Anticorrosivo Cromato Verde",
+	"Grupo": "Anticorrosivos",
+	"Marca": "Invesa",
+	"Id_medida": 18
+}, {
+	"Id": 205,
+	"Id_grupo": 1016,
+	"Id_marca": 1053,
+	"Codigo": "ANTINV06",
+	"Descripcion": "Anticorrosivo Negro",
+	"Grupo": "Anticorrosivos",
+	"Marca": "Invesa",
+	"Id_medida": 18
+}, {
+	"Id": 206,
+	"Id_grupo": 1016,
+	"Id_marca": 1053,
+	"Codigo": "ANTINV07",
+	"Descripcion": "Anticorrosivo cromato Amarillo",
+	"Grupo": "Anticorrosivos",
+	"Marca": "Invesa",
+	"Id_medida": 18
+}, {
+	"Id": 207,
+	"Id_grupo": 1014,
+	"Id_marca": 1054,
+	"Codigo": "ESMSUP01",
+	"Descripcion": "Esmalte Azul español",
+	"Grupo": "Esmalte",
+	"Marca": "Supratech",
+	"Id_medida": 18
+}, {
+	"Id": 208,
+	"Id_grupo": 1014,
+	"Id_marca": 1054,
+	"Codigo": "ESMSUP02",
+	"Descripcion": "Esmalte Verde Entonador",
+	"Grupo": "Esmalte",
+	"Marca": "Supratech",
+	"Id_medida": 18
+}, {
+	"Id": 209,
+	"Id_grupo": 1014,
+	"Id_marca": 1054,
+	"Codigo": "ESMSUP03",
+	"Descripcion": "Esmalte Anoloc",
+	"Grupo": "Esmalte",
+	"Marca": "Supratech",
+	"Id_medida": 18
+}, {
+	"Id": 210,
+	"Id_grupo": 1016,
+	"Id_marca": 1054,
+	"Codigo": "ANTSUP01",
+	"Descripcion": "Anticorrosivo Negro Supratech",
+	"Grupo": "Anticorrosivos",
+	"Marca": "Supratech",
+	"Id_medida": 18
+}, {
+	"Id": 211,
+	"Id_grupo": 1016,
+	"Id_marca": 1054,
+	"Codigo": "ANTSUP02",
+	"Descripcion": "Anticorrosivo Blanco Supratech",
+	"Grupo": "Anticorrosivos",
+	"Marca": "Supratech",
+	"Id_medida": 18
+}, {
+	"Id": 212,
+	"Id_grupo": 1016,
+	"Id_marca": 1054,
+	"Codigo": "ANTSUP03",
+	"Descripcion": "Anticorrosivo Verde Supratech",
+	"Grupo": "Anticorrosivos",
+	"Marca": "Supratech",
+	"Id_medida": 18
+}, {
+	"Id": 213,
+	"Id_grupo": 1102,
+	"Id_marca": 1054,
+	"Codigo": "MARSUP01",
+	"Descripcion": "Martillado Verde",
+	"Grupo": "Martillado",
+	"Marca": "Supratech",
+	"Id_medida": 18
+}, {
+	"Id": 214,
+	"Id_grupo": 1102,
+	"Id_marca": 1054,
+	"Codigo": "MARSUP02",
+	"Descripcion": "Martillado Azul",
+	"Grupo": "Martillado",
+	"Marca": "Supratech",
+	"Id_medida": 18
+}, {
+	"Id": 215,
+	"Id_grupo": 1102,
+	"Id_marca": 1053,
+	"Codigo": "MARINV01",
+	"Descripcion": "Martillado Azul",
+	"Grupo": "Martillado",
+	"Marca": "Invesa",
+	"Id_medida": 18
+}, {
+	"Id": 216,
+	"Id_grupo": 1102,
+	"Id_marca": 1053,
+	"Codigo": "MARINV02",
+	"Descripcion": "Martillado Verde",
+	"Grupo": "Martillado",
+	"Marca": "Invesa",
+	"Id_medida": 18
+}, {
+	"Id": 217,
+	"Id_grupo": 1102,
+	"Id_marca": 1053,
+	"Codigo": "MARINV03",
+	"Descripcion": "Martillado Gris",
+	"Grupo": "Martillado",
+	"Marca": "Invesa",
+	"Id_medida": 18
+}, {
+	"Id": 218,
+	"Id_grupo": 1106,
+	"Id_marca": 1055,
+	"Codigo": "BASPIN01",
+	"Descripcion": "Base Ocre",
+	"Grupo": "Bases",
+	"Marca": "Pinacolor",
+	"Id_medida": 18
+}, {
+	"Id": 219,
+	"Id_grupo": 1015,
+	"Id_marca": 1055,
+	"Codigo": "LACPIN01",
+	"Descripcion": "Laca Rojo toloudine",
+	"Grupo": "Lacas",
+	"Marca": "Pinacolor",
+	"Id_medida": 18
+}, {
+	"Id": 220,
+	"Id_grupo": 1015,
+	"Id_marca": 1055,
+	"Codigo": "LACPIN02",
+	"Descripcion": "Laca Azul entonador",
+	"Grupo": "Lacas",
+	"Marca": "Pinacolor",
+	"Id_medida": 18
+}, {
+	"Id": 221,
+	"Id_grupo": 1015,
+	"Id_marca": 1055,
+	"Codigo": "LACPIN03",
+	"Descripcion": "Laca Marron Indo",
+	"Grupo": "Lacas",
+	"Marca": "Pinacolor",
+	"Id_medida": 18
+}, {
+	"Id": 222,
+	"Id_grupo": 1015,
+	"Id_marca": 1020,
+	"Codigo": "LACSUP09",
+	"Descripcion": "Laca Aluminio grano fino",
+	"Grupo": "Lacas",
+	"Marca": "Super",
+	"Id_medida": 18
+}, {
+	"Id": 223,
+	"Id_grupo": 1015,
+	"Id_marca": 1020,
+	"Codigo": "LACSUP10",
+	"Descripcion": "Laca Azul entonador",
+	"Grupo": "Lacas",
+	"Marca": "Super",
+	"Id_medida": 18
+}, {
+	"Id": 224,
+	"Id_grupo": 1106,
+	"Id_marca": 1020,
+	"Codigo": "BASSUP01",
+	"Descripcion": "Base Negra",
+	"Grupo": "Bases",
+	"Marca": "Super",
+	"Id_medida": 18
+}, {
+	"Id": 225,
+	"Id_grupo": 1106,
+	"Id_marca": 1020,
+	"Codigo": "BASSUP02",
+	"Descripcion": "Base Blanca",
+	"Grupo": "Bases",
+	"Marca": "Super",
+	"Id_medida": 18
+}, {
+	"Id": 226,
+	"Id_grupo": 1015,
+	"Id_marca": 1020,
+	"Codigo": "LACSUOP11",
+	"Descripcion": "Laca Negra Mezcla",
+	"Grupo": "Lacas",
+	"Marca": "Super",
+	"Id_medida": 18
+}, {
+	"Id": 227,
+	"Id_grupo": 1106,
+	"Id_marca": 1020,
+	"Codigo": "BASSUP03",
+	"Descripcion": "Base Gris",
+	"Grupo": "Bases",
+	"Marca": "Super",
+	"Id_medida": 18
+}, {
+	"Id": 228,
+	"Id_grupo": 1015,
+	"Id_marca": 1020,
+	"Codigo": "LACSUP12",
+	"Descripcion": "Laca Naranja",
+	"Grupo": "Lacas",
+	"Marca": "Super",
+	"Id_medida": 18
+}, {
+	"Id": 230,
+	"Id_grupo": 1015,
+	"Id_marca": 1019,
+	"Codigo": "LACEVE17",
+	"Descripcion": "Laca Negro Concentrado Every",
+	"Grupo": "Lacas",
+	"Marca": "Every",
+	"Id_medida": 18
+}, {
+	"Id": 231,
+	"Id_grupo": 1106,
+	"Id_marca": 1019,
+	"Codigo": "BASEVE01",
+	"Descripcion": "Laca Base Aluminio grano fino",
+	"Grupo": "Bases",
+	"Marca": "Every",
+	"Id_medida": 18
+}, {
+	"Id": 232,
+	"Id_grupo": 1106,
+	"Id_marca": 1019,
+	"Codigo": "BASEVE02",
+	"Descripcion": "Laca Base Gris Every",
+	"Grupo": "Bases",
+	"Marca": "Every",
+	"Id_medida": 18
+}, {
+	"Id": 233,
+	"Id_grupo": 1015,
+	"Id_marca": 1019,
+	"Codigo": "LACEVE18",
+	"Descripcion": "Laca Blanco concentrado Every",
+	"Grupo": "Lacas",
+	"Marca": "Every",
+	"Id_medida": 18
+}, {
+	"Id": 234,
+	"Id_grupo": 1106,
+	"Id_marca": 1019,
+	"Codigo": "BASEVE03",
+	"Descripcion": "Laca Base Negra Every",
+	"Grupo": "Bases",
+	"Marca": "Every",
+	"Id_medida": 18
+}, {
+	"Id": 236,
+	"Id_grupo": 1015,
+	"Id_marca": 1011,
+	"Codigo": "LACPINT01",
+	"Descripcion": "LC7549 Laca Negro Mate",
+	"Grupo": "Lacas",
+	"Marca": "Pintuco",
+	"Id_medida": 18
+}, {
+	"Id": 237,
+	"Id_grupo": 1015,
+	"Id_marca": 1011,
+	"Codigo": "LACPINT02",
+	"Descripcion": "7518 Laca Negra",
+	"Grupo": "Lacas",
+	"Marca": "Pintuco",
+	"Id_medida": 18
+}, {
+	"Id": 238,
+	"Id_grupo": 1015,
+	"Id_marca": 1011,
+	"Codigo": "LACPINT03",
+	"Descripcion": "Laca Negro Medianoche",
+	"Grupo": "Lacas",
+	"Marca": "Pintuco",
+	"Id_medida": 18
+}, {
+	"Id": 239,
+	"Id_grupo": 1015,
+	"Id_marca": 1011,
+	"Codigo": "LACPINT04",
+	"Descripcion": "Laca Negro Matiz",
+	"Grupo": "Lacas",
+	"Marca": "Pintuco",
+	"Id_medida": 18
+}, {
+	"Id": 240,
+	"Id_grupo": 1015,
+	"Id_marca": 1011,
+	"Codigo": "LACPINT05",
+	"Descripcion": "Laca Marron Bond",
+	"Grupo": "Lacas",
+	"Marca": "Pintuco",
+	"Id_medida": 18
+}, {
+	"Id": 241,
+	"Id_grupo": 1015,
+	"Id_marca": 1011,
+	"Codigo": "LACPINT06",
+	"Descripcion": "LC7500 Laca Amarillo Taxi",
+	"Grupo": "Lacas",
+	"Marca": "Pintuco",
+	"Id_medida": 18
+}, {
+	"Id": 242,
+	"Id_grupo": 1015,
+	"Id_marca": 1011,
+	"Codigo": "LACPINT07",
+	"Descripcion": "LC7519 Laca Blanca",
+	"Grupo": "Lacas",
+	"Marca": "Pintuco",
+	"Id_medida": 18
+}, {
+	"Id": 243,
+	"Id_grupo": 1015,
+	"Id_marca": 1011,
+	"Codigo": "LACPINT08",
+	"Descripcion": "Laca Rojo claro",
+	"Grupo": "Lacas",
+	"Marca": "Pintuco",
+	"Id_medida": 18
+}, {
+	"Id": 244,
+	"Id_grupo": 1106,
+	"Id_marca": 1011,
+	"Codigo": "BASPINT01",
+	"Descripcion": "BS7200 Base Gris",
+	"Grupo": "Bases",
+	"Marca": "Pintuco",
+	"Id_medida": 18
+}, {
+	"Id": 245,
+	"Id_grupo": 1015,
+	"Id_marca": 1021,
+	"Codigo": "LACCOL01",
+	"Descripcion": "Laca Blanco concentrado Colonial",
+	"Grupo": "Lacas",
+	"Marca": "Colonial",
+	"Id_medida": 18
+}, {
+	"Id": 246,
+	"Id_grupo": 1015,
+	"Id_marca": 1021,
+	"Codigo": "LACCOL02",
+	"Descripcion": "Laca Aluminio grano grueso Colonial",
+	"Grupo": "Lacas",
+	"Marca": "Colonial",
+	"Id_medida": 18
+}, {
+	"Id": 247,
+	"Id_grupo": 1015,
+	"Id_marca": 1021,
+	"Codigo": "LACCOL03",
+	"Descripcion": "Laca Aluminio grano medio Colonial",
+	"Grupo": "Lacas",
+	"Marca": "Colonial",
+	"Id_medida": 18
+}, {
+	"Id": 248,
+	"Id_grupo": 1015,
+	"Id_marca": 1021,
+	"Codigo": "LACCOL04",
+	"Descripcion": "Laca Amarillo Cromo Colonial",
+	"Grupo": "Lacas",
+	"Marca": "Colonial",
+	"Id_medida": 18
+}, {
+	"Id": 250,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE02",
+	"Descripcion": "BC632 Aluminio grano grueso",
+	"Grupo": "Bicapa",
+	"Marca": "Ixell",
+	"Id_medida": 18
+}, {
+	"Id": 251,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE03",
+	"Descripcion": "BC557 Negro Amarilloso",
+	"Grupo": "Bicapa",
+	"Marca": "Ixell",
+	"Id_medida": 18
+}, {
+	"Id": 252,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE04",
+	"Descripcion": "BC599 Perla Cobre",
+	"Grupo": "Bicapa",
+	"Marca": "Ixell",
+	"Id_medida": 18
+}, {
+	"Id": 253,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE05",
+	"Descripcion": "BC505 Azul Verdoso",
+	"Grupo": "Bicapa",
+	"Marca": "Ixell",
+	"Id_medida": 18
+}, {
+	"Id": 254,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE06",
+	"Descripcion": "BC637 Aluminio lenticular fino",
+	"Grupo": "Bicapa",
+	"Marca": "Ixell",
+	"Id_medida": 18
+}, {
+	"Id": 255,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE07",
+	"Descripcion": "BC525 Violeta",
+	"Grupo": "Bicapa",
+	"Marca": "Ixell",
+	"Id_medida": 18
+}, {
+	"Id": 256,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE08",
+	"Descripcion": "BC501 Rojo Oxido o transparente",
+	"Grupo": "Bicapa",
+	"Marca": "Ixell",
+	"Id_medida": 18
+}, {
+	"Id": 257,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE09",
+	"Descripcion": "BC569 Verde Oro",
+	"Grupo": "Bicapa",
+	"Marca": "Ixell",
+	"Id_medida": 18
+}, {
+	"Id": 258,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE10",
+	"Descripcion": "BC608 Aluminio lenticular extrafino",
+	"Grupo": "Bicapa",
+	"Marca": "Ixell",
+	"Id_medida": 18
+}, {
+	"Id": 259,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE11",
+	"Descripcion": "BC598 Perla Blanca extrafino",
+	"Grupo": "Bicapa",
+	"Marca": "Ixell",
+	"Id_medida": 18
+}, {
+	"Id": 260,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE12",
+	"Descripcion": "BC604 Perla Verde",
+	"Grupo": "Bicapa",
+	"Marca": "Ixell",
+	"Id_medida": 18
+}, {
+	"Id": 261,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE13",
+	"Descripcion": "BC529 Blanco",
+	"Grupo": "Bicapa",
+	"Marca": "Ixell",
+	"Id_medida": 18
+}, {
+	"Id": 262,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE14",
+	"Descripcion": "BC549 Azul intermedio",
+	"Grupo": "Bicapa",
+	"Marca": "Ixell",
+	"Id_medida": 18
+}, {
+	"Id": 263,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE15",
+	"Descripcion": "BC513 Ocre transparente",
+	"Grupo": "Bicapa",
+	"Marca": "Ixell",
+	"Id_medida": 18
+}, {
+	"Id": 264,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE16",
+	"Descripcion": "BC590 Perla Violeta",
+	"Grupo": "Bicapa",
+	"Marca": "Ixell",
+	"Id_medida": 18
+}, {
+	"Id": 265,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE17",
+	"Descripcion": "BC523 Aluminio grano fino",
+	"Grupo": "Bicapa",
+	"Marca": "Ixell",
+	"Id_medida": 18
+}, {
+	"Id": 266,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE18",
+	"Descripcion": "BC000 Verde cristal",
+	"Grupo": "Bicapa",
+	"Marca": "Ixell",
+	"Id_medida": 18
+}, {
+	"Id": 267,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE19",
+	"Descripcion": "BC606 Rojo Perla fina",
+	"Grupo": "Bicapa",
+	"Marca": "Ixell",
+	"Id_medida": 18
+}, {
+	"Id": 268,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE20",
+	"Descripcion": "BC515 Amarillo Oxido",
+	"Grupo": "Bicapa",
+	"Marca": "Ixell",
+	"Id_medida": 18
+}, {
+	"Id": 269,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE21",
+	"Descripcion": "BC619 Aluminio extrafino",
+	"Grupo": "Bicapa",
+	"Marca": "Ixell",
+	"Id_medida": 18
+}, {
+	"Id": 270,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE22",
+	"Descripcion": "BC509 Azul Rojizo",
+	"Grupo": "Bicapa",
+	"Marca": "Ixell",
+	"Id_medida": 18
+}, {
+	"Id": 273,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE25",
+	"Descripcion": "BC565 Blanco ultrafino",
+	"Grupo": "Bicapa",
+	"Marca": "Ixell",
+	"Id_medida": 18
+}, {
+	"Id": 274,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE26",
+	"Descripcion": "BC581 Amarillo brillante",
+	"Grupo": "Bicapa",
+	"Marca": "Ixell",
+	"Id_medida": 18
+}, {
+	"Id": 275,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE27",
+	"Descripcion": "PLUS002 Perla Roja interferencia",
+	"Grupo": "Bicapa",
+	"Marca": "Ixell",
+	"Id_medida": 18
+}, {
+	"Id": 276,
+	"Id_grupo": 1105,
+	"Id_marca": 1056,
+	"Codigo": "POLCOL01",
+	"Descripcion": "POL940 Blanco puro",
+	"Grupo": "Poliuretano",
+	"Marca": "Ixell",
+	"Id_medida": 18
+}, {
+	"Id": 277,
+	"Id_grupo": 1105,
+	"Id_marca": 1056,
+	"Codigo": "POLCOL02",
+	"Descripcion": "POL980 Negro",
+	"Grupo": "Poliuretano",
+	"Marca": "Ixell",
+	"Id_medida": 18
+}, {
+	"Id": 278,
+	"Id_grupo": 1105,
+	"Id_marca": 1056,
+	"Codigo": "POLCOL03",
+	"Descripcion": "POL930 Azul puro",
+	"Grupo": "Poliuretano",
+	"Marca": "Ixell",
+	"Id_medida": 18
+}, {
+	"Id": 279,
+	"Id_grupo": 1105,
+	"Id_marca": 1056,
+	"Codigo": "POLCOL04",
+	"Descripcion": "POL825 Ocre",
+	"Grupo": "Poliuretano",
+	"Marca": "Ixell",
+	"Id_medida": 18
+}, {
+	"Id": 280,
+	"Id_grupo": 1105,
+	"Id_marca": 1056,
+	"Codigo": "POLCOL05",
+	"Descripcion": "POL880 Negro",
+	"Grupo": "Poliuretano",
+	"Marca": "Ixell",
+	"Id_medida": 18
+}, {
+	"Id": 281,
+	"Id_grupo": 1105,
+	"Id_marca": 1056,
+	"Codigo": "POLCOL06",
+	"Descripcion": "POL830 Azul",
+	"Grupo": "Poliuretano",
+	"Marca": "Ixell",
+	"Id_medida": 18
+}, {
+	"Id": 282,
+	"Id_grupo": 1105,
+	"Id_marca": 1056,
+	"Codigo": "POLCOL07",
+	"Descripcion": "POL810 Amarillo claro",
+	"Grupo": "Poliuretano",
+	"Marca": "Ixell",
+	"Id_medida": 18
+}, {
+	"Id": 283,
+	"Id_grupo": 1105,
+	"Id_marca": 1056,
+	"Codigo": "POLCOL08",
+	"Descripcion": "POL856 Verde puro",
+	"Grupo": "Poliuretano",
+	"Marca": "Ixell",
+	"Id_medida": 18
+}, {
+	"Id": 284,
+	"Id_grupo": 1105,
+	"Id_marca": 1056,
+	"Codigo": "POLCOL09",
+	"Descripcion": "POL852 Rojo organico",
+	"Grupo": "Poliuretano",
+	"Marca": "Ixell",
+	"Id_medida": 18
+}, {
+	"Id": 285,
+	"Id_grupo": 1105,
+	"Id_marca": 1056,
+	"Codigo": "POLCOL10",
+	"Descripcion": "POL848 Naranja",
+	"Grupo": "Poliuretano",
+	"Marca": "Ixell",
+	"Id_medida": 18
+}, {
+	"Id": 286,
+	"Id_grupo": 1107,
+	"Id_marca": 1010,
+	"Codigo": "BICCAR01",
+	"Descripcion": "BCP55929 Negro Azuloso",
+	"Grupo": "Bicapa",
+	"Marca": "Caralz",
+	"Id_medida": 18
+}, {
+	"Id": 287,
+	"Id_grupo": 1107,
+	"Id_marca": 1010,
+	"Codigo": "BICCAR02",
+	"Descripcion": "BCP33696 Verde Amarilloso",
+	"Grupo": "Bicapa",
+	"Marca": "Caralz",
+	"Id_medida": 18
+}, {
+	"Id": 288,
+	"Id_grupo": 1107,
+	"Id_marca": 1010,
+	"Codigo": "BICCAR03",
+	"Descripcion": "BCP33019 Perla Plata diamante",
+	"Grupo": "Bicapa",
+	"Marca": "Caralz",
+	"Id_medida": 18
+}, {
+	"Id": 289,
+	"Id_grupo": 1107,
+	"Id_marca": 1010,
+	"Codigo": "BICCAR04",
+	"Descripcion": "BCP33427 Violeta Azuloso",
+	"Grupo": "Bicapa",
+	"Marca": "Caralz",
+	"Id_medida": 18
+}, {
+	"Id": 290,
+	"Id_grupo": 1107,
+	"Id_marca": 1010,
+	"Codigo": "BICCAR05",
+	"Descripcion": "BCP5000 Transparente mezcla",
+	"Grupo": "Bicapa",
+	"Marca": "Caralz",
+	"Id_medida": 18
+}, {
+	"Id": 291,
+	"Id_grupo": 1107,
+	"Id_marca": 1010,
+	"Codigo": "BICCAR06",
+	"Descripcion": "BC3347 Marron",
+	"Grupo": "Bicapa",
+	"Marca": "Caralz",
+	"Id_medida": 18
+}, {
+	"Id": 292,
+	"Id_grupo": 1107,
+	"Id_marca": 1010,
+	"Codigo": "BICCAR07",
+	"Descripcion": "BCP33025 Blanco",
+	"Grupo": "Bicapa",
+	"Marca": "Caralz",
+	"Id_medida": 18
+}, {
+	"Id": 293,
+	"Id_grupo": 1107,
+	"Id_marca": 1010,
+	"Codigo": "BICCAR08",
+	"Descripcion": "BC3390 Cafe oscuro",
+	"Grupo": "Bicapa",
+	"Marca": "Caralz",
+	"Id_medida": 18
+}, {
+	"Id": 294,
+	"Id_grupo": 1107,
+	"Id_marca": 1010,
+	"Codigo": "BICCAR09",
+	"Descripcion": "BC724 Amarillo taxi",
+	"Grupo": "Bicapa",
+	"Marca": "Caralz",
+	"Id_medida": 18
+}, {
+	"Id": 295,
+	"Id_grupo": 1107,
+	"Id_marca": 1010,
+	"Codigo": "BICCAR10",
+	"Descripcion": "BCP33505 Perla Azul",
+	"Grupo": "Bicapa",
+	"Marca": "Caralz",
+	"Id_medida": 18
+}, {
+	"Id": 296,
+	"Id_grupo": 1107,
+	"Id_marca": 1010,
+	"Codigo": "BICCAR11",
+	"Descripcion": "BCP33527 Azul profundo",
+	"Grupo": "Bicapa",
+	"Marca": "Caralz",
+	"Id_medida": 18
+}, {
+	"Id": 297,
+	"Id_grupo": 1107,
+	"Id_marca": 1010,
+	"Codigo": "BICCAR12",
+	"Descripcion": "BC3322 Rojo brillante",
+	"Grupo": "Bicapa",
+	"Marca": "Caralz",
+	"Id_medida": 18
+}, {
+	"Id": 298,
+	"Id_grupo": 1107,
+	"Id_marca": 1010,
+	"Codigo": "BICCAR13",
+	"Descripcion": "BC3926 Negro",
+	"Grupo": "Bicapa",
+	"Marca": "Caralz",
+	"Id_medida": 18
+}, {
+	"Id": 302,
+	"Id_grupo": 1106,
+	"Id_marca": 1010,
+	"Codigo": "BASCAR01",
+	"Descripcion": "MS8990 Base PUR Blanco",
+	"Grupo": "Bases",
+	"Marca": "Caralz",
+	"Id_medida": 18
+}, {
+	"Id": 304,
+	"Id_grupo": 1106,
+	"Id_marca": 1010,
+	"Codigo": "BASCAR03",
+	"Descripcion": "Base Blanco",
+	"Grupo": "Bases",
+	"Marca": "Caralz",
+	"Id_medida": 18
+}, {
+	"Id": 306,
+	"Id_grupo": 1106,
+	"Id_marca": 1010,
+	"Codigo": "BASCAR05",
+	"Descripcion": "MS8980 Base Negra",
+	"Grupo": "Bases",
+	"Marca": "Caralz",
+	"Id_medida": 18
+}, {
+	"Id": 307,
+	"Id_grupo": 1106,
+	"Id_marca": 1010,
+	"Codigo": "BASCAR06",
+	"Descripcion": "MS8902 Base Gris claro",
+	"Grupo": "Bases",
+	"Marca": "Caralz",
+	"Id_medida": 18
+}, {
+	"Id": 308,
+	"Id_grupo": 1106,
+	"Id_marca": 1010,
+	"Codigo": "BASCAR07",
+	"Descripcion": "Base Transparente plastico",
+	"Grupo": "Bases",
+	"Marca": "Caralz",
+	"Id_medida": 18
+}, {
+	"Id": 309,
+	"Id_grupo": 1090,
+	"Id_marca": 1010,
+	"Codigo": "BARCAR02",
+	"Descripcion": "Barniz HS + Catalizador Caralz",
+	"Grupo": "Barniz",
+	"Marca": "Caralz",
+	"Id_medida": 18
+}, {
+	"Id": 310,
+	"Id_grupo": 1090,
+	"Id_marca": 1010,
+	"Codigo": "BARCAR03",
+	"Descripcion": "CS20 Barniz Poliuretano Mate",
+	"Grupo": "Barniz",
+	"Marca": "Caralz",
+	"Id_medida": 18
+}, {
+	"Id": 313,
+	"Id_grupo": 1105,
+	"Id_marca": 1010,
+	"Codigo": "POLCAR01",
+	"Descripcion": "POL Blanco",
+	"Grupo": "Poliuretano",
+	"Marca": "Caralz",
+	"Id_medida": 18
+}, {
+	"Id": 314,
+	"Id_grupo": 1105,
+	"Id_marca": 1010,
+	"Codigo": "POLCAR02",
+	"Descripcion": "POLDP01 Aluminio fino",
+	"Grupo": "Poliuretano",
+	"Marca": "Caralz",
+	"Id_medida": 18
+}, {
+	"Id": 315,
+	"Id_grupo": 1105,
+	"Id_marca": 1010,
+	"Codigo": "POLCAR03",
+	"Descripcion": "POLDP04 Aluminio super grueso",
+	"Grupo": "Poliuretano",
+	"Marca": "Caralz",
+	"Id_medida": 18
+}, {
+	"Id": 316,
+	"Id_grupo": 1105,
+	"Id_marca": 1010,
+	"Codigo": "POLCAR04",
+	"Descripcion": "POLDP02 Aluminio grueso",
+	"Grupo": "Poliuretano",
+	"Marca": "Caralz",
+	"Id_medida": 18
+}, {
+	"Id": 317,
+	"Id_grupo": 1105,
+	"Id_marca": 1010,
+	"Codigo": "POLCAR05",
+	"Descripcion": "POL Aluminio lenticular fino",
+	"Grupo": "Poliuretano",
+	"Marca": "Caralz",
+	"Id_medida": 18
+}, {
+	"Id": 318,
+	"Id_grupo": 1105,
+	"Id_marca": 1010,
+	"Codigo": "POLCAR06",
+	"Descripcion": "POLMS1060 Blanco",
+	"Grupo": "Poliuretano",
+	"Marca": "Caralz",
+	"Id_medida": 18
+}, {
+	"Id": 319,
+	"Id_grupo": 1109,
+	"Id_marca": 1010,
+	"Codigo": "IMPCAR01",
+	"Descripcion": "Impresion Fosfatante",
+	"Grupo": "Impresion",
+	"Marca": "Caralz",
+	"Id_medida": 18
+}, {
+	"Id": 320,
+	"Id_grupo": 1088,
+	"Id_marca": 1010,
+	"Codigo": "DISCAR02",
+	"Descripcion": "Thinner Desengrasante 1L Caralz",
+	"Grupo": "Disolvente",
+	"Marca": "Caralz",
+	"Id_medida": 18
+}, {
+	"Id": 321,
+	"Id_grupo": 1095,
+	"Id_marca": 1010,
+	"Codigo": "CATCAR04",
+	"Descripcion": "Catalizador Impresion Fosfatante",
+	"Grupo": "Catalizador ",
+	"Marca": "Caralz",
+	"Id_medida": 18
+}, {
+	"Id": 322,
+	"Id_grupo": 1110,
+	"Id_marca": 1010,
+	"Codigo": "ADICAR01",
+	"Descripcion": "Aditivo Anti Crater",
+	"Grupo": "Aditivo",
+	"Marca": "Caralz",
+	"Id_medida": 18
+}, {
+	"Id": 323,
+	"Id_grupo": 1078,
+	"Id_marca": 1010,
+	"Codigo": "COPCAR03",
+	"Descripcion": "Copado Blanco Polcar  P111",
+	"Grupo": "Copado",
+	"Marca": "Caralz",
+	"Id_medida": 18
+}, {
+	"Id": 324,
+	"Id_grupo": 1111,
+	"Id_marca": 1010,
+	"Codigo": "PULCAR01",
+	"Descripcion": "Pulidor liquido fino P220",
+	"Grupo": "Pulidor",
+	"Marca": "Caralz",
+	"Id_medida": 18
+}, {
+	"Id": 325,
+	"Id_grupo": 1009,
+	"Id_marca": 1010,
+	"Codigo": "MASCAR01",
+	"Descripcion": "Masilla poliester K305",
+	"Grupo": "Masillas",
+	"Marca": "Caralz",
+	"Id_medida": 18
+}, {
+	"Id": 326,
+	"Id_grupo": 1014,
+	"Id_marca": 1016,
+	"Codigo": "ESMCOL14",
+	"Descripcion": "Esmalte Negro Colpinturas",
+	"Grupo": "Esmalte",
+	"Marca": "Colpinturas",
+	"Id_medida": 18
+}, {
+	"Id": 327,
+	"Id_grupo": 1102,
+	"Id_marca": 1016,
+	"Codigo": "MARCOL01",
+	"Descripcion": "Martillado Azul",
+	"Grupo": "Martillado",
+	"Marca": "Colpinturas",
+	"Id_medida": 18
+}, {
+	"Id": 328,
+	"Id_grupo": 1014,
+	"Id_marca": 1016,
+	"Codigo": "ESMCOL15",
+	"Descripcion": "Esmalte Anoloc Bronce Colpinturas",
+	"Grupo": "Esmalte",
+	"Marca": "Colpinturas",
+	"Id_medida": 18
+}, {
+	"Id": 329,
+	"Id_grupo": 1102,
+	"Id_marca": 1016,
+	"Codigo": "MARCOL02",
+	"Descripcion": "Martillado Verde",
+	"Grupo": "Martillado",
+	"Marca": "Colpinturas",
+	"Id_medida": 18
+}, {
+	"Id": 330,
+	"Id_grupo": 1102,
+	"Id_marca": 1016,
+	"Codigo": "MARCOL03",
+	"Descripcion": "Martillado Gris",
+	"Grupo": "Martillado",
+	"Marca": "Colpinturas",
+	"Id_medida": 18
+}, {
+	"Id": 331,
+	"Id_grupo": 1112,
+	"Id_marca": 1016,
+	"Codigo": "CROCOL01",
+	"Descripcion": "Cromato Amarillo",
+	"Grupo": "Cromato",
+	"Marca": "Colpinturas",
+	"Id_medida": 18
+}, {
+	"Id": 332,
+	"Id_grupo": 1112,
+	"Id_marca": 1016,
+	"Codigo": "CROCOL02",
+	"Descripcion": "Cromato Verde",
+	"Grupo": "Cromato",
+	"Marca": "Colpinturas",
+	"Id_medida": 18
+}, {
+	"Id": 333,
+	"Id_grupo": 1014,
+	"Id_marca": 1012,
+	"Codigo": "ESMSOL01",
+	"Descripcion": "Esmalte Blanco mate",
+	"Grupo": "Esmalte",
+	"Marca": "Solaris",
+	"Id_medida": 18
+}, {
+	"Id": 334,
+	"Id_grupo": 1014,
+	"Id_marca": 1012,
+	"Codigo": "ESMSOL02",
+	"Descripcion": "Esmalte Negro brillante",
+	"Grupo": "Esmalte",
+	"Marca": "Solaris",
+	"Id_medida": 18
+}, {
+	"Id": 335,
+	"Id_grupo": 1014,
+	"Id_marca": 1012,
+	"Codigo": "ESMSOL03",
+	"Descripcion": "Esmalte Negro mate",
+	"Grupo": "Esmalte",
+	"Marca": "Solaris",
+	"Id_medida": 18
+}, {
+	"Id": 336,
+	"Id_grupo": 1014,
+	"Id_marca": 1012,
+	"Codigo": "ESMSOL04",
+	"Descripcion": "Esmalte Blanco brillante",
+	"Grupo": "Esmalte",
+	"Marca": "Solaris",
+	"Id_medida": 18
+}, {
+	"Id": 337,
+	"Id_grupo": 1012,
+	"Id_marca": 1012,
+	"Codigo": "AERSOL16",
+	"Descripcion": "Aerosol Verde Bosque",
+	"Grupo": "Aerosol",
+	"Marca": "Solaris",
+	"Id_medida": 18
+}, {
+	"Id": 338,
+	"Id_grupo": 1012,
+	"Id_marca": 1012,
+	"Codigo": "AERSOL17",
+	"Descripcion": "Aerosol Amarillo Fluorescente",
+	"Grupo": "Aerosol",
+	"Marca": "Solaris",
+	"Id_medida": 18
+}, {
+	"Id": 339,
+	"Id_grupo": 1012,
+	"Id_marca": 1012,
+	"Codigo": "AERSOL18",
+	"Descripcion": "Aerosol Oro rico",
+	"Grupo": "Aerosol",
+	"Marca": "Solaris",
+	"Id_medida": 18
+}, {
+	"Id": 340,
+	"Id_grupo": 1012,
+	"Id_marca": 1012,
+	"Codigo": "AERSOL21",
+	"Descripcion": "Aerosol Vino tinto",
+	"Grupo": "Aerosol",
+	"Marca": "Solaris",
+	"Id_medida": 18
+}, {
+	"Id": 341,
+	"Id_grupo": 1014,
+	"Id_marca": 1019,
+	"Codigo": "ESMEVE01",
+	"Descripcion": "Esmalte Azul Oscuro Every",
+	"Grupo": "Esmalte",
+	"Marca": "Every",
+	"Id_medida": 18
+}, {
+	"Id": 342,
+	"Id_grupo": 1014,
+	"Id_marca": 1019,
+	"Codigo": "ESMEVE02",
+	"Descripcion": "Esmalte Neon Magenta Every",
+	"Grupo": "Esmalte",
+	"Marca": "Every",
+	"Id_medida": 18
+}, {
+	"Id": 343,
+	"Id_grupo": 1016,
+	"Id_marca": 1019,
+	"Codigo": "ANTEVE01",
+	"Descripcion": "Anticorrosivo Gris Every",
+	"Grupo": "Anticorrosivos",
+	"Marca": "Every",
+	"Id_medida": 18
+}, {
+	"Id": 344,
+	"Id_grupo": 1014,
+	"Id_marca": 1015,
+	"Codigo": "ESMTEC01",
+	"Descripcion": "Esmalte Anoloc",
+	"Grupo": "Esmalte",
+	"Marca": "Tecnidecor",
+	"Id_medida": 18
+}, {
+	"Id": 345,
+	"Id_grupo": 1014,
+	"Id_marca": 1015,
+	"Codigo": "ESMTEC02",
+	"Descripcion": "Esmalte Maximo Aluminio",
+	"Grupo": "Esmalte",
+	"Marca": "Tecnidecor",
+	"Id_medida": 18
+}, {
+	"Id": 346,
+	"Id_grupo": 1014,
+	"Id_marca": 1015,
+	"Codigo": "ESMTEC03",
+	"Descripcion": "Esmalte Verde Turquesa",
+	"Grupo": "Esmalte",
+	"Marca": "Tecnidecor",
+	"Id_medida": 18
+}, {
+	"Id": 347,
+	"Id_grupo": 1014,
+	"Id_marca": 1015,
+	"Codigo": "ESMTEC04",
+	"Descripcion": "Esmalte Rojo Bermellon",
+	"Grupo": "Esmalte",
+	"Marca": "Tecnidecor",
+	"Id_medida": 18
+}, {
+	"Id": 348,
+	"Id_grupo": 1113,
+	"Id_marca": 1015,
+	"Codigo": "EPOTEC01",
+	"Descripcion": "Epoxico Amarillo",
+	"Grupo": "Epoxico",
+	"Marca": "Tecnidecor",
+	"Id_medida": 18
+}, {
+	"Id": 349,
+	"Id_grupo": 1113,
+	"Id_marca": 1015,
+	"Codigo": "EPOTEC02",
+	"Descripcion": "Epoxico Rojo brillante",
+	"Grupo": "Epoxico",
+	"Marca": "Tecnidecor",
+	"Id_medida": 18
+}, {
+	"Id": 350,
+	"Id_grupo": 1113,
+	"Id_marca": 1015,
+	"Codigo": "EPOTEC03",
+	"Descripcion": "Amarillo Trafico acrilico",
+	"Grupo": "Epoxico",
+	"Marca": "Tecnidecor",
+	"Id_medida": 18
+}, {
+	"Id": 351,
+	"Id_grupo": 1013,
+	"Id_marca": 1015,
+	"Codigo": "VINTEC04",
+	"Descripcion": "Vinilo Negro",
+	"Grupo": "Vinilos",
+	"Marca": "Tecnidecor",
+	"Id_medida": 18
+}, {
+	"Id": 352,
+	"Id_grupo": 1013,
+	"Id_marca": 1015,
+	"Codigo": "VINTEC05",
+	"Descripcion": "Vinilo Amarillo vivo",
+	"Grupo": "Vinilos",
+	"Marca": "Tecnidecor",
+	"Id_medida": 18
+}, {
+	"Id": 353,
+	"Id_grupo": 1013,
+	"Id_marca": 1015,
+	"Codigo": "VINTEC06",
+	"Descripcion": "Vinilo Mandarina",
+	"Grupo": "Vinilos",
+	"Marca": "Tecnidecor",
+	"Id_medida": 18
+}, {
+	"Id": 354,
+	"Id_grupo": 1016,
+	"Id_marca": 1015,
+	"Codigo": "ANTTEC01",
+	"Descripcion": "Anticorrosivo Gris Tecnidecor",
+	"Grupo": "Anticorrosivos",
+	"Marca": "Tecnidecor",
+	"Id_medida": 18
+}, {
+	"Id": 355,
+	"Id_grupo": 1014,
+	"Id_marca": 1019,
+	"Codigo": "ESMEVE03",
+	"Descripcion": "Esmalte Negro Profundo Every",
+	"Grupo": "Esmalte",
+	"Marca": "Every",
+	"Id_medida": 18
+}, {
+	"Id": 356,
+	"Id_grupo": 1014,
+	"Id_marca": 1019,
+	"Codigo": "ESMEVE04",
+	"Descripcion": "Esmalte Azul entonador Every",
+	"Grupo": "Esmalte",
+	"Marca": "Every",
+	"Id_medida": 18
+}, {
+	"Id": 357,
+	"Id_grupo": 1014,
+	"Id_marca": 1019,
+	"Codigo": "ESMEVE05",
+	"Descripcion": "Esmalte Verde entonador Every",
+	"Grupo": "Esmalte",
+	"Marca": "Every",
+	"Id_medida": 18
+}, {
+	"Id": 358,
+	"Id_grupo": 1014,
+	"Id_marca": 1019,
+	"Codigo": "ESMEVE06",
+	"Descripcion": "Esmalte Verde esmeralda Every",
+	"Grupo": "Esmalte",
+	"Marca": "Every",
+	"Id_medida": 18
+}, {
+	"Id": 359,
+	"Id_grupo": 1016,
+	"Id_marca": 1019,
+	"Codigo": "ANTEVE02",
+	"Descripcion": "Anticorrosivo Blanco Every",
+	"Grupo": "Anticorrosivos",
+	"Marca": "Every",
+	"Id_medida": 18
+}, {
+	"Id": 360,
+	"Id_grupo": 1016,
+	"Id_marca": 1019,
+	"Codigo": "ANTEVE03",
+	"Descripcion": "Anticorrosivo Negro Brillante Every",
+	"Grupo": "Anticorrosivos",
+	"Marca": "Every",
+	"Id_medida": 18
+}, {
+	"Id": 361,
+	"Id_grupo": 1016,
+	"Id_marca": 1019,
+	"Codigo": "ANTEVE04",
+	"Descripcion": "Anticorrosivo Rojo Every",
+	"Grupo": "Anticorrosivos",
+	"Marca": "Every",
+	"Id_medida": 18
+}, {
+	"Id": 362,
+	"Id_grupo": 1014,
+	"Id_marca": 1011,
+	"Codigo": "ESMPINT01",
+	"Descripcion": "Esmalte Negro",
+	"Grupo": "Esmalte",
+	"Marca": "Pintuco",
+	"Id_medida": 18
+}, {
+	"Id": 363,
+	"Id_grupo": 1014,
+	"Id_marca": 1011,
+	"Codigo": "ESMPINT02",
+	"Descripcion": "Esmalte Rojo Bermellon",
+	"Grupo": "Esmalte",
+	"Marca": "Pintuco",
+	"Id_medida": 18
+}, {
+	"Id": 364,
+	"Id_grupo": 1014,
+	"Id_marca": 1011,
+	"Codigo": "ESMPINT03",
+	"Descripcion": "Esmalte Blanco",
+	"Grupo": "Esmalte",
+	"Marca": "Pintuco",
+	"Id_medida": 18
+}, {
+	"Id": 365,
+	"Id_grupo": 1014,
+	"Id_marca": 1011,
+	"Codigo": "ESMPINT04",
+	"Descripcion": "Esmalte Azul Español",
+	"Grupo": "Esmalte",
+	"Marca": "Pintuco",
+	"Id_medida": 18
+}, {
+	"Id": 367,
+	"Id_grupo": 1014,
+	"Id_marca": 1011,
+	"Codigo": "ESMPINT06",
+	"Descripcion": "Esmalte Verde esmeralda",
+	"Grupo": "Esmalte",
+	"Marca": "Pintuco",
+	"Id_medida": 18
+}, {
+	"Id": 368,
+	"Id_grupo": 1014,
+	"Id_marca": 1011,
+	"Codigo": "ESMPINT07",
+	"Descripcion": "Esmalte Blanco 3en1",
+	"Grupo": "Esmalte",
+	"Marca": "Pintuco",
+	"Id_medida": 18
+}, {
+	"Id": 369,
+	"Id_grupo": 1090,
+	"Id_marca": 1011,
+	"Codigo": "BARPINT01",
+	"Descripcion": "Barniz Brillante incoloro 5D1",
+	"Grupo": "Barniz",
+	"Marca": "Pintuco",
+	"Id_medida": 18
+}, {
+	"Id": 370,
+	"Id_grupo": 1090,
+	"Id_marca": 1011,
+	"Codigo": "BARPINT02",
+	"Descripcion": "Barniz 557",
+	"Grupo": "Barniz",
+	"Marca": "Pintuco",
+	"Id_medida": 18
+}, {
+	"Id": 371,
+	"Id_grupo": 1013,
+	"Id_marca": 1011,
+	"Codigo": "VINPINT01",
+	"Descripcion": "Vinilo Blanco",
+	"Grupo": "Vinilos",
+	"Marca": "Pintuco",
+	"Id_medida": 18
+}, {
+	"Id": 372,
+	"Id_grupo": 1013,
+	"Id_marca": 1011,
+	"Codigo": "VINPINT02",
+	"Descripcion": "Vinilo Verde primaveral",
+	"Grupo": "Vinilos",
+	"Marca": "Pintuco",
+	"Id_medida": 18
+}, {
+	"Id": 373,
+	"Id_grupo": 1013,
+	"Id_marca": 1011,
+	"Codigo": "VINPINT03",
+	"Descripcion": "Vinilo Azul mediterraneo",
+	"Grupo": "Vinilos",
+	"Marca": "Pintuco",
+	"Id_medida": 18
+}, {
+	"Id": 374,
+	"Id_grupo": 1013,
+	"Id_marca": 1011,
+	"Codigo": "VINPINT04",
+	"Descripcion": "Vinilo Azul oceanico",
+	"Grupo": "Vinilos",
+	"Marca": "Pintuco",
+	"Id_medida": 18
+}, {
+	"Id": 375,
+	"Id_grupo": 1114,
+	"Id_marca": 1011,
+	"Codigo": "LIMPINT01",
+	"Descripcion": "Limpiador Flash Clear 9410",
+	"Grupo": "Limpiador",
+	"Marca": "Pintuco",
+	"Id_medida": 18
+}, {
+	"Id": 376,
+	"Id_grupo": 1078,
+	"Id_marca": 1011,
+	"Codigo": "COPPINT01",
+	"Descripcion": "120025 Copado Blanco pintuco",
+	"Grupo": "Copado",
+	"Marca": "Pintuco",
+	"Id_medida": 18
+}, {
+	"Id": 377,
+	"Id_grupo": 1113,
+	"Id_marca": 1010,
+	"Codigo": "EPOCAR01",
+	"Descripcion": "Base Epoxica Verde",
+	"Grupo": "Epoxico",
+	"Marca": "Caralz",
+	"Id_medida": 18
+}, {
+	"Id": 378,
+	"Id_grupo": 1113,
+	"Id_marca": 1010,
+	"Codigo": "EPOCAR02",
+	"Descripcion": "Base Epoxica Negro",
+	"Grupo": "Epoxico",
+	"Marca": "Caralz",
+	"Id_medida": 18
+}, {
+	"Id": 379,
+	"Id_grupo": 1113,
+	"Id_marca": 1010,
+	"Codigo": "EPOCAR03",
+	"Descripcion": "Secador Epoxico",
+	"Grupo": "Epoxico",
+	"Marca": "Caralz",
+	"Id_medida": 18
+}, {
+	"Id": 381,
+	"Id_grupo": 1102,
+	"Id_marca": 1054,
+	"Codigo": "MARSUP03",
+	"Descripcion": "Martillado Gris",
+	"Grupo": "Martillado",
+	"Marca": "Supratech",
+	"Id_medida": 18
+}, {
+	"Id": 382,
+	"Id_grupo": 1078,
+	"Id_marca": 1054,
+	"Codigo": "COPSUP01",
+	"Descripcion": "Copado Rosado",
+	"Grupo": "Copado",
+	"Marca": "Supratech",
+	"Id_medida": 18
+}, {
+	"Id": 383,
+	"Id_grupo": 1014,
+	"Id_marca": 1058,
+	"Codigo": "ESMPIA01",
+	"Descripcion": "Esmalte Gold Tonner",
+	"Grupo": "Esmalte",
+	"Marca": "Piazza",
+	"Id_medida": 18
+}, {
+	"Id": 384,
+	"Id_grupo": 1106,
+	"Id_marca": 1058,
+	"Codigo": "BASPIA01",
+	"Descripcion": "Base Negra",
+	"Grupo": "Bases",
+	"Marca": "Piazza",
+	"Id_medida": 18
+}, {
+	"Id": 385,
+	"Id_grupo": 1013,
+	"Id_marca": 1058,
+	"Codigo": "VINPIA01",
+	"Descripcion": "Vinilo Cafe Paris",
+	"Grupo": "Vinilos",
+	"Marca": "Piazza",
+	"Id_medida": 18
+}, {
+	"Id": 386,
+	"Id_grupo": 1013,
+	"Id_marca": 1058,
+	"Codigo": "VINPIA02",
+	"Descripcion": "Vinilo Pistacho",
+	"Grupo": "Vinilos",
+	"Marca": "Piazza",
+	"Id_medida": 18
+}, {
+	"Id": 387,
+	"Id_grupo": 1013,
+	"Id_marca": 1058,
+	"Codigo": "VINPIA03",
+	"Descripcion": "Vinilo Rojo colonial",
+	"Grupo": "Vinilos",
+	"Marca": "Piazza",
+	"Id_medida": 18
+}, {
+	"Id": 388,
+	"Id_grupo": 1011,
+	"Id_marca": 1009,
+	"Codigo": "SLLPOL02",
+	"Descripcion": "Sellador P7 Amarillo",
+	"Grupo": "Sellador",
+	"Marca": "Poliescol",
+	"Id_medida": 18
+}, {
+	"Id": 392,
+	"Id_grupo": 1011,
+	"Id_marca": 1009,
+	"Codigo": "SLLPOL03",
+	"Descripcion": "Sellador P7 Gris",
+	"Grupo": "Sellador",
+	"Marca": "Poliescol",
+	"Id_medida": 18
+}, {
+	"Id": 393,
+	"Id_grupo": 1011,
+	"Id_marca": 1009,
+	"Codigo": "SLLPOL04",
+	"Descripcion": "Sellador P7 Azul",
+	"Grupo": "Sellador",
+	"Marca": "Poliescol",
+	"Id_medida": 18
+}, {
+	"Id": 394,
+	"Id_grupo": 1011,
+	"Id_marca": 1009,
+	"Codigo": "SLLPOL05",
+	"Descripcion": "Sellador P7 Negro",
+	"Grupo": "Sellador",
+	"Marca": "Poliescol",
+	"Id_medida": 18
+}, {
+	"Id": 395,
+	"Id_grupo": 1011,
+	"Id_marca": 1009,
+	"Codigo": "SLLPOL06",
+	"Descripcion": "Sellador P7 Blanco",
+	"Grupo": "Sellador",
+	"Marca": "Poliescol",
+	"Id_medida": 18
+}, {
+	"Id": 396,
+	"Id_grupo": 1115,
+	"Id_marca": 1050,
+	"Codigo": "NAPREM01",
+	"Descripcion": "Removedor",
+	"Grupo": "Removedor",
+	"Marca": "N/A",
+	"Id_medida": 18
+}, {
+	"Id": 397,
+	"Id_grupo": 1095,
+	"Id_marca": 1059,
+	"Codigo": "CATMAX01",
+	"Descripcion": "Catalizador Rojo 802",
+	"Grupo": "Catalizador ",
+	"Marca": "Maxcolor",
+	"Id_medida": 18
+}, {
+	"Id": 398,
+	"Id_grupo": 1095,
+	"Id_marca": 1059,
+	"Codigo": "CATMAX02",
+	"Descripcion": "Catalizador Azul 10 minutos",
+	"Grupo": "Catalizador ",
+	"Marca": "Maxcolor",
+	"Id_medida": 18
+}, {
+	"Id": 399,
+	"Id_grupo": 1107,
+	"Id_marca": 1059,
+	"Codigo": "BICMAX01",
+	"Descripcion": "BC Perla Blanca fina",
+	"Grupo": "Bicapa",
+	"Marca": "Maxcolor",
+	"Id_medida": 18
+}, {
+	"Id": 400,
+	"Id_grupo": 1090,
+	"Id_marca": 1059,
+	"Codigo": "BARMAX01",
+	"Descripcion": "Barniz Brillo plus 10 minutos + catalizador",
+	"Grupo": "Barniz",
+	"Marca": "Maxcolor",
+	"Id_medida": 18
+}, {
+	"Id": 401,
+	"Id_grupo": 1090,
+	"Id_marca": 1059,
+	"Codigo": "BARMAX02",
+	"Descripcion": "Barniz HS maxibrillo + catalizador",
+	"Grupo": "Barniz",
+	"Marca": "Maxcolor",
+	"Id_medida": 18
+}, {
+	"Id": 402,
+	"Id_grupo": 1105,
+	"Id_marca": 1010,
+	"Codigo": "POLCAR07",
+	"Descripcion": "POL Amarillo",
+	"Grupo": "Poliuretano",
+	"Marca": "Caralz",
+	"Id_medida": 18
+}, {
+	"Id": 403,
+	"Id_grupo": 1106,
+	"Id_marca": 1010,
+	"Codigo": "BASCAR08",
+	"Descripcion": "Base PUR Negra",
+	"Grupo": "Bases",
+	"Marca": "Caralz",
+	"Id_medida": 18
+}, {
+	"Id": 404,
+	"Id_grupo": 1011,
+	"Id_marca": 1056,
+	"Codigo": "SLLIXE01",
+	"Descripcion": "Sellador  Ixell Negro",
+	"Grupo": "Sellador",
+	"Marca": "Ixell",
+	"Id_medida": 18
+}, {
+	"Id": 405,
+	"Id_grupo": 1012,
+	"Id_marca": 1060,
+	"Codigo": "AERTER01",
+	"Descripcion": "Aerosol Negro extra fino",
+	"Grupo": "Aerosol",
+	"Marca": "Terinsa",
+	"Id_medida": 18
+}, {
+	"Id": 406,
+	"Id_grupo": 1012,
+	"Id_marca": 1060,
+	"Codigo": "AERTER02",
+	"Descripcion": "Aerosol Verde Jade",
+	"Grupo": "Aerosol",
+	"Marca": "Terinsa",
+	"Id_medida": 18
+}, {
+	"Id": 407,
+	"Id_grupo": 1012,
+	"Id_marca": 1060,
+	"Codigo": "AERTER03",
+	"Descripcion": "Aerosol Fuego Rojo",
+	"Grupo": "Aerosol",
+	"Marca": "Terinsa",
+	"Id_medida": 18
+}, {
+	"Id": 408,
+	"Id_grupo": 1012,
+	"Id_marca": 1060,
+	"Codigo": "AERTER04",
+	"Descripcion": "Aerosol Blanco Final",
+	"Grupo": "Aerosol",
+	"Marca": "Terinsa",
+	"Id_medida": 18
+}, {
+	"Id": 409,
+	"Id_grupo": 1012,
+	"Id_marca": 1060,
+	"Codigo": "AERTER05",
+	"Descripcion": "Aerosol Amarillo medio",
+	"Grupo": "Aerosol",
+	"Marca": "Terinsa",
+	"Id_medida": 18
+}, {
+	"Id": 410,
+	"Id_grupo": 1012,
+	"Id_marca": 1060,
+	"Codigo": "AERTER06",
+	"Descripcion": "Aerosol Azul Español",
+	"Grupo": "Aerosol",
+	"Marca": "Terinsa",
+	"Id_medida": 18
+}, {
+	"Id": 411,
+	"Id_grupo": 1012,
+	"Id_marca": 1060,
+	"Codigo": "AERTER07",
+	"Descripcion": "Aerosol Aluminio fino",
+	"Grupo": "Aerosol",
+	"Marca": "Terinsa",
+	"Id_medida": 18
+}, {
+	"Id": 412,
+	"Id_grupo": 1025,
+	"Id_marca": 1024,
+	"Codigo": "LIJABR02",
+	"Descripcion": "Lija  Abracol # 80",
+	"Grupo": "Lijas",
+	"Marca": "Abracol",
+	"Id_medida": 20
+}, {
+	"Id": 413,
+	"Id_grupo": 1025,
+	"Id_marca": 1024,
+	"Codigo": "LIJABR03",
+	"Descripcion": "Lija  Abracol # 100",
+	"Grupo": "Lijas",
+	"Marca": "Abracol",
+	"Id_medida": 20
+}, {
+	"Id": 414,
+	"Id_grupo": 1025,
+	"Id_marca": 1024,
+	"Codigo": "LIJABR04",
+	"Descripcion": "Lija  Abracol # 120",
+	"Grupo": "Lijas",
+	"Marca": "Abracol",
+	"Id_medida": 20
+}, {
+	"Id": 415,
+	"Id_grupo": 1025,
+	"Id_marca": 1024,
+	"Codigo": "LIJABR05",
+	"Descripcion": "Lija  Abracol # 150",
+	"Grupo": "Lijas",
+	"Marca": "Abracol",
+	"Id_medida": 20
+}, {
+	"Id": 416,
+	"Id_grupo": 1025,
+	"Id_marca": 1024,
+	"Codigo": "LIJABR06",
+	"Descripcion": "Lija  Abracol # 180",
+	"Grupo": "Lijas",
+	"Marca": "Abracol",
+	"Id_medida": 20
+}, {
+	"Id": 417,
+	"Id_grupo": 1025,
+	"Id_marca": 1024,
+	"Codigo": "LIJABR07",
+	"Descripcion": "Lija  Abracol # 220",
+	"Grupo": "Lijas",
+	"Marca": "Abracol",
+	"Id_medida": 20
+}, {
+	"Id": 418,
+	"Id_grupo": 1025,
+	"Id_marca": 1024,
+	"Codigo": "LIJABR08",
+	"Descripcion": "Lija  Abracol # 240",
+	"Grupo": "Lijas",
+	"Marca": "Abracol",
+	"Id_medida": 20
+}, {
+	"Id": 419,
+	"Id_grupo": 1025,
+	"Id_marca": 1024,
+	"Codigo": "LIJABR09",
+	"Descripcion": "Lija  Abracol # 280",
+	"Grupo": "Lijas",
+	"Marca": "Abracol",
+	"Id_medida": 20
+}, {
+	"Id": 420,
+	"Id_grupo": 1025,
+	"Id_marca": 1024,
+	"Codigo": "LIJABR10",
+	"Descripcion": "Lija  Abracol # 320",
+	"Grupo": "Lijas",
+	"Marca": "Abracol",
+	"Id_medida": 20
+}, {
+	"Id": 421,
+	"Id_grupo": 1025,
+	"Id_marca": 1024,
+	"Codigo": "LIJABR11",
+	"Descripcion": "Lija  Abracol # 360",
+	"Grupo": "Lijas",
+	"Marca": "Abracol",
+	"Id_medida": 20
+}, {
+	"Id": 422,
+	"Id_grupo": 1025,
+	"Id_marca": 1024,
+	"Codigo": "LIJABR12",
+	"Descripcion": "Lija  Abracol # 400",
+	"Grupo": "Lijas",
+	"Marca": "Abracol",
+	"Id_medida": 20
+}, {
+	"Id": 423,
+	"Id_grupo": 1025,
+	"Id_marca": 1024,
+	"Codigo": "LIJABR13",
+	"Descripcion": "Lija  Abracol # 600",
+	"Grupo": "Lijas",
+	"Marca": "Abracol",
+	"Id_medida": 20
+}, {
+	"Id": 424,
+	"Id_grupo": 1025,
+	"Id_marca": 1024,
+	"Codigo": "LIJABR14",
+	"Descripcion": "Lija  Abracol # 1000",
+	"Grupo": "Lijas",
+	"Marca": "Abracol",
+	"Id_medida": 20
+}, {
+	"Id": 425,
+	"Id_grupo": 1025,
+	"Id_marca": 1026,
+	"Codigo": "LIJCAR02",
+	"Descripcion": "Lija Roja # 100",
+	"Grupo": "Lijas",
+	"Marca": "Carborundum",
+	"Id_medida": 20
+}, {
+	"Id": 426,
+	"Id_grupo": 1025,
+	"Id_marca": 1026,
+	"Codigo": "LIJCAR03",
+	"Descripcion": "Lija Roja # 120",
+	"Grupo": "Lijas",
+	"Marca": "Carborundum",
+	"Id_medida": 20
+}, {
+	"Id": 427,
+	"Id_grupo": 1025,
+	"Id_marca": 1026,
+	"Codigo": "LIJCAR04",
+	"Descripcion": "Lija Roja # 150",
+	"Grupo": "Lijas",
+	"Marca": "Carborundum",
+	"Id_medida": 20
+}, {
+	"Id": 428,
+	"Id_grupo": 1025,
+	"Id_marca": 1026,
+	"Codigo": "LIJCAR05",
+	"Descripcion": "Lija Roja # 180",
+	"Grupo": "Lijas",
+	"Marca": "Carborundum",
+	"Id_medida": 20
+}, {
+	"Id": 430,
+	"Id_grupo": 1025,
+	"Id_marca": 1026,
+	"Codigo": "LIJCAR06",
+	"Descripcion": "Lija Roja # 220",
+	"Grupo": "Lijas",
+	"Marca": "Carborundum",
+	"Id_medida": 20
+}, {
+	"Id": 431,
+	"Id_grupo": 1025,
+	"Id_marca": 1026,
+	"Codigo": "LIJCAR07",
+	"Descripcion": "Lija Roja # 320",
+	"Grupo": "Lijas",
+	"Marca": "Carborundum",
+	"Id_medida": 20
+}, {
+	"Id": 432,
+	"Id_grupo": 1025,
+	"Id_marca": 1026,
+	"Codigo": "LIJCAR08",
+	"Descripcion": "Lija Roja # 400",
+	"Grupo": "Lijas",
+	"Marca": "Carborundum",
+	"Id_medida": 20
+}, {
+	"Id": 433,
+	"Id_grupo": 1025,
+	"Id_marca": 1026,
+	"Codigo": "LIJCAR09",
+	"Descripcion": "Lija Roja # 600",
+	"Grupo": "Lijas",
+	"Marca": "Carborundum",
+	"Id_medida": 20
+}, {
+	"Id": 434,
+	"Id_grupo": 1025,
+	"Id_marca": 1025,
+	"Codigo": "LIJA3M01",
+	"Descripcion": "Lija Roja 3M # 180",
+	"Grupo": "Lijas",
+	"Marca": "3M",
+	"Id_medida": 20
+}, {
+	"Id": 435,
+	"Id_grupo": 1025,
+	"Id_marca": 1025,
+	"Codigo": "LIJA3M02",
+	"Descripcion": "Lija 3M # 1200",
+	"Grupo": "Lijas",
+	"Marca": "3M",
+	"Id_medida": 20
+}, {
+	"Id": 436,
+	"Id_grupo": 1025,
+	"Id_marca": 1025,
+	"Codigo": "LIJA3M03",
+	"Descripcion": "Lija 3M # 1500",
+	"Grupo": "Lijas",
+	"Marca": "3M",
+	"Id_medida": 20
+}, {
+	"Id": 437,
+	"Id_grupo": 1025,
+	"Id_marca": 1025,
+	"Codigo": "LIJA3M04",
+	"Descripcion": "Lija 3M # 2000",
+	"Grupo": "Lijas",
+	"Marca": "3M",
+	"Id_medida": 20
+}, {
+	"Id": 438,
+	"Id_grupo": 1025,
+	"Id_marca": 1025,
+	"Codigo": "LIJA3M05",
+	"Descripcion": "Lija 3M # 3000",
+	"Grupo": "Lijas",
+	"Marca": "3M",
+	"Id_medida": 20
+}, {
+	"Id": 439,
+	"Id_grupo": 1116,
+	"Id_marca": 1025,
+	"Codigo": "MASC3M01",
+	"Descripcion": "Mascara Profesional 3M",
+	"Grupo": "Mascara",
+	"Marca": "3M",
+	"Id_medida": 107
+}, {
+	"Id": 440,
+	"Id_grupo": 1115,
+	"Id_marca": 1011,
+	"Codigo": "REMPINT01",
+	"Descripcion": "Removedor Pintuco",
+	"Grupo": "Removedor",
+	"Marca": "Pintuco",
+	"Id_medida": 18
+}, {
+	"Id": 441,
+	"Id_grupo": 1115,
+	"Id_marca": 1009,
+	"Codigo": "REMPOL01",
+	"Descripcion": "Removedor Poliescol",
+	"Grupo": "Removedor",
+	"Marca": "Poliescol",
+	"Id_medida": 18
+}, {
+	"Id": 442,
+	"Id_grupo": 1117,
+	"Id_marca": 1050,
+	"Codigo": "FIBNAP01",
+	"Descripcion": "Fibra tejida",
+	"Grupo": "Fibra",
+	"Marca": "N/A",
+	"Id_medida": 108
+}, {
+	"Id": 443,
+	"Id_grupo": 1117,
+	"Id_marca": 1050,
+	"Codigo": "FIBNAP02",
+	"Descripcion": "Fibra estandar",
+	"Grupo": "Fibra",
+	"Marca": "N/A",
+	"Id_medida": 108
+}, {
+	"Id": 444,
+	"Id_grupo": 1119,
+	"Id_marca": 1050,
+	"Codigo": "DISNAP01",
+	"Descripcion": "Disolvente Estireno",
+	"Grupo": "Disolvente peso",
+	"Marca": "N/A",
+	"Id_medida": 108
+}, {
+	"Id": 445,
+	"Id_grupo": 1118,
+	"Id_marca": 1050,
+	"Codigo": "COBNAP01",
+	"Descripcion": "Cobalto",
+	"Grupo": "Cobalto",
+	"Marca": "N/A",
+	"Id_medida": 108
+}, {
+	"Id": 446,
+	"Id_grupo": 1014,
+	"Id_marca": 1011,
+	"Codigo": "ESMPINT08",
+	"Descripcion": "Esmalte Rojo Bermellon 3en1",
+	"Grupo": "Esmalte",
+	"Marca": "Pintuco",
+	"Id_medida": 18
+}, {
+	"Id": 447,
+	"Id_grupo": 1014,
+	"Id_marca": 1058,
+	"Codigo": "ESMPIA02",
+	"Descripcion": "Esmalte 3en1 Lumiton Blanco",
+	"Grupo": "Esmalte",
+	"Marca": "Piazza",
+	"Id_medida": 18
+}, {
+	"Id": 449,
+	"Id_grupo": 1095,
+	"Id_marca": 1056,
+	"Codigo": "CATCOL01",
+	"Descripcion": "Catalizador X20 Tradicional",
+	"Grupo": "Catalizador ",
+	"Marca": "Ixell",
+	"Id_medida": 18
+}, {
+	"Id": 450,
+	"Id_grupo": 1095,
+	"Id_marca": 1056,
+	"Codigo": "CATCOL02",
+	"Descripcion": "Catalizador economico Colpisa",
+	"Grupo": "Catalizador ",
+	"Marca": "Ixell",
+	"Id_medida": 18
+}, {
+	"Id": 451,
+	"Id_grupo": 1088,
+	"Id_marca": 1056,
+	"Codigo": "DISCOL01",
+	"Descripcion": "Disolvente U200",
+	"Grupo": "Disolvente",
+	"Marca": "Ixell",
+	"Id_medida": 18
+}, {
+	"Id": 452,
+	"Id_grupo": 1088,
+	"Id_marca": 1056,
+	"Codigo": "DISCOL02",
+	"Descripcion": "Disolvente uniformador D868",
+	"Grupo": "Disolvente",
+	"Marca": "Ixell",
+	"Id_medida": 18
+}, {
+	"Id": 453,
+	"Id_grupo": 1088,
+	"Id_marca": 1054,
+	"Codigo": "DISSUP01",
+	"Descripcion": "Disolvente D20",
+	"Grupo": "Disolvente",
+	"Marca": "Supratech",
+	"Id_medida": 18
+}, {
+	"Id": 454,
+	"Id_grupo": 1120,
+	"Id_marca": 1050,
+	"Codigo": "TALNAP01",
+	"Descripcion": "Talco Ind",
+	"Grupo": "Talco",
+	"Marca": "N/A",
+	"Id_medida": 108
+}, {
+	"Id": 456,
+	"Id_grupo": 1027,
+	"Id_marca": 1022,
+	"Codigo": "BROPIN02",
+	"Descripcion": "Brocha Pinacolor  azul 1\" 1/2",
+	"Grupo": "Brochas",
+	"Marca": "Pinacolor",
+	"Id_medida": 19
+}, {
+	"Id": 457,
+	"Id_grupo": 1027,
+	"Id_marca": 1022,
+	"Codigo": "BROPIN03",
+	"Descripcion": "Brocha Pinacolor azul 1\"",
+	"Grupo": "Brochas",
+	"Marca": "Pinacolor",
+	"Id_medida": 19
+}, {
+	"Id": 458,
+	"Id_grupo": 1122,
+	"Id_marca": 1052,
+	"Codigo": "BASPPG01",
+	"Descripcion": "Vaso pistola 400ml GGB",
+	"Grupo": "Baso pistola",
+	"Marca": "PPG",
+	"Id_medida": 18
+}, {
+	"Id": 459,
+	"Id_grupo": 1122,
+	"Id_marca": 1052,
+	"Codigo": "BASPPG02",
+	"Descripcion": "Vaso pistola 600ml GGB",
+	"Grupo": "Baso pistola",
+	"Marca": "PPG",
+	"Id_medida": 18
+}, {
+	"Id": 460,
+	"Id_grupo": 1122,
+	"Id_marca": 1052,
+	"Codigo": "BASPPG03",
+	"Descripcion": "Vaso pistola W7 400ml",
+	"Grupo": "Baso pistola",
+	"Marca": "PPG",
+	"Id_medida": 18
+}, {
+	"Id": 461,
+	"Id_grupo": 1123,
+	"Id_marca": 1025,
+	"Codigo": "CART3M01",
+	"Descripcion": "Cartucho vapores organicos 3M",
+	"Grupo": "Cartucho",
+	"Marca": "3M",
+	"Id_medida": 107
+}, {
+	"Id": 462,
+	"Id_grupo": 1114,
+	"Id_marca": 1061,
+	"Codigo": "LIMPROC01",
+	"Descripcion": "Crema limpiador de manos Protec",
+	"Grupo": "Limpiador",
+	"Marca": "Protec",
+	"Id_medida": 18
+}, {
+	"Id": 463,
+	"Id_grupo": 1086,
+	"Id_marca": 1030,
+	"Codigo": "PINGGB02",
+	"Descripcion": "Pincel # 4",
+	"Grupo": "Pincel",
+	"Marca": "GGB",
+	"Id_medida": 19
+}, {
+	"Id": 464,
+	"Id_grupo": 1086,
+	"Id_marca": 1030,
+	"Codigo": "PINGGB03",
+	"Descripcion": "Pincel # 6",
+	"Grupo": "Pincel",
+	"Marca": "GGB",
+	"Id_medida": 19
+}, {
+	"Id": 465,
+	"Id_grupo": 1086,
+	"Id_marca": 1030,
+	"Codigo": "PINGGB04",
+	"Descripcion": "Pincel # 8",
+	"Grupo": "Pincel",
+	"Marca": "GGB",
+	"Id_medida": 19
+}, {
+	"Id": 466,
+	"Id_grupo": 1086,
+	"Id_marca": 1030,
+	"Codigo": "PINGGB05",
+	"Descripcion": "Pincel # 10",
+	"Grupo": "Pincel",
+	"Marca": "GGB",
+	"Id_medida": 19
+}, {
+	"Id": 467,
+	"Id_grupo": 1086,
+	"Id_marca": 1030,
+	"Codigo": "PINGGB06",
+	"Descripcion": "Pincel # 12",
+	"Grupo": "Pincel",
+	"Marca": "GGB",
+	"Id_medida": 19
+}, {
+	"Id": 469,
+	"Id_grupo": 1127,
+	"Id_marca": 1030,
+	"Codigo": "KITGGB01",
+	"Descripcion": "Kit 3 Piezas W71",
+	"Grupo": "Kit",
+	"Marca": "GGB",
+	"Id_medida": 109
+}, {
+	"Id": 470,
+	"Id_grupo": 1128,
+	"Id_marca": 1030,
+	"Codigo": "REPGGB01",
+	"Descripcion": "Repuesto para pistola DW716",
+	"Grupo": "Repuesto",
+	"Marca": "GGB",
+	"Id_medida": 109
+}, {
+	"Id": 471,
+	"Id_grupo": 1128,
+	"Id_marca": 1030,
+	"Codigo": "REPGGB02",
+	"Descripcion": "Pico de pistola",
+	"Grupo": "Repuesto",
+	"Marca": "GGB",
+	"Id_medida": 109
+}, {
+	"Id": 472,
+	"Id_grupo": 1128,
+	"Id_marca": 1030,
+	"Codigo": "REPGGB03",
+	"Descripcion": "Rosca de pistola",
+	"Grupo": "Repuesto",
+	"Marca": "GGB",
+	"Id_medida": 109
+}, {
+	"Id": 473,
+	"Id_grupo": 1026,
+	"Id_marca": 1027,
+	"Codigo": "CINCEL02",
+	"Descripcion": "Cinta de enmascarar 1\" Cellux",
+	"Grupo": "Cintas",
+	"Marca": "Cellux",
+	"Id_medida": 19
+}, {
+	"Id": 474,
+	"Id_grupo": 1130,
+	"Id_marca": 1050,
+	"Codigo": "GAFBAP01",
+	"Descripcion": "Gafas transparentes de proteccion",
+	"Grupo": "Gafas",
+	"Marca": "N/A",
+	"Id_medida": 107
+}, {
+	"Id": 476,
+	"Id_grupo": 1024,
+	"Id_marca": 1029,
+	"Codigo": "ESPGOY01",
+	"Descripcion": "Espatula metalica 5\" Goya",
+	"Grupo": "Espatula",
+	"Marca": "Goya",
+	"Id_medida": 19
+}, {
+	"Id": 477,
+	"Id_grupo": 1027,
+	"Id_marca": 1063,
+	"Codigo": "BROMUN01",
+	"Descripcion": "Brocha Brush 3\" gris",
+	"Grupo": "Brochas",
+	"Marca": "Mundial",
+	"Id_medida": 19
+}, {
+	"Id": 479,
+	"Id_grupo": 1131,
+	"Id_marca": 1051,
+	"Codigo": "LUBCRC01",
+	"Descripcion": "Lubricante penetrante 180ml",
+	"Grupo": "Lubricante",
+	"Marca": "CRC",
+	"Id_medida": 18
+}, {
+	"Id": 480,
+	"Id_grupo": 1132,
+	"Id_marca": 1050,
+	"Codigo": "COLNAP01",
+	"Descripcion": "Colador de pintura",
+	"Grupo": "Colador",
+	"Marca": "N/A",
+	"Id_medida": 110
+}, {
+	"Id": 481,
+	"Id_grupo": 1124,
+	"Id_marca": 1030,
+	"Codigo": "REGGGB01",
+	"Descripcion": "Regulador con manometro",
+	"Grupo": "Regulador",
+	"Marca": "GGB",
+	"Id_medida": 107
+}, {
+	"Id": 482,
+	"Id_grupo": 1028,
+	"Id_marca": 1030,
+	"Codigo": "PISGGB03",
+	"Descripcion": "Pistola W71 600ml",
+	"Grupo": "Pistola",
+	"Marca": "GGB",
+	"Id_medida": 18
+}, {
+	"Id": 483,
+	"Id_grupo": 1125,
+	"Id_marca": 1051,
+	"Codigo": "DESCRC01",
+	"Descripcion": "Despichador de moto CRC 150cm",
+	"Grupo": "Despichador",
+	"Marca": "CRC",
+	"Id_medida": 18
+}, {
+	"Id": 484,
+	"Id_grupo": 1125,
+	"Id_marca": 1051,
+	"Codigo": "DESCRC02",
+	"Descripcion": "Despichador de carro CRC 400cm",
+	"Grupo": "Despichador",
+	"Marca": "CRC",
+	"Id_medida": 18
+}, {
+	"Id": 486,
+	"Id_grupo": 1114,
+	"Id_marca": 1051,
+	"Codigo": "LIMCRC01",
+	"Descripcion": "Limpiador liquido electronico CRC 150ml",
+	"Grupo": "Limpiador",
+	"Marca": "CRC",
+	"Id_medida": 18
+}, {
+	"Id": 488,
+	"Id_grupo": 1029,
+	"Id_marca": 1009,
+	"Codigo": "CERPOL01",
+	"Descripcion": "Cera Brillocar",
+	"Grupo": "Cera",
+	"Marca": "Poliescol",
+	"Id_medida": 18
+}, {
+	"Id": 489,
+	"Id_grupo": 1011,
+	"Id_marca": 1009,
+	"Codigo": "SLLPOL07",
+	"Descripcion": "Sellador P7 Rojo",
+	"Grupo": "Sellador",
+	"Marca": "Poliescol",
+	"Id_medida": 18
+}, {
+	"Id": 490,
+	"Id_grupo": 1011,
+	"Id_marca": 1009,
+	"Codigo": "SLLPOL08",
+	"Descripcion": "Sellador P7 Verde",
+	"Grupo": "Sellador",
+	"Marca": "Poliescol",
+	"Id_medida": 18
+}, {
+	"Id": 491,
+	"Id_grupo": 1015,
+	"Id_marca": 1021,
+	"Codigo": "LACCOL05",
+	"Descripcion": "Laca amarillo taxi Colonial",
+	"Grupo": "Lacas",
+	"Marca": "Colonial",
+	"Id_medida": 18
+}, {
+	"Id": 492,
+	"Id_grupo": 1106,
+	"Id_marca": 1021,
+	"Codigo": "BASCOL01",
+	"Descripcion": "Base Amarilla tt",
+	"Grupo": "Bases",
+	"Marca": "Colonial",
+	"Id_medida": 18
+}, {
+	"Id": 493,
+	"Id_grupo": 1106,
+	"Id_marca": 1021,
+	"Codigo": "BASCOL02",
+	"Descripcion": "Base Gris",
+	"Grupo": "Bases",
+	"Marca": "Colonial",
+	"Id_medida": 18
+}, {
+	"Id": 494,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BCIXE28",
+	"Descripcion": "BC577 Base Mateante",
+	"Grupo": "Bicapa",
+	"Marca": "Ixell",
+	"Id_medida": 18
+}, {
+	"Id": 495,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE29",
+	"Descripcion": "BC628 Aluminio medio",
+	"Grupo": "Bicapa",
+	"Marca": "Ixell",
+	"Id_medida": 18
+}, {
+	"Id": 496,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE30",
+	"Descripcion": "BC561 Negro Azulado",
+	"Grupo": "Bicapa",
+	"Marca": "Ixell",
+	"Id_medida": 18
+}, {
+	"Id": 497,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE31",
+	"Descripcion": "BC517 Verde Oscuro",
+	"Grupo": "Bicapa",
+	"Marca": "Ixell",
+	"Id_medida": 18
+}, {
+	"Id": 498,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE32",
+	"Descripcion": "BC519 Verde Oliva",
+	"Grupo": "Bicapa",
+	"Marca": "Ixell",
+	"Id_medida": 18
+}, {
+	"Id": 499,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE33",
+	"Descripcion": "BC521 Marron Azuloso",
+	"Grupo": "Bicapa",
+	"Marca": "Ixell",
+	"Id_medida": 18
+}, {
+	"Id": 500,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE34",
+	"Descripcion": "BC533 Marron Brown",
+	"Grupo": "Bicapa",
+	"Marca": "Ixell",
+	"Id_medida": 18
+}, {
+	"Id": 501,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE35",
+	"Descripcion": "BC573 Amarillo oro",
+	"Grupo": "Bicapa",
+	"Marca": "Ixell",
+	"Id_medida": 18
+}, {
+	"Id": 502,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE36",
+	"Descripcion": "BC539 Rojo Claro",
+	"Grupo": "Bicapa",
+	"Marca": "Ixell",
+	"Id_medida": 18
+}, {
+	"Id": 503,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE37",
+	"Descripcion": "BC541 Rojo Burdeos",
+	"Grupo": "Bicapa",
+	"Marca": "Ixell",
+	"Id_medida": 18
+}, {
+	"Id": 504,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE38",
+	"Descripcion": "BC545 Magenta Azulado",
+	"Grupo": "Bicapa",
+	"Marca": "Ixell",
+	"Id_medida": 18
+}, {
+	"Id": 505,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE39",
+	"Descripcion": "BC553 Azul Luminoso",
+	"Grupo": "Bicapa",
+	"Marca": "Ixell",
+	"Id_medida": 18
+}, {
+	"Id": 507,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE40",
+	"Descripcion": "BC583 Amarillo Verdoso",
+	"Grupo": "Bicapa",
+	"Marca": "Ixell",
+	"Id_medida": 18
+}, {
+	"Id": 508,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE41",
+	"Descripcion": "BC586 Naranja",
+	"Grupo": "Bicapa",
+	"Marca": "Ixell",
+	"Id_medida": 18
+}, {
+	"Id": 509,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE42",
+	"Descripcion": "BC588 Perla Amarilla",
+	"Grupo": "Bicapa",
+	"Marca": "Ixell",
+	"Id_medida": 18
+}, {
+	"Id": 510,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE43",
+	"Descripcion": "BC592 Perla Roja",
+	"Grupo": "Bicapa",
+	"Marca": "Ixell",
+	"Id_medida": 18
+}, {
+	"Id": 511,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE44",
+	"Descripcion": "BC595 Perla Azul",
+	"Grupo": "Bicapa",
+	"Marca": "Ixell",
+	"Id_medida": 18
+}, {
+	"Id": 512,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE45",
+	"Descripcion": "BC597 Perla Blanca",
+	"Grupo": "Bicapa",
+	"Marca": "Ixell",
+	"Id_medida": 18
+}, {
+	"Id": 513,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE46",
+	"Descripcion": "BC601 Perla dorada",
+	"Grupo": "Bicapa",
+	"Marca": "Ixell",
+	"Id_medida": 18
+}, {
+	"Id": 515,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE47",
+	"Descripcion": "BC603 Perla azul fina",
+	"Grupo": "Bicapa",
+	"Marca": "Ixell",
+	"Id_medida": 18
+}, {
+	"Id": 517,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE48",
+	"Descripcion": "BC611 Aluminio satinado medio",
+	"Grupo": "Bicapa",
+	"Marca": "Ixell",
+	"Id_medida": 18
+}, {
+	"Id": 518,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE49",
+	"Descripcion": "BC614 Aluminio lenticular grueso",
+	"Grupo": "Bicapa",
+	"Marca": "Ixell",
+	"Id_medida": 18
+}, {
+	"Id": 520,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE50",
+	"Descripcion": "BC623 Aluminio fino",
+	"Grupo": "Bicapa",
+	"Marca": "Ixell",
+	"Id_medida": 18
+}, {
+	"Id": 521,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE51",
+	"Descripcion": "BC543 Rojo Oxido",
+	"Grupo": "Bicapa",
+	"Marca": "Ixell",
+	"Id_medida": 18
+}, {
+	"Id": 522,
+	"Id_grupo": 1105,
+	"Id_marca": 1056,
+	"Codigo": "POLCOL11",
+	"Descripcion": "POL840 Blanco",
+	"Grupo": "Poliuretano",
+	"Marca": "Ixell",
+	"Id_medida": 18
+}, {
+	"Id": 523,
+	"Id_grupo": 1105,
+	"Id_marca": 1056,
+	"Codigo": "POLCOL12",
+	"Descripcion": "POL815 Amarillo puro",
+	"Grupo": "Poliuretano",
+	"Marca": "Ixell",
+	"Id_medida": 18
+}, {
+	"Id": 524,
+	"Id_grupo": 1026,
+	"Id_marca": 1027,
+	"Codigo": "CINCEL03",
+	"Descripcion": "Cinta de enmascarar 1\" 1/2 Cellux",
+	"Grupo": "Cintas",
+	"Marca": "Cellux",
+	"Id_medida": 19
+}, {
+	"Id": 525,
+	"Id_grupo": 1026,
+	"Id_marca": 1064,
+	"Codigo": "CINIPG01",
+	"Descripcion": "Cinta naranja 1/2\"",
+	"Grupo": "Cintas",
+	"Marca": "IPG",
+	"Id_medida": 19
+}, {
+	"Id": 526,
+	"Id_grupo": 1026,
+	"Id_marca": 1025,
+	"Codigo": "CIN3M04",
+	"Descripcion": "Cinta de enmascarar 233+ 3/4\"",
+	"Grupo": "Cintas",
+	"Marca": "3M",
+	"Id_medida": 19
+}, {
+	"Id": 527,
+	"Id_grupo": 1026,
+	"Id_marca": 1025,
+	"Codigo": "CIN3M05",
+	"Descripcion": "Cinta de enmascarar 233+ 1\"",
+	"Grupo": "Cintas",
+	"Marca": "3M",
+	"Id_medida": 19
+}, {
+	"Id": 529,
+	"Id_grupo": 1026,
+	"Id_marca": 1065,
+	"Codigo": "CINPEG01",
+	"Descripcion": "Cinta de enmascarar Pegafan 3/4\"",
+	"Grupo": "Cintas",
+	"Marca": "Pegafan",
+	"Id_medida": 19
+}, {
+	"Id": 530,
+	"Id_grupo": 1026,
+	"Id_marca": 1027,
+	"Codigo": "CINCEL04",
+	"Descripcion": "Cinta de enmascarar 1/4\" Cellux",
+	"Grupo": "Cintas",
+	"Marca": "Cellux",
+	"Id_medida": 19
+}, {
+	"Id": 531,
+	"Id_grupo": 1026,
+	"Id_marca": 1027,
+	"Codigo": "CINCEL05",
+	"Descripcion": "Cinta de enmascarar 1/2\" Cellux",
+	"Grupo": "Cintas",
+	"Marca": "Cellux",
+	"Id_medida": 19
+}, {
+	"Id": 532,
+	"Id_grupo": 1133,
+	"Id_marca": 1024,
+	"Codigo": "FDIABR01",
+	"Descripcion": "Fibro disco Abracol  7\" # 100",
+	"Grupo": "Fibro disco",
+	"Marca": "Abracol",
+	"Id_medida": 110
+}, {
+	"Id": 533,
+	"Id_grupo": 1133,
+	"Id_marca": 1024,
+	"Codigo": "FDIABR02",
+	"Descripcion": "Fibro disco Abracol 7\" # 24",
+	"Grupo": "Fibro disco",
+	"Marca": "Abracol",
+	"Id_medida": 110
+}, {
+	"Id": 534,
+	"Id_grupo": 1133,
+	"Id_marca": 1024,
+	"Codigo": "FDIABR03",
+	"Descripcion": "Fibro disco Abracol 7\" # 36",
+	"Grupo": "Fibro disco",
+	"Marca": "Abracol",
+	"Id_medida": 110
+}, {
+	"Id": 535,
+	"Id_grupo": 1133,
+	"Id_marca": 1024,
+	"Codigo": "FDIABR04",
+	"Descripcion": "Fibro disco Abracol 4\" # 36",
+	"Grupo": "Fibro disco",
+	"Marca": "Abracol",
+	"Id_medida": 110
+}, {
+	"Id": 536,
+	"Id_grupo": 1133,
+	"Id_marca": 1024,
+	"Codigo": "FDIABR05",
+	"Descripcion": "Fibro disco Abracol 4\" # 60",
+	"Grupo": "Fibro disco",
+	"Marca": "Abracol",
+	"Id_medida": 110
+}, {
+	"Id": 537,
+	"Id_grupo": 1133,
+	"Id_marca": 1024,
+	"Codigo": "FDIABR06",
+	"Descripcion": "Fibro disco Abracol 4\" # 24",
+	"Grupo": "Fibro disco",
+	"Marca": "Abracol",
+	"Id_medida": 110
+}, {
+	"Id": 538,
+	"Id_grupo": 1134,
+	"Id_marca": 1066,
+	"Codigo": "DISGER01",
+	"Descripcion": "Disco de corte 4\"",
+	"Grupo": "Disco de corte",
+	"Marca": "Germany",
+	"Id_medida": 110
+}, {
+	"Id": 539,
+	"Id_grupo": 1028,
+	"Id_marca": 1030,
+	"Codigo": "PISGGB04",
+	"Descripcion": "Pistola H2000 G2 100ml",
+	"Grupo": "Pistola",
+	"Marca": "GGB",
+	"Id_medida": 18
+}, {
+	"Id": 540,
+	"Id_grupo": 1024,
+	"Id_marca": 1023,
+	"Codigo": "ESPATL02",
+	"Descripcion": "Espatula metalica Atlas 3\"",
+	"Grupo": "Espatula",
+	"Marca": "Atlas",
+	"Id_medida": 19
+}, {
+	"Id": 541,
+	"Id_grupo": 1135,
+	"Id_marca": 1026,
+	"Codigo": "DSBCAR01",
+	"Descripcion": "Disco belcro carborundum 6\" # 220",
+	"Grupo": "Disco belcro",
+	"Marca": "Carborundum",
+	"Id_medida": 110
+}, {
+	"Id": 542,
+	"Id_grupo": 1135,
+	"Id_marca": 1026,
+	"Codigo": "DSBCAR02",
+	"Descripcion": "Disco belcro carborundum 6\" # 150",
+	"Grupo": "Disco belcro",
+	"Marca": "Carborundum",
+	"Id_medida": 110
+}, {
+	"Id": 544,
+	"Id_grupo": 1135,
+	"Id_marca": 1025,
+	"Codigo": "DSBC3M",
+	"Descripcion": "Disco belcro 3M 6\" # 400",
+	"Grupo": "Disco belcro",
+	"Marca": "3M",
+	"Id_medida": 110
+}, {
+	"Id": 545,
+	"Id_grupo": 1135,
+	"Id_marca": 1067,
+	"Codigo": "DSBFAN01",
+	"Descripcion": "Disco belcro Amarillo Fandeli 6\" #  80 ",
+	"Grupo": "Disco belcro",
+	"Marca": "Fandeli",
+	"Id_medida": 110
+}, {
+	"Id": 546,
+	"Id_grupo": 1095,
+	"Id_marca": 1056,
+	"Codigo": "CATCOL03",
+	"Descripcion": "Catalizador x20 eco",
+	"Grupo": "Catalizador ",
+	"Marca": "Ixell",
+	"Id_medida": 18
+}, {
+	"Id": 547,
+	"Id_grupo": 1029,
+	"Id_marca": 1032,
+	"Codigo": "CERVEH01",
+	"Descripcion": "Cera abrillantadora vehigreen",
+	"Grupo": "Cera",
+	"Marca": "Vehigreen",
+	"Id_medida": 18
+}, {
+	"Id": 548,
+	"Id_grupo": 1027,
+	"Id_marca": 1023,
+	"Codigo": "BROATL02",
+	"Descripcion": "Brocha Atlas Amarilla 1\"",
+	"Grupo": "Brochas",
+	"Marca": "Atlas",
+	"Id_medida": 19
+}, {
+	"Id": 549,
+	"Id_grupo": 1027,
+	"Id_marca": 1023,
+	"Codigo": "BROATL03",
+	"Descripcion": "Brocha Atlas Amarilla 2\"",
+	"Grupo": "Brochas",
+	"Marca": "Atlas",
+	"Id_medida": 19
+}, {
+	"Id": 550,
+	"Id_grupo": 1027,
+	"Id_marca": 1023,
+	"Codigo": "BROATL04",
+	"Descripcion": "Brocha Atlas Amarilla 1/2\"",
+	"Grupo": "Brochas",
+	"Marca": "Atlas",
+	"Id_medida": 19
+}, {
+	"Id": 551,
+	"Id_grupo": 1027,
+	"Id_marca": 1023,
+	"Codigo": "BROATL05",
+	"Descripcion": "Brocha Atlas Amarilla 1\" 1/2",
+	"Grupo": "Brochas",
+	"Marca": "Atlas",
+	"Id_medida": 19
+}, {
+	"Id": 552,
+	"Id_grupo": 1027,
+	"Id_marca": 1023,
+	"Codigo": "BROATL06",
+	"Descripcion": "Brocha Atlas Roja 1/2\"",
+	"Grupo": "Brochas",
+	"Marca": "Atlas",
+	"Id_medida": 19
+}, {
+	"Id": 553,
+	"Id_grupo": 1027,
+	"Id_marca": 1023,
+	"Codigo": "BROATL07",
+	"Descripcion": "Brocha Atlas Roja 3\"",
+	"Grupo": "Brochas",
+	"Marca": "Atlas",
+	"Id_medida": 19
+}, {
+	"Id": 554,
+	"Id_grupo": 1027,
+	"Id_marca": 1023,
+	"Codigo": "BROATL08",
+	"Descripcion": "Brocha Atlas Roja 2\"",
+	"Grupo": "Brochas",
+	"Marca": "Atlas",
+	"Id_medida": 19
+}, {
+	"Id": 555,
+	"Id_grupo": 1027,
+	"Id_marca": 1023,
+	"Codigo": "BROATL09",
+	"Descripcion": "Brocha Atlas Roja 1\"",
+	"Grupo": "Brochas",
+	"Marca": "Atlas",
+	"Id_medida": 19
+}, {
+	"Id": 556,
+	"Id_grupo": 1027,
+	"Id_marca": 1023,
+	"Codigo": "BROATL10",
+	"Descripcion": "Brocha Atlas Roja 2\" 1/2",
+	"Grupo": "Brochas",
+	"Marca": "Atlas",
+	"Id_medida": 19
+}, {
+	"Id": 557,
+	"Id_grupo": 1137,
+	"Id_marca": 1068,
+	"Codigo": "ACEHIU01",
+	"Descripcion": "Aceite penetrante 255cm",
+	"Grupo": "Aceite",
+	"Marca": "Hiuk",
+	"Id_medida": 18
+}, {
+	"Id": 558,
+	"Id_grupo": 1009,
+	"Id_marca": 1058,
+	"Codigo": "MASPYA01",
+	"Descripcion": "Masilla poliester Dure tone PYASA",
+	"Grupo": "Masillas",
+	"Marca": "Piazza",
+	"Id_medida": 18
+}, {
+	"Id": 559,
+	"Id_grupo": 1138,
+	"Id_marca": 1029,
+	"Codigo": "LLAGOY01",
+	"Descripcion": "Llana metalica premier azul",
+	"Grupo": "Llana",
+	"Marca": "Goya",
+	"Id_medida": 110
+}, {
+	"Id": 560,
+	"Id_grupo": 1139,
+	"Id_marca": 1069,
+	"Codigo": "SEGNIC01",
+	"Descripcion": "Segueta 12\" roja",
+	"Grupo": "Segueta",
+	"Marca": "Nichos",
+	"Id_medida": 110
+}, {
+	"Id": 561,
+	"Id_grupo": 1027,
+	"Id_marca": 1063,
+	"Codigo": "BROMUN02",
+	"Descripcion": "Brocha Brush 4\" negra",
+	"Grupo": "Brochas",
+	"Marca": "Mundial",
+	"Id_medida": 19
+}, {
+	"Id": 562,
+	"Id_grupo": 1024,
+	"Id_marca": 1030,
+	"Codigo": "ESPGGB01",
+	"Descripcion": "Espatula plastica masillar 3\"",
+	"Grupo": "Espatula",
+	"Marca": "GGB",
+	"Id_medida": 19
+}, {
+	"Id": 563,
+	"Id_grupo": 1132,
+	"Id_marca": 1030,
+	"Codigo": "COLGGB01",
+	"Descripcion": "Colador de pintura GGB",
+	"Grupo": "Colador",
+	"Marca": "GGB",
+	"Id_medida": 110
+}, {
+	"Id": 564,
+	"Id_grupo": 1136,
+	"Id_marca": 1025,
+	"Codigo": "FILT3M01",
+	"Descripcion": "Filtro careta 6200 3M",
+	"Grupo": "Filtro",
+	"Marca": "3M",
+	"Id_medida": 110
+}, {
+	"Id": 565,
+	"Id_grupo": 1133,
+	"Id_marca": 1024,
+	"Codigo": "FDIABR07",
+	"Descripcion": "Fibro disco Abracol 4\" # 100",
+	"Grupo": "Fibro disco",
+	"Marca": "Abracol",
+	"Id_medida": 110
+}, {
+	"Id": 566,
+	"Id_grupo": 1027,
+	"Id_marca": 1023,
+	"Codigo": "BROATL11",
+	"Descripcion": "Brocha Atlas Roja 1\" 1/2",
+	"Grupo": "Brochas",
+	"Marca": "Atlas",
+	"Id_medida": 19
+}, {
+	"Id": 567,
+	"Id_grupo": 1027,
+	"Id_marca": 1023,
+	"Codigo": "BROATL12",
+	"Descripcion": "Brocha Atlas Roja 4",
+	"Grupo": "Brochas",
+	"Marca": "Atlas",
+	"Id_medida": 19
+}, {
+	"Id": 568,
+	"Id_grupo": 1140,
+	"Id_marca": 1009,
+	"Codigo": "GOTPOL01",
+	"Descripcion": "Gotero de Resina",
+	"Grupo": "Gotero",
+	"Marca": "Poliescol",
+	"Id_medida": 110
+}, {
+	"Id": 569,
+	"Id_grupo": 1141,
+	"Id_marca": 1030,
+	"Codigo": "VASGGB01",
+	"Descripcion": "Vasos metalicos 400ml",
+	"Grupo": "vasos metalicos",
+	"Marca": "GGB",
+	"Id_medida": 110
+}, {
+	"Id": 570,
+	"Id_grupo": 1141,
+	"Id_marca": 1030,
+	"Codigo": "VASGGB02",
+	"Descripcion": "Vasos metalicos 600ml",
+	"Grupo": "vasos metalicos",
+	"Marca": "GGB",
+	"Id_medida": 110
+}, {
+	"Id": 571,
+	"Id_grupo": 1088,
+	"Id_marca": 1054,
+	"Codigo": "DISSUP02",
+	"Descripcion": "Thinner extra",
+	"Grupo": "Disolvente",
+	"Marca": "Supratech",
+	"Id_medida": 18
+}, {
+	"Id": 572,
+	"Id_grupo": 1029,
+	"Id_marca": 1010,
+	"Codigo": "CERCAR02",
+	"Descripcion": "Cera Polcar 220",
+	"Grupo": "Cera",
+	"Marca": "Caralz",
+	"Id_medida": 18
+}, {
+	"Id": 574,
+	"Id_grupo": 1085,
+	"Id_marca": 1030,
+	"Codigo": "ACOGGB03",
+	"Descripcion": "Acople rapido bronce",
+	"Grupo": "Acoples",
+	"Marca": "GGB",
+	"Id_medida": 107
+}, {
+	"Id": 575,
+	"Id_grupo": 1083,
+	"Id_marca": 1070,
+	"Codigo": "PEGPEG01",
+	"Descripcion": "Pega amarilla XL",
+	"Grupo": "Pegante",
+	"Marca": "Pegaucho",
+	"Id_medida": 18
+}, {
+	"Id": 576,
+	"Id_grupo": 1127,
+	"Id_marca": 1030,
+	"Codigo": "KITGGB02",
+	"Descripcion": "Kit completo W71",
+	"Grupo": "Kit",
+	"Marca": "GGB",
+	"Id_medida": 109
+}, {
+	"Id": 577,
+	"Id_grupo": 1028,
+	"Id_marca": 1030,
+	"Codigo": "AERGGB05",
+	"Descripcion": "Aerografo GGB",
+	"Grupo": "Pistola",
+	"Marca": "GGB",
+	"Id_medida": 18
+}, {
+	"Id": 578,
+	"Id_grupo": 1085,
+	"Id_marca": 1030,
+	"Codigo": "ACOGGB04",
+	"Descripcion": "Racores 2 Piezas",
+	"Grupo": "Acoples",
+	"Marca": "GGB",
+	"Id_medida": 107
+}, {
+	"Id": 579,
+	"Id_grupo": 1085,
+	"Id_marca": 1030,
+	"Codigo": "ACOGGB05",
+	"Descripcion": "Tabera W71 400ml",
+	"Grupo": "Acoples",
+	"Marca": "GGB",
+	"Id_medida": 107
+}, {
+	"Id": 580,
+	"Id_grupo": 1085,
+	"Id_marca": 1030,
+	"Codigo": "",
+	"Descripcion": "",
+	"Grupo": "Acoples",
+	"Marca": "GGB",
+	"Id_medida": 107
+}, {
+	"Id": 581,
+	"Id_grupo": 1085,
+	"Id_marca": 1030,
+	"Codigo": "ACOGGB06",
+	"Descripcion": "Racor Macho y Hembra",
+	"Grupo": "Acoples",
+	"Marca": "GGB",
+	"Id_medida": 107
+}, {
+	"Id": 582,
+	"Id_grupo": 1113,
+	"Id_marca": 1010,
+	"Codigo": "EPOCAR04",
+	"Descripcion": "Epoxico Negro Brillante",
+	"Grupo": "Epoxico",
+	"Marca": "Caralz",
+	"Id_medida": 18
+}, {
+	"Id": 583,
+	"Id_grupo": 1085,
+	"Id_marca": 1030,
+	"Codigo": "ACOGGB07",
+	"Descripcion": "Acople Sencillo Plateado",
+	"Grupo": "Acoples",
+	"Marca": "GGB",
+	"Id_medida": 107
+}, {
+	"Id": 584,
+	"Id_grupo": 1142,
+	"Id_marca": 1030,
+	"Codigo": "PANGGB01",
+	"Descripcion": "Paño Microfibra",
+	"Grupo": "Paños",
+	"Marca": "GGB",
+	"Id_medida": 110
+}, {
+	"Id": 585,
+	"Id_grupo": 1107,
+	"Id_marca": 1010,
+	"Codigo": "BICCAR14",
+	"Descripcion": "BC3324 Rojo limpio",
+	"Grupo": "Bicapa",
+	"Marca": "Caralz",
+	"Id_medida": 18
+}, {
+	"Id": 586,
+	"Id_grupo": 1107,
+	"Id_marca": 1010,
+	"Codigo": "BICCAR15",
+	"Descripcion": "BC5928 Negro intenso",
+	"Grupo": "Bicapa",
+	"Marca": "Caralz",
+	"Id_medida": 18
+}, {
+	"Id": 587,
+	"Id_grupo": 1143,
+	"Id_marca": 1022,
+	"Codigo": "TACPIN01",
+	"Descripcion": "Taco de Lijar",
+	"Grupo": "Taco",
+	"Marca": "Pinacolor",
+	"Id_medida": 110
+}, {
+	"Id": 588,
+	"Id_grupo": 1105,
+	"Id_marca": 1010,
+	"Codigo": "POLCAR08",
+	"Descripcion": "POLMS1026 Negro directo",
+	"Grupo": "Poliuretano",
+	"Marca": "Caralz",
+	"Id_medida": 18
+}, {
+	"Id": 589,
+	"Id_grupo": 1144,
+	"Id_marca": 1030,
+	"Codigo": "ESTGGB01",
+	"Descripcion": "Estopas sencilla",
+	"Grupo": "Estopa",
+	"Marca": "GGB",
+	"Id_medida": 110
+}, {
+	"Id": 590,
+	"Id_grupo": 1113,
+	"Id_marca": 1010,
+	"Codigo": "EPOCAR05",
+	"Descripcion": "7201 Blanco epoxico",
+	"Grupo": "Epoxico",
+	"Marca": "Caralz",
+	"Id_medida": 18
+}, {
+	"Id": 591,
+	"Id_grupo": 1080,
+	"Id_marca": 1025,
+	"Codigo": "CAR3M03",
+	"Descripcion": "Soporte filtro N95",
+	"Grupo": "Caretas",
+	"Marca": "3M",
+	"Id_medida": 107
+}, {
+	"Id": 592,
+	"Id_grupo": 1105,
+	"Id_marca": 1010,
+	"Codigo": "POLCAR09",
+	"Descripcion": "POLCS95 Negro mate",
+	"Grupo": "Poliuretano",
+	"Marca": "Caralz",
+	"Id_medida": 18
+}, {
+	"Id": 593,
+	"Id_grupo": 1145,
+	"Id_marca": 1022,
+	"Codigo": "TARPIN01",
+	"Descripcion": "Tarrad",
+	"Grupo": "Tarrad",
+	"Marca": "Pinacolor",
+	"Id_medida": 110
+}, {
+	"Id": 594,
+	"Id_grupo": 1113,
+	"Id_marca": 1010,
+	"Codigo": "EPOCAR06",
+	"Descripcion": "7401 Base Epoxica Gris",
+	"Grupo": "Epoxico",
+	"Marca": "Caralz",
+	"Id_medida": 18
+}, {
+	"Id": 595,
+	"Id_grupo": 1113,
+	"Id_marca": 1010,
+	"Codigo": "EPOCAR07",
+	"Descripcion": "7209 Epoxico Gris",
+	"Grupo": "Epoxico",
+	"Marca": "Caralz",
+	"Id_medida": 18
+}, {
+	"Id": 596,
+	"Id_grupo": 1113,
+	"Id_marca": 1010,
+	"Codigo": "EPOCAR08",
+	"Descripcion": "7207 Epoxico Amarillo",
+	"Grupo": "Epoxico",
+	"Marca": "Caralz",
+	"Id_medida": 18
+}, {
+	"Id": 597,
+	"Id_grupo": 1113,
+	"Id_marca": 1010,
+	"Codigo": "EPOCAR09",
+	"Descripcion": "Base Epoxico Blanco",
+	"Grupo": "Epoxico",
+	"Marca": "Caralz",
+	"Id_medida": 18
+}, {
+	"Id": 598,
+	"Id_grupo": 1028,
+	"Id_marca": 1030,
+	"Codigo": "AERGGB06",
+	"Descripcion": "Pistola W71 400ml",
+	"Grupo": "Pistola",
+	"Marca": "GGB",
+	"Id_medida": 18
+}, {
+	"Id": 599,
+	"Id_grupo": 1107,
+	"Id_marca": 1010,
+	"Codigo": "BICCAR16",
+	"Descripcion": "P5100 Transparente especial poliester",
+	"Grupo": "Bicapa",
+	"Marca": "Caralz",
+	"Id_medida": 18
+}, {
+	"Id": 600,
+	"Id_grupo": 1105,
+	"Id_marca": 1010,
+	"Codigo": "POLCAR10",
+	"Descripcion": "POL1041 Amarillo cromo rojizo",
+	"Grupo": "Poliuretano",
+	"Marca": "Caralz",
+	"Id_medida": 18
+}, {
+	"Id": 601,
+	"Id_grupo": 1105,
+	"Id_marca": 1010,
+	"Codigo": "POLCAR13",
+	"Descripcion": "POL724 Amarillo taxi",
+	"Grupo": "Poliuretano",
+	"Marca": "Caralz",
+	"Id_medida": 18
+}, {
+	"Id": 602,
+	"Id_grupo": 1027,
+	"Id_marca": 1023,
+	"Codigo": "BROATL13",
+	"Descripcion": "Brocha Atlas Cafe 3\"",
+	"Grupo": "Brochas",
+	"Marca": "Atlas",
+	"Id_medida": 19
+}, {
+	"Id": 603,
+	"Id_grupo": 1105,
+	"Id_marca": 1010,
+	"Codigo": "POLCAR14",
+	"Descripcion": "POLCS81 Verde dorado",
+	"Grupo": "Poliuretano",
+	"Marca": "Caralz",
+	"Id_medida": 18
+}, {
+	"Id": 604,
+	"Id_grupo": 1105,
+	"Id_marca": 1010,
+	"Codigo": "POLCAR15",
+	"Descripcion": "POLCS80 Rojo transparen",
+	"Grupo": "Poliuretano",
+	"Marca": "Caralz",
+	"Id_medida": 18
+}, {
+	"Id": 605,
+	"Id_grupo": 1105,
+	"Id_marca": 1010,
+	"Codigo": "POLCAR16",
+	"Descripcion": "POL1340 Rojo medio",
+	"Grupo": "Poliuretano",
+	"Marca": "Caralz",
+	"Id_medida": 18
+}, {
+	"Id": 606,
+	"Id_grupo": 1107,
+	"Id_marca": 1010,
+	"Codigo": "BICCAR17",
+	"Descripcion": "BC3180 Amarillo cromo",
+	"Grupo": "Bicapa",
+	"Marca": "Caralz",
+	"Id_medida": 18
+}, {
+	"Id": 607,
+	"Id_grupo": 1088,
+	"Id_marca": 1054,
+	"Codigo": "DISSUP03",
+	"Descripcion": "Varsol",
+	"Grupo": "Disolvente",
+	"Marca": "Supratech",
+	"Id_medida": 18
+}, {
+	"Id": 608,
+	"Id_grupo": 1105,
+	"Id_marca": 1056,
+	"Codigo": "POLCOL13",
+	"Descripcion": "POL950 Rojo limpio",
+	"Grupo": "Poliuretano",
+	"Marca": "Ixell",
+	"Id_medida": 18
+}, {
+	"Id": 609,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE52",
+	"Descripcion": "BC540 Rojo Salmon",
+	"Grupo": "Bicapa",
+	"Marca": "Ixell",
+	"Id_medida": 18
+}, {
+	"Id": 610,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE53",
+	"Descripcion": "BC537 Rojo amarilloso",
+	"Grupo": "Bicapa",
+	"Marca": "Ixell",
+	"Id_medida": 18
+}, {
+	"Id": 611,
+	"Id_grupo": 1015,
+	"Id_marca": 1019,
+	"Codigo": "LACEVE19",
+	"Descripcion": "Laca Base Verde Oliva Every",
+	"Grupo": "Lacas",
+	"Marca": "Every",
+	"Id_medida": 18
+}, {
+	"Id": 612,
+	"Id_grupo": 1015,
+	"Id_marca": 1019,
+	"Codigo": "LACEVE20",
+	"Descripcion": "Laca Verde Entonador Every",
+	"Grupo": "Lacas",
+	"Marca": "Every",
+	"Id_medida": 18
+}, {
+	"Id": 613,
+	"Id_grupo": 1106,
+	"Id_marca": 1019,
+	"Codigo": "BASEVE04",
+	"Descripcion": "Laca Base Roja Every",
+	"Grupo": "Bases",
+	"Marca": "Every",
+	"Id_medida": 18
+}, {
+	"Id": 614,
+	"Id_grupo": 1015,
+	"Id_marca": 1011,
+	"Codigo": "LACPINT09",
+	"Descripcion": "7540 Laca Aluminio grano fino",
+	"Grupo": "Lacas",
+	"Marca": "Pintuco",
+	"Id_medida": 18
+}, {
+	"Id": 615,
+	"Id_grupo": 1106,
+	"Id_marca": 1020,
+	"Codigo": "BASSUP04",
+	"Descripcion": "Base Wash Primer",
+	"Grupo": "Bases",
+	"Marca": "Super",
+	"Id_medida": 18
+}, {
+	"Id": 616,
+	"Id_grupo": 1015,
+	"Id_marca": 1055,
+	"Codigo": "LACPIN04",
+	"Descripcion": "Laca Aluminio grano fino",
+	"Grupo": "Lacas",
+	"Marca": "Pinacolor",
+	"Id_medida": 18
+}, {
+	"Id": 617,
+	"Id_grupo": 1015,
+	"Id_marca": 1021,
+	"Codigo": "LACCOL07",
+	"Descripcion": "Laca amarillo cromo medio Colonial",
+	"Grupo": "Lacas",
+	"Marca": "Colonial",
+	"Id_medida": 18
+}, {
+	"Id": 618,
+	"Id_grupo": 1015,
+	"Id_marca": 1021,
+	"Codigo": "LACCOL08",
+	"Descripcion": "Laca Negro Universal Colonial",
+	"Grupo": "Lacas",
+	"Marca": "Colonial",
+	"Id_medida": 18
+}, {
+	"Id": 619,
+	"Id_grupo": 1014,
+	"Id_marca": 1058,
+	"Codigo": "ESMPIA03",
+	"Descripcion": "Esmalte 3en1 Lumiton Negro",
+	"Grupo": "Esmalte",
+	"Marca": "Piazza",
+	"Id_medida": 18
+}, {
+	"Id": 620,
+	"Id_grupo": 1014,
+	"Id_marca": 1016,
+	"Codigo": "ESMCOL17",
+	"Descripcion": "Esmalte Verde entonador Colpinturas",
+	"Grupo": "Esmalte",
+	"Marca": "Colpinturas",
+	"Id_medida": 18
+}, {
+	"Id": 621,
+	"Id_grupo": 1014,
+	"Id_marca": 1016,
+	"Codigo": "ESMCOL18",
+	"Descripcion": "Esmalte Azul entonador Colpinturas",
+	"Grupo": "Esmalte",
+	"Marca": "Colpinturas",
+	"Id_medida": 18
+}, {
+	"Id": 622,
+	"Id_grupo": 1014,
+	"Id_marca": 1016,
+	"Codigo": "ESMCOL19",
+	"Descripcion": "Esmalte Azul español Colpinturas",
+	"Grupo": "Esmalte",
+	"Marca": "Colpinturas",
+	"Id_medida": 18
+}, {
+	"Id": 623,
+	"Id_grupo": 1014,
+	"Id_marca": 1016,
+	"Codigo": "ESMCOL20",
+	"Descripcion": "Esmalte Amarillo Colpinturas",
+	"Grupo": "Esmalte",
+	"Marca": "Colpinturas",
+	"Id_medida": 18
+}, {
+	"Id": 624,
+	"Id_grupo": 1014,
+	"Id_marca": 1016,
+	"Codigo": "ESMCOL21",
+	"Descripcion": "Esmalte Blanco Colpituras",
+	"Grupo": "Esmalte",
+	"Marca": "Colpinturas",
+	"Id_medida": 18
+}, {
+	"Id": 625,
+	"Id_grupo": 1016,
+	"Id_marca": 1016,
+	"Codigo": "ANTCOL08",
+	"Descripcion": "Anticorrosivo Rojo Colpinturas",
+	"Grupo": "Anticorrosivos",
+	"Marca": "Colpinturas",
+	"Id_medida": 18
+}, {
+	"Id": 626,
+	"Id_grupo": 1014,
+	"Id_marca": 1016,
+	"Codigo": "ESMCOL23",
+	"Descripcion": "Esmalte Gris Plata Colpinturas",
+	"Grupo": "Esmalte",
+	"Marca": "Colpinturas",
+	"Id_medida": 18
+}, {
+	"Id": 627,
+	"Id_grupo": 1011,
+	"Id_marca": 1011,
+	"Codigo": "SLLPINT01",
+	"Descripcion": "Pintuco flex",
+	"Grupo": "Sellador",
+	"Marca": "Pintuco",
+	"Id_medida": 18
+}, {
+	"Id": 629,
+	"Id_grupo": 1014,
+	"Id_marca": 1019,
+	"Codigo": "ESMEVE08",
+	"Descripcion": "Esmalte Rojo Intenso Every",
+	"Grupo": "Esmalte",
+	"Marca": "Every",
+	"Id_medida": 18
+}, {
+	"Id": 630,
+	"Id_grupo": 1014,
+	"Id_marca": 1011,
+	"Codigo": "ESMPINT10",
+	"Descripcion": "Esmalte Top Quality Negro",
+	"Grupo": "Esmalte",
+	"Marca": "Pintuco",
+	"Id_medida": 18
+}, {
+	"Id": 631,
+	"Id_grupo": 1113,
+	"Id_marca": 1015,
+	"Codigo": "EPOTEC05",
+	"Descripcion": "Verde trafico acrilico",
+	"Grupo": "Epoxico",
+	"Marca": "Tecnidecor",
+	"Id_medida": 18
+}, {
+	"Id": 632,
+	"Id_grupo": 1014,
+	"Id_marca": 1015,
+	"Codigo": "ESMTEC06",
+	"Descripcion": "Esmalte Beige motor Kumis",
+	"Grupo": "Esmalte",
+	"Marca": "Tecnidecor",
+	"Id_medida": 18
+}, {
+	"Id": 633,
+	"Id_grupo": 1090,
+	"Id_marca": 1059,
+	"Codigo": "BARMAX04",
+	"Descripcion": "Barniz HS maxibrillo",
+	"Grupo": "Barniz",
+	"Marca": "Maxcolor",
+	"Id_medida": 18
+}, {
+	"Id": 634,
+	"Id_grupo": 1014,
+	"Id_marca": 1013,
+	"Codigo": "ESMICO01",
+	"Descripcion": "Esmalte Icomax 2en1 Rojo bermellon",
+	"Grupo": "Esmalte",
+	"Marca": "Ico",
+	"Id_medida": 18
+}, {
+	"Id": 635,
+	"Id_grupo": 1014,
+	"Id_marca": 1013,
+	"Codigo": "ESMICO02",
+	"Descripcion": "Esmalte Icomax 2en1 Negro",
+	"Grupo": "Esmalte",
+	"Marca": "Ico",
+	"Id_medida": 18
+}, {
+	"Id": 636,
+	"Id_grupo": 1014,
+	"Id_marca": 1013,
+	"Codigo": "ESMICO03",
+	"Descripcion": "Esmalte Icomax 2en1 Azul español",
+	"Grupo": "Esmalte",
+	"Marca": "Ico",
+	"Id_medida": 18
+}, {
+	"Id": 637,
+	"Id_grupo": 1014,
+	"Id_marca": 1013,
+	"Codigo": "ESMICO04",
+	"Descripcion": "Esmalte Icomax 2en1 Verde esmeralda",
+	"Grupo": "Esmalte",
+	"Marca": "Ico",
+	"Id_medida": 18
+}, {
+	"Id": 638,
+	"Id_grupo": 1014,
+	"Id_marca": 1013,
+	"Codigo": "ESMICO05",
+	"Descripcion": "Esmalte Icomax 2en1 Amarillo",
+	"Grupo": "Esmalte",
+	"Marca": "Ico",
+	"Id_medida": 18
+}, {
+	"Id": 639,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE56",
+	"Descripcion": "BCPRLX4 Cristal Azul",
+	"Grupo": "Bicapa",
+	"Marca": "Ixell",
+	"Id_medida": 18
+}, {
+	"Id": 640,
+	"Id_grupo": 1107,
+	"Id_marca": 1056,
+	"Codigo": "BICIXE58",
+	"Descripcion": "BC Blanco galaxia",
+	"Grupo": "Bicapa",
+	"Marca": "Ixell",
+	"Id_medida": 18
+}, {
+	"Id": 641,
+	"Id_grupo": 1106,
+	"Id_marca": 1011,
+	"Codigo": "BASPINT02",
+	"Descripcion": "BS7205 Base Blanca",
+	"Grupo": "Bases",
+	"Marca": "Pintuco",
+	"Id_medida": 18
+}, {
+	"Id": 642,
+	"Id_grupo": 1146,
+	"Id_marca": 1009,
+	"Codigo": "SECPOL01",
+	"Descripcion": "Peroxido",
+	"Grupo": "Secador",
+	"Marca": "Poliescol",
+	"Id_medida": 108
+}, {
+	"Id": 643,
+	"Id_grupo": 1106,
+	"Id_marca": 1011,
+	"Codigo": "BASPINT03",
+	"Descripcion": "BS513 Primer Verde Oliva",
+	"Grupo": "Bases",
+	"Marca": "Pintuco",
+	"Id_medida": 18
+}, {
+	"Id": 644,
+	"Id_grupo": 1015,
+	"Id_marca": 1021,
+	"Codigo": "LACCOL09",
+	"Descripcion": "Laca Verde Entonador Colonial",
+	"Grupo": "Lacas",
+	"Marca": "Colonial",
+	"Id_medida": 18
+}, {
+	"Id": 645,
+	"Id_grupo": 1105,
+	"Id_marca": 1056,
+	"Codigo": "POLCOL14",
+	"Descripcion": "POL819 Amarillo verdoso",
+	"Grupo": "Poliuretano",
+	"Marca": "Ixell",
+	"Id_medida": 18
+}, {
+	"Id": 646,
+	"Id_grupo": 1147,
+	"Id_marca": 1050,
+	"Codigo": "NOAPAP01",
+	"Descripcion": "Papel periodico",
+	"Grupo": "Papel",
+	"Marca": "N/A",
+	"Id_medida": 110
+}, {
+	"Id": 647,
+	"Id_grupo": 1106,
+	"Id_marca": 1071,
+	"Codigo": "BASDUP01",
+	"Descripcion": "44SM Base gris dupont",
+	"Grupo": "Bases",
+	"Marca": "Dupon",
+	"Id_medida": 18
+}, {
+	"Id": 648,
+	"Id_grupo": 1106,
+	"Id_marca": 1071,
+	"Codigo": "BASDUP02",
+	"Descripcion": "41SM Base blanca dupont",
+	"Grupo": "Bases",
+	"Marca": "Dupon",
+	"Id_medida": 18
+}, {
+	"Id": 649,
+	"Id_grupo": 1106,
+	"Id_marca": 1071,
+	"Codigo": "BASDUP03",
+	"Descripcion": "47SM Base negra dupont",
+	"Grupo": "Bases",
+	"Marca": "Dupon",
+	"Id_medida": 18
+}, {
+	"Id": 650,
+	"Id_grupo": 1025,
+	"Id_marca": 1024,
+	"Codigo": "LIJABR15",
+	"Descripcion": "Lija multiflex banda 6\" # 60",
+	"Grupo": "Lijas",
+	"Marca": "Abracol",
+	"Id_medida": 20
+}, {
+	"Id": 651,
+	"Id_grupo": 1014,
+	"Id_marca": 1013,
+	"Codigo": "ESMICO06",
+	"Descripcion": "Esmalte Icomax 2en1 Blanco",
+	"Grupo": "Esmalte",
+	"Marca": "Ico",
+	"Id_medida": 18
+}, {
+	"Id": 652,
+	"Id_grupo": 1009,
+	"Id_marca": 1060,
+	"Codigo": "MASTER01",
+	"Descripcion": "MS55244 Masilla gris terinsa",
+	"Grupo": "Masillas",
+	"Marca": "Terinsa",
+	"Id_medida": 18
+}, {
+	"Id": 653,
+	"Id_grupo": 1015,
+	"Id_marca": 1060,
+	"Codigo": "LACTER01",
+	"Descripcion": "Laca Negro Mate Terinsa",
+	"Grupo": "Lacas",
+	"Marca": "Terinsa",
+	"Id_medida": 18
+}, {
+	"Id": 654,
+	"Id_grupo": 1078,
+	"Id_marca": 1060,
+	"Codigo": "COPTER01",
+	"Descripcion": "Copado blanco terinsa",
+	"Grupo": "Copado",
+	"Marca": "Terinsa",
+	"Id_medida": 18
+}, {
+	"Id": 655,
+	"Id_grupo": 1012,
+	"Id_marca": 1060,
+	"Codigo": "AERTER08",
+	"Descripcion": "Aerosol Negro Mate Terinsa",
+	"Grupo": "Aerosol",
+	"Marca": "Terinsa",
+	"Id_medida": 18
+}, {
+	"Id": 656,
+	"Id_grupo": 1105,
+	"Id_marca": 1056,
+	"Codigo": "POLCOL15",
+	"Descripcion": "POL945 Magenta",
+	"Grupo": "Poliuretano",
+	"Marca": "Ixell",
+	"Id_medida": 18
+}, {
+	"Id": 657,
+	"Id_grupo": 1105,
+	"Id_marca": 1056,
+	"Codigo": "POLCOL16",
+	"Descripcion": "POL946 Rojo Bordeaux",
+	"Grupo": "Poliuretano",
+	"Marca": "Ixell",
+	"Id_medida": 18
+}, {
+	"Id": 658,
+	"Id_grupo": 1015,
+	"Id_marca": 1055,
+	"Codigo": "LACPIN05",
+	"Descripcion": "Laca verde entonador",
+	"Grupo": "Lacas",
+	"Marca": "Pinacolor",
+	"Id_medida": 18
+}, {
+	"Id": 659,
+	"Id_grupo": 1143,
+	"Id_marca": 1030,
+	"Codigo": "TACGGB01",
+	"Descripcion": "Taco de lijar sencillo",
+	"Grupo": "Taco",
+	"Marca": "GGB",
+	"Id_medida": 110
+}, {
+	"Id": 660,
+	"Id_grupo": 1143,
+	"Id_marca": 1030,
+	"Codigo": "TACGGB02",
+	"Descripcion": "Taco de lijar profecional",
+	"Grupo": "Taco",
+	"Marca": "GGB",
+	"Id_medida": 110
+}, {
+	"Id": 661,
+	"Id_grupo": 1148,
+	"Id_marca": 1030,
+	"Codigo": "ENPGGB01",
+	"Descripcion": "Empaque de Aguja",
+	"Grupo": "Enpaque de aguja",
+	"Marca": "GGB",
+	"Id_medida": 110
+}, {
+	"Id": 662,
+	"Id_grupo": 1014,
+	"Id_marca": 1019,
+	"Codigo": "ESMEVE09",
+	"Descripcion": "Esmalte Alumino Every",
+	"Grupo": "Esmalte",
+	"Marca": "Every",
+	"Id_medida": 18
+}, {
+	"Id": 664,
+	"Id_grupo": 1105,
+	"Id_marca": 1010,
+	"Codigo": "POLCAR18",
+	"Descripcion": "POLMS1068 Verde azuloso",
+	"Grupo": "Poliuretano",
+	"Marca": "Caralz",
+	"Id_medida": 18
+}, {
+	"Id": 665,
+	"Id_grupo": 1154,
+	"Id_marca": 1052,
+	"Codigo": "MASPPG01",
+	"Descripcion": "Masilla putty 999",
+	"Grupo": "Masillas",
+	"Marca": "PPG",
+	"Id_medida": 18
+}, {
+	"Id": 666,
+	"Id_grupo": 1027,
+	"Id_marca": 1033,
+	"Codigo": "BROBYP02",
+	"Descripcion": "Brocha byp 1\"",
+	"Grupo": "Brochas",
+	"Marca": "BYP",
+	"Id_medida": 19
+}, {
+	"Id": 667,
+	"Id_grupo": 1027,
+	"Id_marca": 1033,
+	"Codigo": "BROBYP03",
+	"Descripcion": "Brocha byp 1\" 1/2",
+	"Grupo": "Brochas",
+	"Marca": "BYP",
+	"Id_medida": 19
+}, {
+	"Id": 668,
+	"Id_grupo": 1027,
+	"Id_marca": 1033,
+	"Codigo": "BROBYP04",
+	"Descripcion": "Brocha byp 2\"",
+	"Grupo": "Brochas",
+	"Marca": "BYP",
+	"Id_medida": 19
+}, {
+	"Id": 669,
+	"Id_grupo": 1027,
+	"Id_marca": 1033,
+	"Codigo": "BROBYP05",
+	"Descripcion": "Brocha byp 2\" 1/2",
+	"Grupo": "Brochas",
+	"Marca": "BYP",
+	"Id_medida": 19
+}, {
+	"Id": 670,
+	"Id_grupo": 1027,
+	"Id_marca": 1033,
+	"Codigo": "BROBYP06",
+	"Descripcion": "Brocha byp 4\"",
+	"Grupo": "Brochas",
+	"Marca": "BYP",
+	"Id_medida": 19
+}, {
+	"Id": 671,
+	"Id_grupo": 1156,
+	"Id_marca": 1072,
+	"Codigo": "CANFAN01",
+	"Descripcion": "Candado de hierro - bronce 25mm",
+	"Grupo": "Candado",
+	"Marca": "Fanal",
+	"Id_medida": 110
+}, {
+	"Id": 672,
+	"Id_grupo": 1156,
+	"Id_marca": 1072,
+	"Codigo": "CANFAN02",
+	"Descripcion": "Candado de hierro - bronce 63mm",
+	"Grupo": "Candado",
+	"Marca": "Fanal",
+	"Id_medida": 110
+}, {
+	"Id": 673,
+	"Id_grupo": 1156,
+	"Id_marca": 1072,
+	"Codigo": "CANFAN03",
+	"Descripcion": "Candado de hierro - plata 38mm",
+	"Grupo": "Candado",
+	"Marca": "Fanal",
+	"Id_medida": 110
+}, {
+	"Id": 674,
+	"Id_grupo": 1156,
+	"Id_marca": 1072,
+	"Codigo": "CANFAN04",
+	"Descripcion": "Candado de hierro - plata 50mm",
+	"Grupo": "Candado",
+	"Marca": "Fanal",
+	"Id_medida": 110
+}, {
+	"Id": 675,
+	"Id_grupo": 1157,
+	"Id_marca": 1073,
+	"Codigo": "DISDEW01",
+	"Descripcion": "Disco flaps 7 x 7/8 Dewalt T29 # 80",
+	"Grupo": "Disco flaps",
+	"Marca": "Dewalt",
+	"Id_medida": 110
+}, {
+	"Id": 676,
+	"Id_grupo": 1158,
+	"Id_marca": 1074,
+	"Codigo": "RAFCIP01",
+	"Descripcion": "Rafia milenio 13mm amarillo",
+	"Grupo": "Rafia",
+	"Marca": "Ciplas",
+	"Id_medida": 110
+}, {
+	"Id": 677,
+	"Id_grupo": 1158,
+	"Id_marca": 1074,
+	"Codigo": "RAFCIP02",
+	"Descripcion": "Rafia milenio 10mm rojo",
+	"Grupo": "Rafia",
+	"Marca": "Ciplas",
+	"Id_medida": 110
+}, {
+	"Id": 678,
+	"Id_grupo": 1158,
+	"Id_marca": 1074,
+	"Codigo": "RAFCIP03",
+	"Descripcion": "Rafia milenio  8mm verde",
+	"Grupo": "Rafia",
+	"Marca": "Ciplas",
+	"Id_medida": 110
+}, {
+	"Id": 679,
+	"Id_grupo": 1014,
+	"Id_marca": 1015,
+	"Codigo": "ESMTEC07",
+	"Descripcion": "Esmalte Maximo Amarillo Caterpillar",
+	"Grupo": "Esmalte",
+	"Marca": "Tecnidecor",
+	"Id_medida": 18
+}, {
+	"Id": 680,
+	"Id_grupo": 1012,
+	"Id_marca": 1011,
+	"Codigo": "AERAER04",
+	"Descripcion": "Aerocolor Aluminio Brillante",
+	"Grupo": "Aerosol",
+	"Marca": "Pintuco",
+	"Id_medida": 18
+}, {
+	"Id": 681,
+	"Id_grupo": 1012,
+	"Id_marca": 1011,
+	"Codigo": "AERAER05",
+	"Descripcion": "Aerocolor Bermellon Brillante",
+	"Grupo": "Aerosol",
+	"Marca": "Pintuco",
+	"Id_medida": 18
+}, {
+	"Id": 682,
+	"Id_grupo": 1012,
+	"Id_marca": 1011,
+	"Codigo": "AERAER06",
+	"Descripcion": "Aerocolor Blanco Mate",
+	"Grupo": "Aerosol",
+	"Marca": "Pintuco",
+	"Id_medida": 18
+}, {
+	"Id": 683,
+	"Id_grupo": 1012,
+	"Id_marca": 1011,
+	"Codigo": "AERAER07",
+	"Descripcion": "Aerocolor Gris Brillante",
+	"Grupo": "Aerosol",
+	"Marca": "Pintuco",
+	"Id_medida": 18
+}, {
+	"Id": 684,
+	"Id_grupo": 1012,
+	"Id_marca": 1011,
+	"Codigo": "AERAER08",
+	"Descripcion": "Aerocolor Rojo Claro Brillante",
+	"Grupo": "Aerosol",
+	"Marca": "Pintuco",
+	"Id_medida": 18
+}, {
+	"Id": 685,
+	"Id_grupo": 1012,
+	"Id_marca": 1011,
+	"Codigo": "AERAER09",
+	"Descripcion": "Aerocolor Amarillo Cromo Medio Brillante",
+	"Grupo": "Aerosol",
+	"Marca": "Pintuco",
+	"Id_medida": 18
+}, {
+	"Id": 686,
+	"Id_grupo": 1012,
+	"Id_marca": 1011,
+	"Codigo": "AERAER10",
+	"Descripcion": "Aerocolor Negro Brillante",
+	"Grupo": "Aerosol",
+	"Marca": "Pintuco",
+	"Id_medida": 18
+}, {
+	"Id": 688,
+	"Id_grupo": 1014,
+	"Id_marca": 1011,
+	"Codigo": "ESMPINT11",
+	"Descripcion": "Esmalte Dorado Alta Duracion ",
+	"Grupo": "Esmalte",
+	"Marca": "Pintuco",
+	"Id_medida": 18
+}, {
+	"Id": 689,
+	"Id_grupo": 1014,
+	"Id_marca": 1011,
+	"Codigo": "ESMPINT12",
+	"Descripcion": "Esmalte Blanco P-11",
+	"Grupo": "Esmalte",
+	"Marca": "Pintuco",
+	"Id_medida": 18
+}, {
+	"Id": 690,
+	"Id_grupo": 1014,
+	"Id_marca": 1011,
+	"Codigo": "ESMPINT13",
+	"Descripcion": "Esmalte Rojo Bermellon Pintulux",
+	"Grupo": "Esmalte",
+	"Marca": "Pintuco",
+	"Id_medida": 18
+}, {
+	"Id": 691,
+	"Id_grupo": 1012,
+	"Id_marca": 1011,
+	"Codigo": "AERAER11",
+	"Descripcion": "Aerocolor Negro Mate",
+	"Grupo": "Aerosol",
+	"Marca": "Pintuco",
+	"Id_medida": 18
+}, {
+	"Id": 692,
+	"Id_grupo": 1160,
+	"Id_marca": 1019,
+	"Codigo": "EVEWHA01",
+	"Descripcion": "Whas primer Componente AyB",
+	"Grupo": "Whas Primer",
+	"Marca": "Every",
+	"Id_medida": 18
+}, {
+	"Id": 693,
+	"Id_grupo": 1014,
+	"Id_marca": 1019,
+	"Codigo": "ESMEVE10",
+	"Descripcion": "Esmalte Blanco Every",
+	"Grupo": "Esmalte",
+	"Marca": "Every",
+	"Id_medida": 18
+}, {
+	"Id": 694,
+	"Id_grupo": 1016,
+	"Id_marca": 1019,
+	"Codigo": "ESMEVE07",
+	"Descripcion": "Anticorrosivo Verde Oliva Every",
+	"Grupo": "Anticorrosivos",
+	"Marca": "Every",
+	"Id_medida": 18
+}, {
+	"Id": 695,
+	"Id_grupo": 1105,
+	"Id_marca": 1010,
+	"Codigo": "POLCAR20",
+	"Descripcion": "POL1322 Rojo brillante",
+	"Grupo": "Poliuretano",
+	"Marca": "Caralz",
+	"Id_medida": 18
+}, {
+	"Id": 1695,
+	"Id_grupo": 1157,
+	"Id_marca": 1073,
+	"Codigo": "DISDEW02",
+	"Descripcion": "Disco flaps 41/2x7/8 Dewalt T29 #60",
+	"Grupo": "Disco flaps",
+	"Marca": "Dewalt",
+	"Id_medida": 110
+}, {
+	"Id": 1696,
+	"Id_grupo": 1157,
+	"Id_marca": 1073,
+	"Codigo": "DISDEW03",
+	"Descripcion": "Disco flaps 4 1/2x7/8 Dewalt T29 #80",
+	"Grupo": "Disco flaps",
+	"Marca": "Dewalt",
+	"Id_medida": 110
+}, {
+	"Id": 1697,
+	"Id_grupo": 1014,
+	"Id_marca": 1058,
+	"Codigo": "ESMPIA04",
+	"Descripcion": "Esmalte Colormix Blanco Brillante",
+	"Grupo": "Esmalte",
+	"Marca": "Piazza",
+	"Id_medida": 18
+}, {
+	"Id": 1698,
+	"Id_grupo": 1014,
+	"Id_marca": 1058,
+	"Codigo": "ESMPIA05",
+	"Descripcion": "Esmalte 3en1 Lumiton Rojo fiesta",
+	"Grupo": "Esmalte",
+	"Marca": "Piazza",
+	"Id_medida": 18
+}, {
+	"Id": 1699,
+	"Id_grupo": 1014,
+	"Id_marca": 1058,
+	"Codigo": "ESMPIA06",
+	"Descripcion": "Esmalte Negro Brillante Colormix",
+	"Grupo": "Esmalte",
+	"Marca": "Piazza",
+	"Id_medida": 18
+}, {
+	"Id": 1700,
+	"Id_grupo": 1014,
+	"Id_marca": 1058,
+	"Codigo": "ESMPIA07",
+	"Descripcion": "Esmalte Negro Colortone",
+	"Grupo": "Esmalte",
+	"Marca": "Piazza",
+	"Id_medida": 18
+}, {
+	"Id": 1701,
+	"Id_grupo": 1014,
+	"Id_marca": 1058,
+	"Codigo": "ESMPIA08",
+	"Descripcion": "Esmalte Rojo fiesta Colormix",
+	"Grupo": "Esmalte",
+	"Marca": "Piazza",
+	"Id_medida": 18
+}, {
+	"Id": 1702,
+	"Id_grupo": 1014,
+	"Id_marca": 1058,
+	"Codigo": "ESMPIA09",
+	"Descripcion": "Esmalte Aluminio fino Colormix",
+	"Grupo": "Esmalte",
+	"Marca": "Piazza",
+	"Id_medida": 18
+}, {
+	"Id": 1703,
+	"Id_grupo": 1014,
+	"Id_marca": 1058,
+	"Codigo": "ESMPIA10",
+	"Descripcion": "Esmalte Azul Español Colormix",
+	"Grupo": "Esmalte",
+	"Marca": "Piazza",
+	"Id_medida": 18
+}, {
+	"Id": 1704,
+	"Id_grupo": 1014,
+	"Id_marca": 1058,
+	"Codigo": "ESMPIA11",
+	"Descripcion": "Esmalte Azul Español Colortone",
+	"Grupo": "Esmalte",
+	"Marca": "Piazza",
+	"Id_medida": 18
+}, {
+	"Id": 1705,
+	"Id_grupo": 1014,
+	"Id_marca": 1021,
+	"Codigo": "ESMCLO01",
+	"Descripcion": "Esmalte Amarillo Colonial",
+	"Grupo": "Esmalte",
+	"Marca": "Colonial",
+	"Id_medida": 18
+}, {
+	"Id": 1706,
+	"Id_grupo": 1161,
+	"Id_marca": 1009,
+	"Codigo": "ALAPOL01",
+	"Descripcion": "Alambre para soldar",
+	"Grupo": "Alambre",
+	"Marca": "Poliescol",
+	"Id_medida": 110
+}, {
+	"Id": 1707,
+	"Id_grupo": 1162,
+	"Id_marca": 1009,
+	"Codigo": "CARPOL01",
+	"Descripcion": "Bolsa de Carburo",
+	"Grupo": "Carburo",
+	"Marca": "Poliescol",
+	"Id_medida": 108
+}, {
+	"Id": 1708,
+	"Id_grupo": 1027,
+	"Id_marca": 1063,
+	"Codigo": "BROMUN03",
+	"Descripcion": "Brocha utility byp 5\"",
+	"Grupo": "Brochas",
+	"Marca": "Mundial",
+	"Id_medida": 19
+}, {
+	"Id": 1710,
+	"Id_grupo": 1107,
+	"Id_marca": 1010,
+	"Codigo": "BICCAR20",
+	"Descripcion": "BC3351 Rojo Oscuro Transparente",
+	"Grupo": "Bicapa",
+	"Marca": "Caralz",
+	"Id_medida": 18
+}, {
+	"Id": 1711,
+	"Id_grupo": 1028,
+	"Id_marca": 1055,
+	"Codigo": "PISPIN01",
+	"Descripcion": "Pistola F75 Pinacolor",
+	"Grupo": "Pistola",
+	"Marca": "Pinacolor",
+	"Id_medida": 18
+}, {
+	"Id": 1712,
+	"Id_grupo": 1026,
+	"Id_marca": 1025,
+	"Codigo": "CIN3M06",
+	"Descripcion": "Cinta de enmascarar F3 3M 3/4\"",
+	"Grupo": "Cintas",
+	"Marca": "3M",
+	"Id_medida": 19
+}, {
+	"Id": 1713,
+	"Id_grupo": 1114,
+	"Id_marca": 1009,
+	"Codigo": "LIMPPOL01",
+	"Descripcion": "Crema limiapidora Resiclean",
+	"Grupo": "Limpiador",
+	"Marca": "Poliescol",
+	"Id_medida": 18
+}, {
+	"Id": 1714,
+	"Id_grupo": 1144,
+	"Id_marca": 1030,
+	"Codigo": "ESTGGB02",
+	"Descripcion": "Estopa fina",
+	"Grupo": "Estopa",
+	"Marca": "GGB",
+	"Id_medida": 110
+}, {
+	"Id": 1715,
+	"Id_grupo": 1012,
+	"Id_marca": 1012,
+	"Codigo": "AERSOL22",
+	"Descripcion": "Aerosol Negro brillante Solaris",
+	"Grupo": "Aerosol",
+	"Marca": "Solaris",
+	"Id_medida": 18
+}, {
+	"Id": 1716,
+	"Id_grupo": 1012,
+	"Id_marca": 1012,
+	"Codigo": "AERSOL23",
+	"Descripcion": "Aerosol Negro Mate Solaris",
+	"Grupo": "Aerosol",
+	"Marca": "Solaris",
+	"Id_medida": 18
+}, {
+	"Id": 1717,
+	"Id_grupo": 1012,
+	"Id_marca": 1012,
+	"Codigo": "AERSOL24",
+	"Descripcion": "Aerosol Rojo Tomate Solaris",
+	"Grupo": "Aerosol",
+	"Marca": "Solaris",
+	"Id_medida": 18
+}, {
+	"Id": 1718,
+	"Id_grupo": 1012,
+	"Id_marca": 1012,
+	"Codigo": "AERSOL25",
+	"Descripcion": "Aerosol Blanco Brillante Solaris",
+	"Grupo": "Aerosol",
+	"Marca": "Solaris",
+	"Id_medida": 18
+}, {
+	"Id": 1719,
+	"Id_grupo": 1012,
+	"Id_marca": 1012,
+	"Codigo": "AERSOL26",
+	"Descripcion": "Aerosol Anticorrosivo Gris Solaris",
+	"Grupo": "Aerosol",
+	"Marca": "Solaris",
+	"Id_medida": 18
+}, {
+	"Id": 1720,
+	"Id_grupo": 1014,
+	"Id_marca": 1016,
+	"Codigo": "ESMCOL24",
+	"Descripcion": "Esmalte Aluminio Mezcla Colpinturas",
+	"Grupo": "Esmalte",
+	"Marca": "Colpinturas",
+	"Id_medida": 18
+}, {
+	"Id": 1722,
+	"Id_grupo": 1106,
+	"Id_marca": 1019,
+	"Codigo": "BASEVE05",
+	"Descripcion": "Laca Base Blanca Every",
+	"Grupo": "Bases",
+	"Marca": "Every",
+	"Id_medida": 18
+}, {
+	"Id": 1723,
+	"Id_grupo": 1014,
+	"Id_marca": 1015,
+	"Codigo": "ESMTEC08",
+	"Descripcion": "Esmalte Maximo Amarillo Brillante",
+	"Grupo": "Esmalte",
+	"Marca": "Tecnidecor",
+	"Id_medida": 18
+}, {
+	"Id": 1724,
+	"Id_grupo": 1014,
+	"Id_marca": 1015,
+	"Codigo": "ESMTEC09",
+	"Descripcion": "Esmalte Maximo Negro Brillante",
+	"Grupo": "Esmalte",
+	"Marca": "Tecnidecor",
+	"Id_medida": 18
+}, {
+	"Id": 1725,
+	"Id_grupo": 1014,
+	"Id_marca": 1015,
+	"Codigo": "ESMTEC10",
+	"Descripcion": "Esmalte Maximo Blanco Brillante",
+	"Grupo": "Esmalte",
+	"Marca": "Tecnidecor",
+	"Id_medida": 18
+}, {
+	"Id": 1726,
+	"Id_grupo": 1107,
+	"Id_marca": 1010,
+	"Codigo": "BICCAR25",
+	"Descripcion": "BCP33912 Aluminio Medio",
+	"Grupo": "Bicapa",
+	"Marca": "Caralz",
+	"Id_medida": 18
+}, {
+	"Id": 1727,
+	"Id_grupo": 1107,
+	"Id_marca": 1010,
+	"Codigo": "BICCAR26",
+	"Descripcion": "BCP33918 Aluminio Lecticular Fino",
+	"Grupo": "Bicapa",
+	"Marca": "Caralz",
+	"Id_medida": 18
+}, {
+	"Id": 1728,
+	"Id_grupo": 1095,
+	"Id_marca": 1010,
+	"Codigo": "CATCAR05",
+	"Descripcion": "Catalizador DX00",
+	"Grupo": "Catalizador ",
+	"Marca": "Caralz",
+	"Id_medida": 18
+}, {
+	"Id": 1729,
+	"Id_grupo": 1016,
+	"Id_marca": 1019,
+	"Codigo": "ANTEVE10",
+	"Descripcion": "Anticorrosivo Verde Every",
+	"Grupo": "Anticorrosivos",
+	"Marca": "Every",
+	"Id_medida": 18
+}, {
+	"Id": 1730,
+	"Id_grupo": 1105,
+	"Id_marca": 1010,
+	"Codigo": "POLCAR028",
+	"Descripcion": "POLDP03 Aluminio lenticular fino",
+	"Grupo": "Poliuretano",
+	"Marca": "Caralz",
+	"Id_medida": 18
+}, {
+	"Id": 1731,
+	"Id_grupo": 1012,
+	"Id_marca": 1011,
+	"Codigo": "AERAER12",
+	"Descripcion": "Aerocolor Anticorrosivo Gris",
+	"Grupo": "Aerosol",
+	"Marca": "Pintuco",
+	"Id_medida": 18
+}, {
+	"Id": 1732,
+	"Id_grupo": 1029,
+	"Id_marca": 1032,
+	"Codigo": "CERSOL02",
+	"Descripcion": "Cera Abrilantadora Soluclean",
+	"Grupo": "Cera",
+	"Marca": "Vehigreen",
+	"Id_medida": 18
+}, {
+	"Id": 1734,
+	"Id_grupo": 1011,
+	"Id_marca": 1009,
+	"Codigo": "SLLPOL09",
+	"Descripcion": "Sellador Protector S3",
+	"Grupo": "Sellador",
+	"Marca": "Poliescol",
+	"Id_medida": 18
+}, {
+	"Id": 1735,
+	"Id_grupo": 1026,
+	"Id_marca": 1065,
+	"Codigo": "CINPEG02",
+	"Descripcion": "Cinta de enmascarar Pegafan 1/2",
+	"Grupo": "Cintas",
+	"Marca": "Pegafan",
+	"Id_medida": 19
+}, {
+	"Id": 1736,
+	"Id_grupo": 1113,
+	"Id_marca": 1015,
+	"Codigo": "EPOTEC06",
+	"Descripcion": "Blanco Trafico Acrilico",
+	"Grupo": "Epoxico",
+	"Marca": "Tecnidecor",
+	"Id_medida": 18
+}, {
+	"Id": 1738,
+	"Id_grupo": 1026,
+	"Id_marca": 1028,
+	"Codigo": "CINSTIK02",
+	"Descripcion": "Cinta Amarilla Stik 1/2",
+	"Grupo": "Cintas",
+	"Marca": "American",
+	"Id_medida": 19
+}, {
+	"Id": 1739,
+	"Id_grupo": 1026,
+	"Id_marca": 1028,
+	"Codigo": "CINSTIK01",
+	"Descripcion": "Cinta Azul Stik 1/2",
+	"Grupo": "Cintas",
+	"Marca": "American",
+	"Id_medida": 19
+}, {
+	"Id": 1740,
+	"Id_grupo": 1107,
+	"Id_marca": 1010,
+	"Codigo": "BICCAR",
+	"Descripcion": "BC5555 Azul Oceano",
+	"Grupo": "Bicapa",
+	"Marca": "Caralz",
+	"Id_medida": 18
+}, {
+	"Id": 1741,
+	"Id_grupo": 1084,
+	"Id_marca": 1051,
+	"Codigo": "SILCRC02",
+	"Descripcion": "Silicona Fresa 300ml",
+	"Grupo": "Silicona",
+	"Marca": "CRC",
+	"Id_medida": 18
+}, {
+	"Id": 1743,
+	"Id_grupo": 1084,
+	"Id_marca": 1051,
+	"Codigo": "SILCRC04",
+	"Descripcion": "Silicona chicle 300ml",
+	"Grupo": "Silicona",
+	"Marca": "CRC",
+	"Id_medida": 18
+}, {
+	"Id": 1744,
+	"Id_grupo": 1084,
+	"Id_marca": 1051,
+	"Codigo": "SILCRC05",
+	"Descripcion": "Silicna Citrica 300ml",
+	"Grupo": "Silicona",
+	"Marca": "CRC",
+	"Id_medida": 18
+}, {
+	"Id": 1746,
+	"Id_grupo": 1084,
+	"Id_marca": 1051,
+	"Codigo": "SILCRC07",
+	"Descripcion": "Silicona Negra Sintesolda",
+	"Grupo": "Silicona",
+	"Marca": "CRC",
+	"Id_medida": 18
+}, {
+	"Id": 1747,
+	"Id_grupo": 1084,
+	"Id_marca": 1051,
+	"Codigo": "SILCRC08",
+	"Descripcion": "Silicona Roja Sintesolda",
+	"Grupo": "Silicona",
+	"Marca": "CRC",
+	"Id_medida": 18
+}, {
+	"Id": 1748,
+	"Id_grupo": 1084,
+	"Id_marca": 1051,
+	"Codigo": "SILCRC09",
+	"Descripcion": "Silicona Transparente Antihongos",
+	"Grupo": "Silicona",
+	"Marca": "CRC",
+	"Id_medida": 18
+}, {
+	"Id": 1749,
+	"Id_grupo": 1084,
+	"Id_marca": 1051,
+	"Codigo": "SILCRC10",
+	"Descripcion": "Silicona Sintetico Grey",
+	"Grupo": "Silicona",
+	"Marca": "CRC",
+	"Id_medida": 18
+}, {
+	"Id": 1750,
+	"Id_grupo": 1084,
+	"Id_marca": 1051,
+	"Codigo": "SILCRC11",
+	"Descripcion": "Silicona Rapida 10min",
+	"Grupo": "Silicona",
+	"Marca": "CRC",
+	"Id_medida": 18
+}, {
+	"Id": 1751,
+	"Id_grupo": 1084,
+	"Id_marca": 1051,
+	"Codigo": "SILCRC12",
+	"Descripcion": "Silicona  Standar ",
+	"Grupo": "Silicona",
+	"Marca": "CRC",
+	"Id_medida": 18
+}, {
+	"Id": 1752,
+	"Id_grupo": 1084,
+	"Id_marca": 1051,
+	"Codigo": "SILCRC03",
+	"Descripcion": "Silicona Cool 300ml",
+	"Grupo": "Silicona",
+	"Marca": "CRC",
+	"Id_medida": 18
+}, {
+	"Id": 1753,
+	"Id_grupo": 1084,
+	"Id_marca": 1051,
+	"Codigo": "SILCRC13",
+	"Descripcion": "Silicona Ice 300ml",
+	"Grupo": "Silicona",
+	"Marca": "CRC",
+	"Id_medida": 18
+}, {
+	"Id": 1754,
+	"Id_grupo": 1015,
+	"Id_marca": 1020,
+	"Codigo": "MASSUP13",
+	"Descripcion": "Masilla Gris ",
+	"Grupo": "Lacas",
+	"Marca": "Super",
+	"Id_medida": 18
+}, {
+	"Id": 1755,
+	"Id_grupo": 1025,
+	"Id_marca": 1026,
+	"Codigo": "LIJCAR10",
+	"Descripcion": "Lija Roja #240",
+	"Grupo": "Lijas",
+	"Marca": "Carborundum",
+	"Id_medida": 20
+}, {
+	"Id": 1756,
+	"Id_grupo": 1014,
+	"Id_marca": 1058,
+	"Codigo": "ESMPIA12",
+	"Descripcion": "Esmalte Verde Esmeralda 3en 1",
+	"Grupo": "Esmalte",
+	"Marca": "Piazza",
+	"Id_medida": 18
+}, {
+	"Id": 1757,
+	"Id_grupo": 1016,
+	"Id_marca": 1016,
+	"Codigo": "ANTCOL09",
+	"Descripcion": "Anticorrosivo Gris Colpinturas",
+	"Grupo": "Anticorrosivos",
+	"Marca": "Colpinturas",
+	"Id_medida": 18
+}, {
+	"Id": 1758,
+	"Id_grupo": 1025,
+	"Id_marca": 1024,
+	"Codigo": "LIJABR16",
+	"Descripcion": "Lija multiflex banda \" #80",
+	"Grupo": "Lijas",
+	"Marca": "Abracol",
+	"Id_medida": 20
+}, {
+	"Id": 1759,
+	"Id_grupo": 1025,
+	"Id_marca": 1024,
+	"Codigo": "LIJOME17",
+	"Descripcion": "Lija Omega # 150",
+	"Grupo": "Lijas",
+	"Marca": "Abracol",
+	"Id_medida": 20
+}, {
+	"Id": 1760,
+	"Id_grupo": 1025,
+	"Id_marca": 1024,
+	"Codigo": "LIJOME18",
+	"Descripcion": "Lija Omega # 220",
+	"Grupo": "Lijas",
+	"Marca": "Abracol",
+	"Id_medida": 20
+}, {
+	"Id": 1761,
+	"Id_grupo": 1025,
+	"Id_marca": 1024,
+	"Codigo": "LIJOME19",
+	"Descripcion": "Lija Omega # 400",
+	"Grupo": "Lijas",
+	"Marca": "Abracol",
+	"Id_medida": 20
+}, {
+	"Id": 1762,
+	"Id_grupo": 1025,
+	"Id_marca": 1024,
+	"Codigo": "LIJOME20",
+	"Descripcion": "Lija Omega # 100",
+	"Grupo": "Lijas",
+	"Marca": "Abracol",
+	"Id_medida": 20
+}, {
+	"Id": 1763,
+	"Id_grupo": 1025,
+	"Id_marca": 1024,
+	"Codigo": "LIJOME21",
+	"Descripcion": "Lija Omega # 360",
+	"Grupo": "Lijas",
+	"Marca": "Abracol",
+	"Id_medida": 20
+}, {
+	"Id": 1764,
+	"Id_grupo": 1025,
+	"Id_marca": 1024,
+	"Codigo": "LIJOME22",
+	"Descripcion": "Lija Omega # 600",
+	"Grupo": "Lijas",
+	"Marca": "Abracol",
+	"Id_medida": 20
+}, {
+	"Id": 1765,
+	"Id_grupo": 1025,
+	"Id_marca": 1024,
+	"Codigo": "LIJOME23",
+	"Descripcion": "Lija Omega # 80",
+	"Grupo": "Lijas",
+	"Marca": "Abracol",
+	"Id_medida": 20
+}, {
+	"Id": 1767,
+	"Id_grupo": 1134,
+	"Id_marca": 1066,
+	"Codigo": "DISOME02",
+	"Descripcion": "Disco de Corte Omega Pequeño",
+	"Grupo": "Disco de corte",
+	"Marca": "Germany",
+	"Id_medida": 110
+}, {
+	"Id": 1768,
+	"Id_grupo": 1134,
+	"Id_marca": 1066,
+	"Codigo": "DISOME03",
+	"Descripcion": "Disco de Corte Omega Grande",
+	"Grupo": "Disco de corte",
+	"Marca": "Germany",
+	"Id_medida": 110
+}, {
+	"Id": 1769,
+	"Id_grupo": 1134,
+	"Id_marca": 1066,
+	"Codigo": "DISOME04",
+	"Descripcion": "Disco de Pulir Omega Grande",
+	"Grupo": "Disco de corte",
+	"Marca": "Germany",
+	"Id_medida": 110
+}, {
+	"Id": 1770,
+	"Id_grupo": 1134,
+	"Id_marca": 1066,
+	"Codigo": "DISOME05",
+	"Descripcion": "Disco de Pulir Pequeño",
+	"Grupo": "Disco de corte",
+	"Marca": "Germany",
+	"Id_medida": 110
+}, {
+	"Id": 1771,
+	"Id_grupo": 1025,
+	"Id_marca": 1024,
+	"Codigo": "LIJOME24",
+	"Descripcion": "Lija Omega # 60",
+	"Grupo": "Lijas",
+	"Marca": "Abracol",
+	"Id_medida": 20
+}, {
+	"Id": 1772,
+	"Id_grupo": 1025,
+	"Id_marca": 1024,
+	"Codigo": "CINABR25",
+	"Descripcion": "Cinta Abracol 3/4",
+	"Grupo": "Lijas",
+	"Marca": "Abracol",
+	"Id_medida": 20
+}, {
+	"Id": 1773,
+	"Id_grupo": 1084,
+	"Id_marca": 1051,
+	"Codigo": "CABMUN14",
+	"Descripcion": "Cabuya Multiusos # 12 ",
+	"Grupo": "Silicona",
+	"Marca": "CRC",
+	"Id_medida": 18
+}, {
+	"Id": 1774,
+	"Id_grupo": 1026,
+	"Id_marca": 1028,
+	"Codigo": "CINSTIK03",
+	"Descripcion": "Cinta Amarilla Stik 3/4",
+	"Grupo": "Cintas",
+	"Marca": "American",
+	"Id_medida": 19
+}, {
+	"Id": 1775,
+	"Id_grupo": 1026,
+	"Id_marca": 1028,
+	"Codigo": "CINSTIK04",
+	"Descripcion": "Cinta Azul Stik 3/4",
+	"Grupo": "Cintas",
+	"Marca": "American",
+	"Id_medida": 19
+}, {
+	"Id": 1776,
+	"Id_grupo": 1012,
+	"Id_marca": 1012,
+	"Codigo": "AERSOL27",
+	"Descripcion": "Aerosol Gris Acero",
+	"Grupo": "Aerosol",
+	"Marca": "Solaris",
+	"Id_medida": 18
+}, {
+	"Id": 1777,
+	"Id_grupo": 1016,
+	"Id_marca": 1019,
+	"Codigo": "ESMEVE11",
+	"Descripcion": "Anticorrosivo Negro Every",
+	"Grupo": "Anticorrosivos",
+	"Marca": "Every",
+	"Id_medida": 18
+}, {
+	"Id": 1778,
+	"Id_grupo": 2165,
+	"Id_marca": 1079,
+	"Codigo": "TROCRC01",
+	"Descripcion": "Cera Plus Teflon",
+	"Grupo": "Cera Plus",
+	"Marca": "Tropicana",
+	"Id_medida": 18
+}, {
+	"Id": 1779,
+	"Id_grupo": 2165,
+	"Id_marca": 1079,
+	"Codigo": "TROCRC02",
+	"Descripcion": "Restaurador Partes negra CRC",
+	"Grupo": "Cera Plus",
+	"Marca": "Tropicana",
+	"Id_medida": 18
+}, {
+	"Id": 1780,
+	"Id_grupo": 2165,
+	"Id_marca": 1079,
+	"Codigo": "TROCRC03",
+	"Descripcion": "Brillantas CRC Automotriz",
+	"Grupo": "Cera Plus",
+	"Marca": "Tropicana",
+	"Id_medida": 18
+}, {
+	"Id": 1781,
+	"Id_grupo": 2166,
+	"Id_marca": 1020,
+	"Codigo": "SUPMAS01",
+	"Descripcion": "Masilla Roja super",
+	"Grupo": "Masilla",
+	"Marca": "Super",
+	"Id_medida": 18
+}, {
+	"Id": 1782,
+	"Id_grupo": 1027,
+	"Id_marca": 1029,
+	"Codigo": "RODGOY02",
+	"Descripcion": "Rodillo Golla",
+	"Grupo": "Brochas",
+	"Marca": "Goya",
+	"Id_medida": 19
+}, {
+	"Id": 2782,
+	"Id_grupo": 1013,
+	"Id_marca": 1011,
+	"Codigo": "WHSPIN05",
+	"Descripcion": "Whas Praimer Pintuco",
+	"Grupo": "Vinilos",
+	"Marca": "Pintuco",
+	"Id_medida": 18
+}, {
+	"Id": 2783,
+	"Id_grupo": 1014,
+	"Id_marca": 1016,
+	"Codigo": "ESMCOL25",
+	"Descripcion": "Esmalte Verde Esmeralda",
+	"Grupo": "Esmalte",
+	"Marca": "Colpinturas",
+	"Id_medida": 18
+}, {
+	"Id": 2784,
+	"Id_grupo": 1014,
+	"Id_marca": 1054,
+	"Codigo": "ESMSUP04",
+	"Descripcion": "Esmalte Aluminio Fino",
+	"Grupo": "Esmalte",
+	"Marca": "Supratech",
+	"Id_medida": 18
+}, {
+	"Id": 2785,
+	"Id_grupo": 1016,
+	"Id_marca": 1054,
+	"Codigo": "ANTSUP04",
+	"Descripcion": "Anticorrosivo Rojo Suprateh",
+	"Grupo": "Anticorrosivos",
+	"Marca": "Supratech",
+	"Id_medida": 18
+}, {
+	"Id": 2786,
+	"Id_grupo": 1016,
+	"Id_marca": 1054,
+	"Codigo": "ANTSUP05",
+	"Descripcion": "Anticorrosivo Gris Supratech",
+	"Grupo": "Anticorrosivos",
+	"Marca": "Supratech",
+	"Id_medida": 18
+}, {
+	"Id": 2787,
+	"Id_grupo": 2169,
+	"Id_marca": 1080,
+	"Codigo": "DISIND01",
+	"Descripcion": "Disco Indasa # 150",
+	"Grupo": "Disco Indasa",
+	"Marca": "Indasa",
+	"Id_medida": 110
+}, {
+	"Id": 2788,
+	"Id_grupo": 2169,
+	"Id_marca": 1080,
+	"Codigo": "DISIND02",
+	"Descripcion": "Disco Indasa # 80",
+	"Grupo": "Disco Indasa",
+	"Marca": "Indasa",
+	"Id_medida": 110
+}, {
+	"Id": 2789,
+	"Id_grupo": 2169,
+	"Id_marca": 1080,
+	"Codigo": "DISIND03",
+	"Descripcion": "Disco Indasa # 220",
+	"Grupo": "Disco Indasa",
+	"Marca": "Indasa",
+	"Id_medida": 110
+}, {
+	"Id": 2790,
+	"Id_grupo": 2169,
+	"Id_marca": 1080,
+	"Codigo": "DISIND04",
+	"Descripcion": "Disco Indasa # 180",
+	"Grupo": "Disco Indasa",
+	"Marca": "Indasa",
+	"Id_medida": 110
+}, {
+	"Id": 2791,
+	"Id_grupo": 2169,
+	"Id_marca": 1080,
+	"Codigo": "DISIND05",
+	"Descripcion": "Disco Indasa # 800",
+	"Grupo": "Disco Indasa",
+	"Marca": "Indasa",
+	"Id_medida": 110
+}, {
+	"Id": 2792,
+	"Id_grupo": 2169,
+	"Id_marca": 1080,
+	"Codigo": "DISIND06",
+	"Descripcion": "Disco Indasa # 600",
+	"Grupo": "Disco Indasa",
+	"Marca": "Indasa",
+	"Id_medida": 110
+}, {
+	"Id": 2793,
+	"Id_grupo": 2169,
+	"Id_marca": 1080,
+	"Codigo": "DISIND07",
+	"Descripcion": "Disco Indasa # 400",
+	"Grupo": "Disco Indasa",
+	"Marca": "Indasa",
+	"Id_medida": 110
+}, {
+	"Id": 2794,
+	"Id_grupo": 2169,
+	"Id_marca": 1080,
+	"Codigo": "DISIND08",
+	"Descripcion": "Disco Indasa # 320",
+	"Grupo": "Disco Indasa",
+	"Marca": "Indasa",
+	"Id_medida": 110
+}, {
+	"Id": 2795,
+	"Id_grupo": 1090,
+	"Id_marca": 1010,
+	"Codigo": "BARCAR04",
+	"Descripcion": "Barniz HS + Catalizador(Montelibano)",
+	"Grupo": "Barniz",
+	"Marca": "Caralz",
+	"Id_medida": 18
+}, {
+	"Id": 2796,
+	"Id_grupo": 1088,
+	"Id_marca": 1010,
+	"Codigo": "DISCAR03",
+	"Descripcion": "Disolvente TX-60",
+	"Grupo": "Disolvente",
+	"Marca": "Caralz",
+	"Id_medida": 18
+}, {
+	"Id": 2797,
+	"Id_grupo": 1009,
+	"Id_marca": 1060,
+	"Codigo": "MASPIN02",
+	"Descripcion": "Masilla  P1500 Pintuco",
+	"Grupo": "Masillas",
+	"Marca": "Terinsa",
+	"Id_medida": 18
+}, {
+	"Id": 2798,
+	"Id_grupo": 1014,
+	"Id_marca": 1011,
+	"Codigo": "ESMPINT14",
+	"Descripcion": "Esmalte Amarillo Caterpila Pintuco",
+	"Grupo": "Esmalte",
+	"Marca": "Pintuco",
+	"Id_medida": 18
+}, {
+	"Id": 2799,
+	"Id_grupo": 1012,
+	"Id_marca": 1011,
+	"Codigo": "AERAER13",
+	"Descripcion": "Aerocolor Aluminio Rines",
+	"Grupo": "Aerosol",
+	"Marca": "Pintuco",
+	"Id_medida": 18
+}, {
+	"Id": 2800,
+	"Id_grupo": 1090,
+	"Id_marca": 1010,
+	"Codigo": "BARCAR05",
+	"Descripcion": "Barniz HS Caralz + Catalizador",
+	"Grupo": "Barniz",
+	"Marca": "Caralz",
+	"Id_medida": 18
+}, {
+	"Id": 2801,
+	"Id_grupo": 1014,
+	"Id_marca": 1058,
+	"Codigo": "ESMPIA13",
+	"Descripcion": "Esmalte Gris Plata 3en 1",
+	"Grupo": "Esmalte",
+	"Marca": "Piazza",
+	"Id_medida": 18
+}, {
+	"Id": 2802,
+	"Id_grupo": 1090,
+	"Id_marca": 1010,
+	"Codigo": "BARCAR06",
+	"Descripcion": "Barniz HS Caralz",
+	"Grupo": "Barniz",
+	"Marca": "Caralz",
+	"Id_medida": 18
+}, {
+	"Id": 2803,
+	"Id_grupo": 1080,
+	"Id_marca": 1025,
+	"Codigo": "POM3M04",
+	"Descripcion": "Pomo 3M",
+	"Grupo": "Caretas",
+	"Marca": "3M",
+	"Id_medida": 107
+}, {
+	"Id": 2804,
+	"Id_grupo": 1026,
+	"Id_marca": 1025,
+	"Codigo": "CIN3M07",
+	"Descripcion": "Cinta doble faz 1/2 3M",
+	"Grupo": "Cintas",
+	"Marca": "3M",
+	"Id_medida": 19
+}, {
+	"Id": 2805,
+	"Id_grupo": 1015,
+	"Id_marca": 1011,
+	"Codigo": "LACPINT10",
+	"Descripcion": "7503 Negro Mezcla ",
+	"Grupo": "Lacas",
+	"Marca": "Pintuco",
+	"Id_medida": 18
+}, {
+	"Id": 2806,
+	"Id_grupo": 1015,
+	"Id_marca": 1011,
+	"Codigo": "LACPINT11",
+	"Descripcion": "P502 Ajustador",
+	"Grupo": "Lacas",
+	"Marca": "Pintuco",
+	"Id_medida": 18
+}, {
+	"Id": 2807,
+	"Id_grupo": 1090,
+	"Id_marca": 1052,
+	"Codigo": "BARPPG03",
+	"Descripcion": "Acelerador pol",
+	"Grupo": "Barniz",
+	"Marca": "PPG",
+	"Id_medida": 18
+}, {
+	"Id": 2808,
+	"Id_grupo": 1080,
+	"Id_marca": 1025,
+	"Codigo": "POM3M05",
+	"Descripcion": "Careta 3M Cpto",
+	"Grupo": "Caretas",
+	"Marca": "3M",
+	"Id_medida": 107
+}, {
+	"Id": 2809,
+	"Id_grupo": 2165,
+	"Id_marca": 1079,
+	"Codigo": "TROCRC04",
+	"Descripcion": "Mega Blue",
+	"Grupo": "Cera Plus",
+	"Marca": "Tropicana",
+	"Id_medida": 18
+}, {
+	"Id": 2810,
+	"Id_grupo": 1012,
+	"Id_marca": 1060,
+	"Codigo": "AERTER09",
+	"Descripcion": "Aerosol Bermellon",
+	"Grupo": "Aerosol",
+	"Marca": "Terinsa",
+	"Id_medida": 18
+}]

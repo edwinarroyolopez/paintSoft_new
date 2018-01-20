@@ -1,0 +1,437 @@
+/* Clases de configuracion general */
+    .hidden{display: none;}
+
+
+div.container {
+    display: inline-block;
+    vertical-align: top;
+}
+div.container h2{
+    border-bottom: solid 1px rgba(200,200,200,1);
+    padding: 10px 0 0 0;
+}
+
+/* Navegador */
+div#navegador{
+    height: 40px;
+    
+    /* Quita seleccion de texto*/
+   -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none; 
+}
+div#navegador div.align{
+    margin: auto;
+    width: 440px;
+}
+
+div#navegador div.menu_item{
+    color: rgba(180,180,180,1);
+    cursor: pointer;
+    display: inline-block;
+    font-family: "Myriad Pro",Arial,Helvetica,sans-serif;
+    padding: 10px 60px 5px 0;
+    vertical-align: top;
+    
+}
+    /*  Evento mouse hover --> Menu item */
+    div#navegador div.menu_item:hover div.icon{
+        border: solid 1px rgba(1, 150, 227,1);
+    }
+    div#navegador div.menu_item:hover div.label{
+        color: rgba(1, 150, 227,.8);
+    }
+    
+
+div#navegador div.menu_item div.icon,
+div#navegador div.menu_item div.label{
+    display: inline-block;
+    vertical-align: top;
+    /* Efectos */
+    transition: 1s;
+}
+div#navegador div.menu_item div.icon{
+    border: solid 1px rgba(1, 150, 227, 0.2);
+    border-radius: 3px;
+    font-size: 1.1em;
+    height: 16px;
+    text-align: center;
+    width: 16px;
+}
+
+div#navegador div.menu_item div.label{
+    font-size: 1.05em;
+    padding: 2px 0 0 5px;
+}
+/* Menu item específico */
+div#mi_Maquina{
+    padding: 10px 0 10px 0 !important;
+}
+
+/* Aquí finalizan los estilos relacionados con el Navegador */
+
+/* Contenedor --> central */
+div#central{
+    border: solid 1px rgba(200,200,200,1);
+    min-height: 460px;
+    width: 700px;
+}
+
+    /* Contenedor ** Configuración **/
+    div#contenedor_configuracion{}
+    /* Buscador ---> Específicas */
+    div#contenedor_configuracion div#buscador_formula{
+        width: 250px;
+    }
+    div#buscador_formula div#encabezado_formula,
+    div#buscador_formula div#campo_formula{
+        margin: auto;
+        width: 200px;
+    }
+    
+    div#buscador_formula div#campo_formula input#txtFormula{
+        width: 200px;
+    }
+    
+    /* Buscador ---> Generales */
+    div.buscador,div.seteador{
+        display: inline-block;
+        vertical-align: top;
+    }
+    div.buscador div.encabezado{
+        color: rgba(140,140,140,1);
+        cursor: pointer;
+        height: 20px;
+        margin: auto;
+        padding: 10px 0 0 0;
+        text-align: center;
+        
+        /* Quita seleccion de texto*/
+            -webkit-user-select: none;
+             -moz-user-select: none;
+             -ms-user-select: none;
+             user-select: none; 
+    }
+    div.buscador div.encabezado div.icon,
+    div.buscador div.encabezado div.label{
+        display: inline-block;
+        vertical-align: top;
+    }
+    div.buscador div.encabezado div.icon{
+        border: solid 1px rgba(1, 150, 227, 0.2);
+        border-radius: 3px;
+        font-size: 1.1em;
+        height: 16px;
+        text-align: center;
+        width: 16px;
+    }
+    div.buscador div.encabezado div.label{
+        padding: 2px 0 0 5px;
+    }
+    div.buscador div.campo{
+        margin: auto;
+        padding: 5px 0 0 0;
+    }
+    div.buscador div.campo div.caja input{
+        text-align: center;
+    }
+        div.caja input{
+            border-bottom: solid 1px rgba(200,200,200,.5);
+            height: 20px;
+            padding: 0 0 2px 0;
+        }
+     div.caja input:focus{
+        border-bottom: solid 1px rgba(1, 150, 227, 0.2);
+    }
+    /* Eliminar fórmulas */
+    div.buscador div.campo div.eliminar{
+        height: 24px;
+        margin: 5px 0 5px 0;
+        width: auto;
+    }
+    
+    div.buscador div.campo div.eliminar div#btn_eliminar_formula{
+        
+        border-bottom: solid 1px rgba(200,200,200,1);
+        border-left: dashed 1px rgba(200,200,200,1);
+        border-right:dashed 1px rgba(200,200,200,1);
+        border-top: solid 1px rgba(200,200,200,1);
+        border-radius: 4px;
+        cursor: pointer;
+        margin: auto;
+        padding: 2px;
+        text-align: center;
+        width: 80px;
+        
+         /* Quita seleccion de texto*/
+            -webkit-user-select: none;
+             -moz-user-select: none;
+             -ms-user-select: none;
+             user-select: none; 
+    }
+    
+    div#btn_eliminar_formula:hover{
+        background: rgba(180,180,180,1);
+        color: rgba(230,230,230,1);
+    }
+    div#btn_eliminar_formula:active{
+        background: rgba(180,180,180,1);
+        color: rgba(250,250,250,1);
+    }
+    
+    /* Fila para eliminar */
+    div.isSelected{
+        background: rgba(200,200,200,1);
+    }
+    
+    /* Lista de fórmulas */
+    div.list{}
+    /* Encabezado de la lista */
+    div.list div.head{
+        background: rgba(245,245,245,1);
+        color: rgba(177, 176, 176,1);
+        height: 20px;
+        text-align: center;
+    }
+    div.list div.head div.label{
+        padding: 2px;
+    }
+    /* Filas de la lista */
+    div.list div.row{
+        border-bottom: solid 1px rgba(230,230,230,1);
+        color: rgba(118, 115, 150, 0.75);
+        font-size: 0.95em;
+        padding: 1px 0 0 0;
+    }
+    div.list div.row div.value{
+        cursor: pointer;
+        margin: auto;
+        width: 90%;
+    }
+    div.list div.row:hover{
+        background: rgba(200,200,200,1);
+    }
+    
+    /* Seteador --> Especificos */
+    div#contenedor_configuracion div#seteador_formula{
+        min-height: 300px;
+        width: 440px;
+    }
+    /* Seteador --> Generales */
+    div.seteador{}
+    /* Encabezado del seteador */
+    div.seteador div.encabezado{
+        border-bottom: solid 1px rgba(230,230,230,1);
+        height: 20px;
+        text-align: center;
+    }
+    div.seteador div.encabezado div.label{
+        padding: 2px 0 0 0;
+    }
+    
+   
+    
+    /* Relación máquinas - fórmulas */
+    div#relacion_maquina_formula{min-height: 70px;}
+    div#relacion_maquina_formula div#listMaquina_de_Formula{
+        margin: auto;
+        width: 280px;
+    }
+    div#relacion_maquina_formula div#listMaquina_de_Formula div.encabezado div.label{
+        color: rgba(180,180,180,1);
+        font-size: 1em;
+    }
+    
+    /* Agregar máquinas a formulas */
+    div#agregar_maquinas_formula{
+        border-top:   solid 1px rgba(230,230,230,1);
+        margin: 15px 0 0 0;
+    }
+    /* Buscador de máquinas */
+    div#agregar_maquinas_formula div#buscador_maquina{
+        display: block;
+        margin: auto;
+        width: 300px;
+    }
+    div#buscador_maquina div#encabezado_maquina{
+        border-bottom: none !important;
+    }
+    /* Centrar caja de texto */
+    div#buscador_maquina div#campo_maquina{}
+    div#buscador_maquina div#campo_maquina div.caja{margin: auto;width: 250px;}
+    div#buscador_maquina div#campo_maquina div.caja input{width: 250px;}
+    
+    /* agregar máquinas al sistema */
+    div#buscador_maquina div#add_maquina_sistema{
+        border: solid 1px rgba(230,230,230,1);
+        min-height: 200px;
+        margin: 10px 0 0 0;
+    }
+    /* Estructuras de máquina */
+    div#add_maquina_sistema div#estructura_maquina{margin: 5px auto;width: 260px;}
+    div#add_maquina_sistema div#estructura_maquina div.estructura{
+        height: 20px;
+    }
+    div#estructura_maquina div.estructura div.label,
+    div#estructura_maquina div.estructura div.value{
+        display: inline-block;
+        vertical-align: top;
+    }
+    div#estructura_maquina div.estructura div.label{color: rgba(160,160,160,1);font-size: 0.95em;}
+    div#estructura_maquina div.estructura div.value{
+        cursor: pointer;
+        padding: 2px;
+        
+        /* Quita seleccion de texto*/
+            -webkit-user-select: none;
+             -moz-user-select: none;
+             -ms-user-select: none;
+             user-select: none; 
+    }
+    
+    /* Configuracion de listas */
+    .listMarca{
+        margin: auto;
+        width: 150px !important;
+    }
+    .listModelo{
+        margin: auto;
+        text-align: center;
+        width: 100px !important;
+    }
+    .listDescripcion{}
+    
+    
+    
+    /* Centrar caja de texto */
+    div#add_maquina_sistema div.caja{margin: auto;width: 250px;}
+    div#add_maquina_sistema div.caja input{width: 250px;}
+    
+        
+    
+    
+    
+     /* Combinación */
+     .opacidad{opacity: 0.3;}
+     
+     div#seteador_formula div#combinacion{
+         margin: 0 0 0 15px;
+     }
+    div#seteador_formula div#combinacion div.color{
+       /* border: solid 1px rgba(230,230,230,1); */
+        height: 40px;
+        position: absolute;
+        width: 250px;
+    }
+    div#combinacion div.color div.img,
+    div#combinacion div.color div.descripcion{
+        display: inline-block;
+        vertical-align: top;
+    }
+    div#combinacion div.color div.img{
+        border: solid 1px rgba(180,180,180,1);
+        border-radius: 3px;
+        font-size: 0.9em;
+        height: 40px;
+        width: 35px;
+    }
+    div#combinacion div.color div.img div.peso{
+        padding: 5px 0 5px 0;
+        text-align: center;
+    }
+    div#combinacion div.color div.img div.pie{
+        background: rgba(240,240,240,1);
+        color: rgba(160,160,160,1);
+        padding: 0 0 1px 0;
+        text-align: center;
+    }
+    
+    div#combinacion div.color div.descripcion{
+        border-bottom: solid 1px rgba(240,240,240,1);
+        font-size: 0.9em;
+        height: 18px;
+        width: 200px;
+    }
+    
+    /* Colores */
+    div#C1{border-color: rgba(70,0,200,1)!important;}
+    div#C2{border-color: rgba(70,0,200,1)!important;margin: 25px 0 0 45px;}
+    div#C3{margin: 50px 0 0 90px;}
+    div#C4{margin: 75px 0 0 135px;}
+    div#C5{margin: 100px 0 0 180px;}
+    
+    div#C6{margin: 150px 0 0 180px;}
+    div#C6 div.descripcion{vertical-align: bottom !important;}
+    div#C7{margin: 175px 0 0 135px;}
+    div#C7 div.descripcion{vertical-align: bottom !important;}
+    div#C8{margin: 200px 0 0 90px;}
+    div#C8 div.descripcion{vertical-align: bottom !important;}       
+    div#C9{margin: 225px 0 0 45px;}
+    div#C9 div.descripcion{vertical-align: bottom !important;}
+    div#C10{margin:250px 0 0 0px;}
+    div#C10 div.descripcion{vertical-align: bottom !important;}
+    /* COMBINACION */
+    
+    
+    /* Field set ---> Nueva formula */
+
+    div#fieldSetter{
+        margin: auto;
+        padding: 10px 0 10px 0;
+        width: 350px;
+    }
+    
+    div#fieldSetter div.segmento{
+        display: inline-block;
+        vertical-align: top;
+    }
+    
+    div#btnIngresar_formula{
+        border-bottom: 1px solid rgba(220,220,220,1);
+        border-radius: 10px;
+        border-top: 1px solid rgba(220,220,220,1);
+        cursor: pointer;
+        height: 40px;
+        margin: 40px 0 0 40px;
+        text-align: center;
+        width: 120px;
+        
+           /* Quita seleccion de texto*/
+            -webkit-user-select: none;
+             -moz-user-select: none;
+             -ms-user-select: none;
+             user-select: none; 
+    }
+    div#btnIngresar_formula:hover{
+        background: rgba(245,245,245,1);
+    }
+    
+    div#btnIngresar_formula div.label{
+        padding: 12px 0 0 0;
+    }
+    
+    div#fieldSetter div.label{
+        color:rgba(160,160,160,1);
+    }
+    /* listProducto */
+    div#content_set_formula div#listProducto{
+        background: rgba(255,255,255,1);
+        position: absolute;
+        z-index: 100;
+    }
+    div#listProducto div.row{
+        border: solid 1px rgba(200,200,200,1);
+        cursor: pointer;
+    }
+    div#listProducto div.row:hover{
+        background: rgba(230,230,230,1);
+    }
+    div#listProducto div.row div.descripcion{
+        margin: 0 0 0 10px;
+    }
+    div#listProducto div.row div.codigo{
+        color: rgba(180,180,180,1);
+        font-size: 0.9em;
+        margin: 0 0 0 10px;
+    }

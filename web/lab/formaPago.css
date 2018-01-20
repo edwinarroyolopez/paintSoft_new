@@ -1,0 +1,13 @@
+div.contenedor{
+    height: 100px;
+    margin: auto;
+    width: 150px;
+}
+
+div.field{
+    border: dashed 1px;
+    cursor: pointer;
+    padding: 5px;
+    text-align: center;
+    width: 80px;
+}

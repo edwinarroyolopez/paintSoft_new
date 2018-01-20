@@ -1,0 +1,147 @@
+/* Colores cliente */
+
+/* titulo central */
+section#center div.title {
+   background: rgba(105, 42, 210, 0.89);
+}
+
+/* crud: Ciente */
+div#crudCliente{
+  color: rgb(142, 123, 152);
+}
+
+div#crudCliente input:focus {
+    border-bottom: solid 2px rgba(105, 42, 210, .7);
+}
+
+
+
+/* Seleccion Tab */
+.isSelect{ background: rgba(105, 42, 210, 0.3); }
+.isSelect:hover{background: rgba(105, 42, 210, 0.3) !important; }
+
+section#center div.container div.tabMenu div.tab:hover{
+    background: rgba(105, 42, 210, 0.1);;
+}
+section#center div.container div.tabMenu div.tab:active{
+    background: rgba(105, 42, 210, .7);
+   /* transition: all .1s; */
+}
+
+
+section#center div.container div.frame {
+    background: rgba(105, 42, 210, 0.3);
+}
+
+div.frame div.segment div.field div.textbox input:focus {
+    border-bottom: solid 2px rgba(105, 42, 210, .7);
+}
+/*
+/* Botón almacenar */
+/*div.frame div.content_button{
+    padding: 5px;
+}
+
+div.frame div.content_button div.button{
+    background: rgba(105, 42, 210, .1);
+    border-bottom: 1px solid rgba(200,200,200,1);
+    border-radius: 4px;
+    border-top: 1px solid rgba(200,200,200,1);
+    color: rgb(169, 117, 252);
+    cursor: pointer;
+    margin: auto;
+    width: 100px;
+}
+div.frame div.content_button div.button div.label{
+    padding: 5px;
+    text-align: center;
+}
+div.frame div.content_button div.button:hover{
+    background: rgba(105, 42, 210, .4);
+    color: rgb(255, 255, 255);
+}
+
+div.frame div.content_button div.button:active{
+    background: rgba(105, 42, 210, .7);
+    color: rgba(255,255,255,1);
+}*/
+
+
+/* FORMULARIO DE DESCRIPCION */
+
+section#center div.container div#frmDescripcion{
+
+}
+section#center div.container div#frmDescripcion div.descripcion{
+    background: rgba(255,255,255,1);
+    margin: 5px;
+    padding: 5px;
+}
+div#infoEmail,div#infoDireccion{font-size: 0.9em;}
+section#center div.container div#frmDescripcion div.descripcion div.movimientos{
+    border:dashed 1px rgba(200,200,200,1);
+    display: inline-block;
+    height: 220px;
+    padding: 5px;
+    vertical-align: top;
+    width: 200px;
+}
+
+section#center div.container div#frmDescripcion div.descripcion div.cliente{
+    border: dashed 1px rgba(200,200,200,1);
+    display: inline-block;
+    padding: 5px;
+    vertical-align: top;
+    width: 200px
+}
+section#center div.container div#frmDescripcion div.descripcion div.cliente div#infoNombre{
+    background: rgba(230,230,230,1);
+    font-size: 1.1em;
+    text-align: center;
+}
+section#center div.container div#frmDescripcion div.descripcion div.cliente div.info{
+  padding: 4px;
+}
+section#center div.container div#frmDescripcion div.descripcion div.cliente div.info div.label{
+    color: rgba(180,180,180,1);
+}
+section#center div.container div#frmDescripcion div.descripcion div.cliente div.info div.value{
+    color: rgba(0,0,150,1);
+}
+
+/* END *** FORMULARIO DE DESCRIPCION *** END */
+
+
+/* Buscador de clientes */
+div.box div.searcher_cliente{
+    margin: auto;
+    padding: 20px 0 0 0;
+    width: 280px;
+}
+div.box div.searcher_cliente div.searcher{
+    margin: auto;
+    width: 125px;
+}
+
+div.box div.searcher_cliente div.searcher div.textbox input{
+    width: 250px;
+}
+
+/* Lista de clientes */
+div.box div.searcher_cliente div.searcher div#listClientes{
+    background: rgba(255,255,255,1);
+    color: rgba(81, 25, 185, 0.92);
+    font-size: 13px;
+    position: absolute;
+    width: 250px;
+}
+div#listClientes div.item{
+    cursor: pointer;
+}
+
+div#listClientes div.item:hover{
+    background: rgba(105, 42, 210, 0.3);
+}
+div#listClientes div.item:active{
+    background: rgba(105, 42, 210, 0.6);
+}

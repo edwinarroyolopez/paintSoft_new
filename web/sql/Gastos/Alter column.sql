@@ -1,0 +1,1 @@
+ALTER TABLE tblGastos ALTER COLUMN Descripcion Varchar(100) NOT NULL;

@@ -1,0 +1,822 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 3/06/2017, 05:23:32 PM
+    Author     : Zero
+*/
+div#sector_frmFactura{
+    background: rgba(255,255,255,1);
+    min-height: 300px;
+}
+
+/* Contenedor de facturas */
+div#contenedor_buscador_facturas{
+}
+div#contenedor_buscador_facturas div#subcontenedor_buscador_facturas{
+    padding: 20px 5px 5px 5px;
+    margin: auto;
+    width: 450px;
+}
+/* Boton facturas pendientes */
+div#subcontenedor_buscador_facturas div#btnFacturas_pendientes{
+    border: solid 0.5px rgba(220,220,220,1);
+    border-radius: 5px;
+    color: rgba(220,220,220,1);
+    cursor: pointer;
+    display: inline-block;
+    height: 40px;
+    text-align: center;
+    width: 80px;
+    
+                        /* Quitar selección */
+                   -webkit-user-select: none;
+                   -moz-user-select: none;
+                   -ms-user-select: none;
+                   user-select: none;
+}
+div#btnFacturas_pendientes div.label{padding: 5px 0 0 0;}
+div#btnFacturas_pendientes:hover{
+    background: rgba(240,240,240,1);
+    color: rgba(150,150,150,1)!important;
+}
+div#btnFacturas_pendientes:active{
+     background: rgba(250,248,241,1);
+     color: rgba(210,160,70,1)!important;
+}
+
+/* Buscador de facturas */
+div#buscador_facturas{
+    display: inline-block;
+    padding: 0 0 0 20px;
+    width: 320px;
+}
+div#buscador_facturas div.field{
+    margin: auto;
+    width: 320px;
+}
+div#buscador_facturas div.field div.textbox{
+    margin: auto;
+    width: 280px;
+}
+div#buscador_facturas div.field div.textbox input{
+    border-bottom: solid 1px rgba(220,220,220,1);
+    margin: auto;
+    padding: 0 0 2px 0;
+    width: 280px;
+}
+
+/* lista de facturas */
+div#buscador_facturas div#listFacturas{
+    border:solid 0.5px rgba(220,220,220,1);
+    position: absolute;
+    width: 320px;
+    z-index: 10;
+}
+
+div#listFacturas div.item{
+    background: rgba(255,255,255,1);
+    border-bottom: solid 0.5px rgba(240,240,240,1);
+    cursor: pointer;
+    padding: 1.5px 0 1.5px 0;
+       /* Quitar selección */
+                   -webkit-user-select: none;
+                   -moz-user-select: none;
+                   -ms-user-select: none;
+                   user-select: none;
+}
+div#listFacturas div.item:hover{
+    background: rgba(240,240,240,1);
+}
+div#listFacturas div.item:active{
+    background: rgba(199, 234, 243,1);
+}
+
+div#listFacturas div.item div.top{}
+
+div#listFacturas div.item div.top div.numero{font-weight: bold;} 
+
+div#listFacturas div.item div.top div.numero,
+div#listFacturas div.item div.top div.estado,
+div#listFacturas div.item div.bottom div.razon_social,
+div#listFacturas div.item div.bottom div.forma_pago{
+    display: inline-block;
+}
+
+
+/* Definición de tamaños y aliniemiento */
+div#listFacturas div.item div.top div.numero,
+div#listFacturas div.item div.bottom div.forma_pago{
+    padding: 0 0 0 5px;
+    vertical-align: top;
+    width: 70px;
+}
+div#listFacturas div.item div.top div.estado,
+div#listFacturas div.item div.bottom div.razon_social
+{
+    padding: 0 0 0 5px;
+    text-align: center;
+    vertical-align: top;
+    width: 240px;
+}
+
+div#listFacturas div.item div.bottom{}
+
+div#listFacturas div.item div.bottom div.forma_pago{
+    opacity: .5;
+    text-align: center;
+}
+
+
+
+/* ---- Copy ---- venta factura */
+
+ /* Contenido de facturas */
+        div#sector_frmFactura div#marco_factura{
+            margin: auto;
+            min-height: 400px;
+            overflow: hidden;
+            width: 650px;
+        }
+
+/**/
+        div#sector_frmFactura div#marco_factura div#contenido_factura{
+            background: rgba(180,180,180,.3);
+            position: relative;
+            width: 2000px;
+           
+        }
+            /* Posiciones del contenido */
+                div.pos_proveedor{
+                    left: 0px;
+                }
+                div.pos_factura{
+                    left: -654px;
+                }
+                div.pos_pendientes{
+                    left: -1307px;
+                }
+        
+        div#contenido_factura div#f_Proveedor,
+        div#contenido_factura div#f_Factura_detalle,
+        div#contenido_factura div#f_Pendientes{
+         /*   border: solid 0.1px rgba(0,240,240,1); */
+            display: inline-block;   
+            min-height: 400px;
+            vertical-align: top;
+            width: 650px;
+        }
+        
+        /* Facturas de clientes */
+         div#sector_frmFactura div#contenido_factura div#f_Proveedor{
+            background: rgba(255,255,255,1);
+        }
+        
+        /* Facturas detalle */
+        div#sector_frmFactura div#contenido_factura div#f_Factura_detalle{
+            background: rgba(255,255,255,1);
+            padding: 5px 0 0 0;
+        }
+        /* Facturas pendientes */
+        div#sector_frmFactura div#contenido_factura div#f_Pendientes{
+            background: rgba(255,255,255,1);
+        }
+        
+        /* Cliente ---> detalle */
+        div#f_Proveedor div.encabezado{
+            background: rgba(0, 179, 223,1);
+            color: rgba(255,255,255,1);
+            height: 40px;
+        }
+        div#f_Proveedor div.encabezado div#proveedor_descripcion{
+            background: rgba(238, 229, 255, 0.4);
+            font-size: 1.2em;
+            margin: auto;
+            padding: 2px;
+            text-align: center;
+        }
+        div#f_Proveedor div.encabezado div#proveedor_detalle{
+            margin: auto;
+            width: 250px;
+        }
+        
+        div#f_Proveedor div.encabezado div#proveedor_detalle div#proveedor_documento,
+        div#f_Proveedor div.encabezado div#proveedor_detalle div#proveedor_saldo{
+            display: inline-block;
+            padding: 2px 0 0 0;
+            vertical-align: top;
+            width: 120px;
+        }
+        div#f_Proveedor div.encabezado div#proveedor_detalle div#proveedor_documento{
+            text-align: left;
+        }
+        div#f_Proveedor div.encabezado div#proveedor_detalle div#proveedor_saldo{
+             color: rgb(251, 191, 57);
+             text-align: right;
+        }
+        /* Facturas del cliente */
+        div#f_Proveedor div#facturas_proveedor{
+            background: rgba(245, 241, 254, 0.4);
+            margin: auto;
+            min-height: 350px;
+            width: 530px;
+        }
+        
+        div#f_Proveedor div#facturas_proveedor div.factura{
+            border: solid 1px rgba(200,200,200,1);
+            border-radius: 5px;
+            cursor: pointer;
+            display: inline-block;
+            margin: 5px;
+            vertical-align: top;
+            width: 120px;
+            
+               /* Quitar selección de texto */
+                    -webkit-user-select: none;
+                    -moz-user-select: none;
+                    -ms-user-select: none;
+                    user-select: none; 
+        }
+        div#f_Proveedor div#facturas_proveedor div.factura:hover{
+            background: rgba(240,240,240,1);
+            border: solid 1px rgba(105, 42, 210, 0.7);
+        }
+        div#f_Proveedor div#facturas_proveedor div.factura:active{
+            background: rgba(220,220,220,1);
+            border: solid 1px rgba(105, 42, 210, 1);
+        }
+        
+        div#f_Proveedor div#facturas_proveedor div.factura div.numero{
+            font-weight: bold;
+        }
+        
+        div#f_Proveedor div#facturas_proveedor div.factura div.numero,
+        div#f_Proveedor div#facturas_proveedor div.factura div.valor{
+            text-align: center;
+        }
+        
+        div#f_Proveedor div#facturas_proveedor div.factura div.valor{
+            background: rgba(95, 199, 236, 0.38);
+            border-radius: 0 0 5px 5px;
+        }
+        div#f_Proveedor div#facturas_proveedor div.factura div.valor div{
+            color: rgba(168, 75, 20, 0.9);
+            padding: 2px 0 0 0;
+        }
+        
+        div#f_Proveedor div#facturas_proveedor div.factura div.estado,
+        div#f_Proveedor div#facturas_proveedor div.factura div.forma_pago{
+            display: inline-block;
+            text-align: center;
+            vertical-align: top;
+            width: 60px;
+        }
+            
+        div#f_Proveedor div#facturas_proveedor div.factura div.forma_pago{color: rgba(150,150,150,1);}
+        
+        div.abierta{color: rgba(204, 43, 43, 0.9);}
+        div.cerrada{color: rgba(28, 176, 28, 0.9);}
+        
+        /* Factura detalle */
+        div#contenido_factura div#f_Factura_detalle{}
+        div#contenido_factura div#f_Factura_detalle div.encabezado{
+            background: rgba(239, 244, 250, 0.9);
+        }
+        div#contenido_factura div#f_Factura_detalle div.encabezado div#fatura_detalle{
+            background: rgb(255, 255, 255);
+            color: rgb(114, 133, 206);
+            font-size: 1.2em;
+            font-weight: bold;
+            padding: 2px;
+            text-align: center;
+        }
+        /* Accion */
+        
+        div#f_Factura_detalle div.encabezado div.descripcion_factura{
+            margin: auto;
+            width: 400px;
+        }
+        div#f_Factura_detalle div.encabezado div.descripcion_factura div.field{
+            color: rgba(163, 111, 197, 1);
+            display: inline-block;
+            padding: 3px;
+            text-align: center;
+            vertical-align: top;
+            width: 90px
+        }
+        
+        div#f_Factura_detalle div.encabezado div.descripcion_factura div.field div.label{
+            color: rgba(129, 93, 93, 0.45);
+        }
+        
+        div#f_Factura_detalle div.encabezado div.descripcion_proveedor{
+            background: rgba(212, 243, 255, 0.99);
+            color: rgb(0, 144, 178);
+            font-size: 1.1em;
+            height: 20px;
+        }
+        div#f_Factura_detalle div.encabezado div.descripcion_proveedor div#fd_proveedor,
+        div#f_Factura_detalle div.encabezado div.descripcion_proveedor div#fd_documento{
+            display: inline-block;
+            vertical-align: top;
+        }
+        div#f_Factura_detalle div.encabezado div.descripcion_proveedor div#fd_documento{
+            color: rgba(2, 144, 178, 0.5);
+            padding: 2px 0 0 5px;
+            text-align: center;
+            width: 100px;
+        }
+        div#f_Factura_detalle div.encabezado div.descripcion_proveedor div#fd_proveedor{
+            font-weight: bold;
+            padding: 3px;
+            text-align: center;
+            width: 435px;
+        }
+        
+        /* Acciones para filas */
+        div#contenido_detalle_factura{
+             /* Quitar selección de texto */
+                    -webkit-user-select: none;
+                    -moz-user-select: none;
+                    -ms-user-select: none;
+                    user-select: none; 
+        }
+        div#contenido_detalle_factura div#accion_detalle_factura{
+            height: 40px;
+            margin: 5px 0 5px 0;
+        }
+        
+        div#contenido_detalle_factura div#accion_detalle_factura div.content_action{
+            display: inline-block;
+            height: 30px;
+            width: 320px;
+        }
+        /* Botón para agregar porductos a la factura */
+        div#contenido_detalle_factura div#accion_detalle_factura div.content_action div#btnAdd_producto_factura{
+            background: rgba(216, 174, 188, 0.2);
+            border-bottom: solid 1px rgba(82, 17, 172, 0.3);
+            border-radius: 3px;
+            border-top: solid 1px rgba(82, 17, 172, 0.3);
+            color:rgba(163, 133, 183,1);
+            cursor: pointer;
+            height: 26px;
+            margin: 10px auto;
+            text-align: center;
+            width: 100px;
+        }
+        div#contenido_detalle_factura div#accion_detalle_factura div.content_action div#btnAdd_producto_factura div.label{
+            padding: 5px;
+        }
+        
+        /* Botón usado para abonar a las facturas a crédito y con saldo */
+        div#contenido_detalle_factura div#accion_detalle_factura div.content_action div#btnAdd_abono_factura{
+            background: rgba(216, 174, 188, 0.2);
+            border-bottom: solid 1px rgba(82, 17, 172, 0.3);
+            border-radius: 3px;
+            border-top: solid 1px rgba(82, 17, 172, 0.3);
+            color:rgba(163, 133, 183,1);
+            cursor: pointer;
+            height: 26px;
+            margin: 10px auto;
+            text-align: center;
+            width: 100px;
+        }
+        
+         div#contenido_detalle_factura div#accion_detalle_factura div.content_action div#btnAdd_abono_factura div.label{
+            padding: 5px;
+        }
+        
+        
+        /* Botón para eliminar fila de devolución de factura*/
+        div#contenido_detalle_factura div#accion_detalle_factura div.content_action div#btnEliminar_fila_factura{
+            background: rgba(163, 133, 183, 0.1);
+            border-bottom: 1px solid rgba(163, 133, 183, 0.4);
+            border-radius: 4px;
+            border-top: 1px solid rgba(163, 133, 183, 0.4);
+            color: rgba(154, 154, 154, 0.7);
+            cursor: pointer;
+            margin: 20px 0 0 0;
+            position: absolute;
+            width: 80px;
+        }
+        div#contenido_detalle_factura div#accion_detalle_factura div.content_action div#btnEliminar_fila_factura div.label{
+            padding: 3px;
+            text-align: center;
+        }
+        div#contenido_detalle_factura div#accion_detalle_factura div.content_action div#btnEliminar_fila_factura:hover{
+            background: rgba(163, 133, 183, 0.4);
+            border-bottom: 1px solid rgba(163, 133, 183, .8);
+            border-top: 1px solid rgba(163, 133, 183, 0.8);
+            color: rgba(64, 0, 105,1);
+        }
+        
+        
+        /* Data grid --> */
+        div#datagrid_detalle_factura{padding: 10px 0 0 0;}
+        div#datagrid_detalle_factura div.encabezado{
+            background: rgb(0, 144, 179) !important;
+            color: rgba(255,255,255,1);
+            font-size: 0.95em;
+            padding: 2px 0 0 0;
+        }
+        
+        div#datagrid_detalle_factura div.fila{
+            border-bottom: solid 1px rgb(242, 233, 247);
+            cursor: pointer;
+            font-size: 0.95em;
+        }
+        div#datagrid_detalle_factura div.fila:hover{
+            background: rgba(64, 0, 105, .1);
+        }
+        
+        div.selected_fila{
+            background: rgba(64, 0, 105, .15);
+        }
+        
+        
+            /* Columnas */
+            div#datagrid_detalle_factura div.encabezado div,
+            div#datagrid_detalle_factura div.fila div{
+                border-right:  solid 0.5px rgb(238, 235, 237);
+                display: inline-block;
+                height: 16px;
+                text-align: center;
+                vertical-align: top;
+            }
+            div#datagrid_detalle_factura div.fila div{
+                margin: 0 0 0 3px;
+            }
+            
+            div#datagrid_detalle_factura div.encabezado div.codigo,
+            div#datagrid_detalle_factura div.fila div.codigo,
+            div#datagrid_detalle_factura div.encabezado div.cantidad,
+            div#datagrid_detalle_factura div.fila div.cantidad,
+            div#datagrid_detalle_factura div.encabezado div.unidad,
+            div#datagrid_detalle_factura div.fila div.unidad,
+            div#datagrid_detalle_factura div.encabezado div.precio_unidad,
+            div#datagrid_detalle_factura div.fila div.precio_unidad,
+            div#datagrid_detalle_factura div.encabezado div.descuento,
+            div#datagrid_detalle_factura div.fila div.descuento{
+                width: 65px;
+            }
+            div#datagrid_detalle_factura div.encabezado div.descripcion,
+            div#datagrid_detalle_factura div.fila div.descripcion{
+                width: 220px;
+            }
+            div#datagrid_detalle_factura div.encabezado div.precio,
+            div#datagrid_detalle_factura div.fila div.precio{width: 70px;}
+            
+            /* Disminuir font -size porque está en mayuscula */
+            div#datagrid_detalle_factura div.fila div.codigo{
+                font-size: 0.85em;
+            }
+            div#datagrid_detalle_factura div.fila div.descripcion{
+                text-align: left;
+            }
+            div#datagrid_detalle_factura div.fila div.precio_unidad,
+            div#datagrid_detalle_factura div.fila div.precio{text-align: right;}
+            
+            /* Facrturas pendientes */
+            div#f_Pendientes div.encabezado{
+                background: rgba(200,200,200,1);
+                height: 30px;
+            }
+            
+            div#list_facturas_pendientes{
+                background: rgba(255, 355, 255, 0.4);
+                margin: auto;
+                min-height: 350px;
+                width: 410px;
+                
+                 /* Quitar selección de texto */
+                    -webkit-user-select: none;
+                    -moz-user-select: none;
+                    -ms-user-select: none;
+                    user-select: none; 
+            }
+            
+            div#list_facturas_pendientes div.pendiente{
+                border: solid 0.5px rgba(190,1,20,1);
+                border-radius: 5px;
+                cursor: pointer;
+                display: inline-block;
+                margin: 5px;
+                padding: 5px;
+                vertical-align: top;
+                width: 180px;
+            }
+            div#list_facturas_pendientes div.pendiente:hover{
+                background: rgba(194, 57, 139, 0.1);
+            }
+            div#list_facturas_pendientes div.pendiente:active{
+                 background: rgba(194, 57, 139, 0.3);
+            }
+            div#list_facturas_pendientes div.pendiente div.numero{
+                font-size: 1.1em;
+                text-align: center;
+            }
+            div#list_facturas_pendientes div.pendiente div.detalle{
+                font-size: 0.9em;
+                height: 30px;
+            }
+            
+            /* Información del crédito */
+            div#list_facturas_pendientes div.pendiente div.detalle div.informacion_credito{
+                display: inline-block;
+                height: 30px;
+                text-align: center;
+                vertical-align: top;
+                width: 60px
+            }
+            
+            div#list_facturas_pendientes div.pendiente div.detalle div.informacion_credito div.estado,
+            div#list_facturas_pendientes div.pendiente div.detalle div.informacion_credito div.forma_pago{
+                 display: inline-block;
+               /*  height: 20px; */
+                 vertical-align: top;
+                 width: 60px;
+            }
+            
+           /* Dinero --> Saldo : Valor*/
+            div#list_facturas_pendientes div.pendiente div.detalle div.dinero{
+                display: inline-block;
+                text-align: center;
+                vertical-align: top;
+                width: 115px
+            }
+            div#list_facturas_pendientes div.pendiente div.detalle div.dinero div.saldo,
+            div#list_facturas_pendientes div.pendiente div.detalle div.dinero div.valor{
+                 display: inline-block;
+                 vertical-align: top;
+                 width: 55px;
+            }
+            /* Cliente ---> Factura pendiente */
+            div#list_facturas_pendientes div.pendiente div.cliente{
+                text-align: center;
+            }
+            
+            /* Sectos add producto factura */
+            div#f_Factura_detalle div#content_add_producto_factura,
+            div#f_Factura_detalle div#content_add_abono_factura{
+                background: rgba(190, 200, 192, 0.5);
+                height: 140px;
+                position: absolute;
+                width: 650px;
+                z-index: 100;
+            }
+            div#f_Factura_detalle div#content_add_producto_factura div.frame_add_producto{
+                background: rgba(255,255,255,.85);
+                height: 112px;
+                margin: 20px auto;
+                width: 550px;
+            }
+            div#content_add_producto_factura div.frame_add_producto div#search_producto_factura{
+                background: rgba(255,255,255,.9);
+                height: 25px;
+                margin: auto;
+                width: 280px;
+            }
+            div#content_add_producto_factura div.frame_add_producto div#search_producto_factura input{
+                border-bottom: 1px solid rgba(185, 148, 203, 0.9);
+                height: 25px;
+                text-align: center;
+                width: 280px;
+            }
+            /* Lista de productos param agregar a la factura */
+            div#search_producto_factura div#list_producto_factura{
+                background: rgba(255,255,255,1);
+                width: 280px;
+                
+                    /* Quitar selección de texto */
+                    -webkit-user-select: none;
+                    -moz-user-select: none;
+                    -ms-user-select: none;
+                    user-select: none; 
+            }
+            div#search_producto_factura div#list_producto_factura div.item{
+                cursor: pointer;
+            }
+            div#search_producto_factura div#list_producto_factura div.item:hover{
+                background: rgba(220,220,220,1);
+            }
+            
+            /* List Unidad medida */
+           div#content_add_producto_factura div.frame_add_producto div.content_detalle_producto{
+                height: 80px;
+                margin: 2px 0 0 0;
+            }
+            div#content_add_producto_factura div.frame_add_producto div.content_detalle_producto div#list_unidad_medida_factura{
+                border: solid 1px rgba(230,230,230,1);
+                display: inline-block;
+                height: 70px;
+                vertical-align: top;
+                width: 120px;
+            }
+            div#content_add_producto_factura div.frame_add_producto div.content_detalle_producto div#list_fracciones_factura{
+                border: solid 1px rgba(230,230,230,1);
+                display: inline-block;
+                height: 70px;
+                vertical-align: top;
+                width: 120px;
+            }
+            
+            div#list_unidad_medida_factura div.item{
+                cursor: pointer;
+                padding: 0 2px 0 2px;
+            }
+            div#list_unidad_medida_factura div.item:hover{
+                background: rgba(230,230,230,1);
+            }
+            div#list_unidad_medida_factura div.unidad,
+            div#list_unidad_medida_factura div.disponible{
+                display: inline-block;
+                vertical-align: top;
+            }
+            div#list_unidad_medida_factura div.unidad{
+                width: 78px;
+            }
+            div#list_unidad_medida_factura div.disponible{
+                text-align: right;
+                width: 38px;
+            }
+            
+             /* Sectos add abono factura */
+             div#f_Factura_detalle div#content_add_abono_factura{}
+             
+             div#f_Factura_detalle div#content_add_abono_factura div.frame_add_abono{
+                background: rgba(255,255,255,.85);
+                height: 118px;
+                margin: 20px auto;
+                width: 550px;
+            }
+            
+            div#f_Factura_detalle div#content_add_abono_factura div.frame_add_abono div.head_abono{}
+            div#f_Factura_detalle div#content_add_abono_factura div.frame_add_abono div.head_abono div.content_head_item{
+                display: inline-block;
+                height: 30px;
+                text-align: center;
+                vertical-align: top;
+                width: 270px;
+            }
+            div#f_Factura_detalle div#content_add_abono_factura div.frame_add_abono div.head_abono div.content_head_item div.label{
+                color:rgba(139, 114, 156, 0.5);
+            }
+            div#f_Factura_detalle div#content_add_abono_factura div.frame_add_abono div.head_abono div.content_head_item div.value{
+                color: rgba(160, 90, 210,1);
+            }
+                        /* content set Abonos */
+                        div#f_Factura_detalle div#content_add_abono_factura div.frame_add_abono div#content_abonos_factura div#set_abono{
+                            background: rgba(38, 148, 174, 0.2);
+                            height: 90px;
+                            margin: auto;
+                            vertical-align: top;
+                            width: 490px;
+                        }
+                        
+                        /* set Abonno */
+                        div#set_abono div.content_set_abono{
+                            display: inline-block;
+                            height: 90px;
+                            padding: 0 10px 0 10px;
+                            vertical-align: top;
+                            width: 330px;
+                        }
+                        div#set_abono div.content_button_abono{
+                            display: inline-block;
+                            height: 88px;
+                            width: 130px;
+                        }
+                        
+                        div#set_abono div#btn_scan_comprobante,
+                        div#btn_realizar_abono{
+                            background: rgba(150, 131, 83, 0.29);
+                            border-bottom: solid 1px rgb(150, 110, 10);
+                            border-radius: 4px;
+                            border-top: solid 1px rgb(150, 110, 10);
+                            color: rgba(126, 103, 36, .6);
+                            cursor: pointer;
+                            font-size: 0.9em;
+                            height: 32px;
+                            margin: 5px auto;
+                            text-align: center;
+                            width: 90px;
+                            
+                                        /* Quitar selección de texto */
+                                   -webkit-user-select: none;
+                                   -moz-user-select: none;
+                                   -ms-user-select: none;
+                                   user-select: none; 
+                        }
+                        
+                        div#set_abono div#btn_scan_comprobante{margin: 7px auto;}
+                        
+                        div#set_abono div#btn_scan_comprobante div.label,
+                        div#btn_realizar_abono div.label{
+                            padding: 3px;
+                        }
+                        
+                        
+                        div#set_abono div#btn_scan_comprobante:hover,
+                        div#set_abono div#btn_realizar_abono:hover{
+                                background: rgba(162, 142, 92, 0.6);
+                                color: rgba(126, 103, 36, .8);
+                        }
+                        div#set_abono div#btn_scan_comprobante:active,
+                        div#set_abono div#btn_realizar_abono:active{
+                                 background: rgb(148, 143, 113);
+                                 color: rgb(233, 223, 190);
+                        }
+                        
+
+                                div.field_persona{width: 200px!important;}
+                                div.field_persona input{width: 200px!important;}
+
+                        div#set_abono div.content_set_abono div.row_abono{}
+                        div#set_abono div.content_set_abono div.row_abono div.field_abono{
+                            display: inline-block;
+                            margin: auto;
+                            padding: 5px;
+                            width: 100px;
+                        }
+                        
+                        div#set_abono div.content_set_abono div.row_abono div.field_abono div.label{
+                            color: rgba(140, 140, 140, 0.8);
+                            text-align: center;
+                        }
+                        div#set_abono div.content_set_abono div.row_abono div.field_abono input{
+                            border-bottom: solid .5px rgb(190, 190, 190);
+                            padding: 0 0 2px 0;
+                            text-align: center;
+                            width: 100px;
+                        }
+                        div#set_abono div.content_set_abono div.row_abono div.field_abono input:focus{
+                            border-bottom: solid 1px rgba(0, 75, 250, 0.5);
+                        }
+                        
+                        div#btn_finalizar_abono{
+                            margin: auto;
+                        }
+                        
+                        div#content_abonos_factura div#list_abono div#btnImprime_historial{
+                            background: rgba(60,0,170,.3);
+                            border-bottom: solid 1px rgba(60,0,170,1);
+                            border-top: solid 1px rgba(60,0,170,1);
+                            border-radius: 4px;
+                            color: rgba(240,240,240,1);
+                            cursor: pointer;
+                            height: 28px;
+                            margin: 25px auto;
+                            text-align: center;
+                            width: 150px;
+                            
+                            /* Quitar selección de texto */
+                                   -webkit-user-select: none;
+                                   -moz-user-select: none;
+                                   -ms-user-select: none;
+                                   user-select: none; 
+                        }
+                        div#content_abonos_factura div#list_abono div#btnImprime_historial div.label{
+                            padding: 5px;
+                        }
+                        div#content_abonos_factura div#list_abono div#btnImprime_historial:hover{
+                            background: rgba(60,0,170,.6);
+                        }
+                        
+                            div#btnClose_abono {
+                                background: rgba(206, 230, 235, 0.2);
+                                border-bottom: 1px solid rgba(0, 144, 179,.3);
+                                border-radius: 5px;
+                                border-top: 1px solid rgba(0, 144, 179,.3);
+                                color: rgba(0, 144, 179,.5);
+                                cursor: pointer;
+                                height: 20px;
+                                margin: 5px 0 0 30px;
+                                position: absolute;
+                                text-align: center;
+                                width: 20px;
+                                                /* Quitar selección */
+                                            -webkit-user-select: none;
+                                            -moz-user-select: none;
+                                            -ms-user-select: none;
+                                            user-select: none;
+                             }
+                                
+                            div#btnClose_abono div.label {
+                                padding: 2px;
+                            }
+                            div#btnClose_abono:hover {
+                                background: rgba(206, 230, 235, 0.4);
+                                border-bottom: 1px solid rgba(0, 144, 179,.7);
+                                border-radius: 5px;
+                                border-top: 1px solid rgba(0, 144, 179,.7);
+                                color: rgba(0, 144, 179,.6)
+                            }
+                            div#btnClose_abono:active {
+                                background: rgba(206, 230, 235, 1);
+                                border-bottom: 1px solid rgba(0, 144, 179,1);
+                                border-radius: 5px;
+                                border-top: 1px solid rgba(0, 144, 179,1);
+                                color: rgba(0, 144, 179,1);
+                            }
