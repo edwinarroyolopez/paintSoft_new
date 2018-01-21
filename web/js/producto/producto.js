@@ -343,20 +343,17 @@ $(document).on('ready', function(){
 
                     /* Presentaciones asociadas al producto */
 
-                              var id_presentacion = $(this).attr('data-id')
+
                               $('div#content_presentaciones input:checked').each(function(){
-                              var presentacion = new Array();
-                                  presentacion = {Id_presentacion: id_presentacion};
-                                  /* Se agrega la presentacion */
-                                  list_presentaciones[list_presentaciones.length] = presentacion;
-
-
-                    })
+                                    var id_presentacion = $(this).attr('data-id')
+                                    var presentacion = new Array();
+                                        presentacion = {Id_presentacion: id_presentacion, Presentacion:$(this).siblings('label').text()};
+                                        /* Se agrega la presentacion */
+                                        list_presentaciones[list_presentaciones.length] = presentacion;
+                                })
                     /* parsing json to string */
 
                     list_presentaciones = JSON.stringify({"data":[{presentaciones:list_presentaciones}]});
-
-              console.log(list_presentaciones);
 
             /* Primero: Almaceno el producto */
                 create_update_Producto(id_producto,id_grupo,id_marca,descripcion,list_presentaciones).then(function(res_id_producto){

@@ -25,8 +25,9 @@
          <!-- Js -->
         <script language="JavaScript" type="text/javascript" src="js/jquery-1.9.1.js"></script>
         <script language="JavaScript" type="text/javascript" src="js/generals.js"></script>
-        <script language="JavaScript" type="text/javascript" src="js/proveedor.js"></script>
         <script language="JavaScript" type="text/javascript" src="js/proveedor/ctrlProveedor.js"></script>
+        <script language="JavaScript" type="text/javascript" src="js/proveedor.js"></script>
+
 
         <!-- Js -->
     </head>

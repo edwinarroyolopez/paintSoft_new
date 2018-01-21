@@ -625,7 +625,6 @@ div#stock_producto{
     div#crudEntrada div.driver div.profile_info div.info div.label{ width: 160px;}
     div#lblinfo_nit,div#lblinfo_telefono{width: 120px !important;}
 
-
   /* setter Factura */
   div#setterFactura{}
   div#setterFactura div.content_box{}
@@ -645,11 +644,82 @@ div#stock_producto{
   div#setterFactura{}
 
   /* Presentaciones */
-  div#crudEntrada div.driver div#listPresentaciones{}
-  div#crudEntrada div.driver div#listPresentaciones div.presentacion{
+  div#crudEntrada div.content_presentaciones{
+    border: solid 1px #CCC;
+    margin: auto;
+    padding: 10px 0 10px 0;
+    text-align: center;
+  }
+  div#crudEntrada div.content_presentaciones div.presentacion{
     display: inline-block;
+    border-radius: 3px;
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,0.16), 0 0 0 1px rgba(0,0,0,0.08);
+    box-sizing: border-box;
+    display: inline-block;
+    height: 49px;
+    font-size: 14px;
+    margin-right: 8px;
+    overflow: hidden;
+    padding: 0 16px;
   }
 
+  div#crudEntrada div.content_presentaciones div.presentacion span.text{
+    color: rgba(255,0,255,.8);
+    display: inline-block;
+    font-weight: 300;
+    line-height: 49px;
+    text-decoration: none;
+    white-space: nowrap;
+  }
+  div#crudEntrada div.content_presentaciones div.presentacion span.x{
+    background-image: url(../img/x.png);
+    background-size: 18px 18px;
+    display: inline-block;
+    height: 18px;
+    vertical-align: text-bottom;
+    width: 18px;
+  }
+
+/* Valores */
+  div#crudEntrada div.content_values{
+    border: solid 1px #CCC;
+    margin: auto;
+    text-align: center;
+  }
+  div#crudEntrada div.content_values div.row{}
+  div#crudEntrada div.content_values div.row div.field{
+    display:inline-block;
+    vertical-align: top;
+    width: 120px;
+  }
+  div#crudEntrada div.content_values div.row div.field input{text-align: center;}
+
+    /* cantidad */
+    div.field_cantidad{}
+    div.field_cantidad div.cantidad{
+      width: 90px;
+    }
+    div.field_cantidad div.cantidad,
+    div.field_cantidad div.control{
+      display: inline-block;
+      vertical-align: top;
+    }
+    div.field_cantidad div.control{
+      border: solid 1px #EEE;
+    }
+    div.field_cantidad div.control div.incrementa,
+    div.field_cantidad div.control div.decrementa{
+      cursor: pointer;
+      height: 20px;
+    }
+    div.field_cantidad div.control div.incrementa:hover,
+    div.field_cantidad div.control div.decrementa:hover{
+      background: rgb(240,240,240);
+    }
+    div.field_cantidad div.control div.incrementa:active,
+    div.field_cantidad div.control div.decrementa:active{
+        background: rgb(230,230,230);
+    }
 
 
 

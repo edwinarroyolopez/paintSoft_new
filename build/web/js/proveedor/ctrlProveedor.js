@@ -1,50 +1,46 @@
-function create_update_Proveedor(){
 
-          let control =  validate_fields('setterProveedor');
 
-          console.log('Control: '+ control);
+/* 1. create_update_Proveedor */
+        function create_update_Proveedor(pmtId_proveedor,pmtRazon_social,pmtNit,pmtContacto,pmtCiudad,pmtDireccion,
+          pmtTelefono_1,pmtTelefono_2,pmtEmail,pmtBanco,pmtTipo_cuenta,pmtNumero_cuenta,pmtTitular_cuenta){
+                  /* Almacena proveedor */
+                       let response = {};
 
-          if(control>0){return;}/* Existe almenos un campo vacío */
+                         const promise = new Promise(function (resolve, reject) {
 
-          var id_proveedor =    __('txtBuscador_proveedor').getAttribute('data-id_proveedor');
-          var txtRazon_social = __('txtRazon_social').value;
-          var txtNit = __('txtNit').value;
-          var txtContacto = __('txtContacto').value;
-          var txtCiudad = __('txtCiudad').value;
-          var txtDireccion = __('txtDireccion').value;
-          var txtTelefono_1 = __('txtTelefono_1').value;
-          var txtTelefono_2 = __('txtTelefono_2').value;
-          var txtEmail = __('txtEmail').value;
-          var txtBanco = __('txtBanco').value;
-          var txtTipo_cuenta = __('txtTipo_cuenta').value;
-          var txtNumero_cuenta = __('txtNumero_cuenta').value;
-          var txtTitular_cuenta = __('txtTitular_cuenta').value;
+                                   $.post('ctrlproveedor',{
+                                              Id_proveedor: pmtId_proveedor,
+                                              Razon_social: pmtRazon_social,
+                                              Nit: pmtNit,
+                                              Contacto: pmtContacto,
+                                              Ciudad: pmtCiudad,
+                                              Direccion: pmtDireccion,
+                                              Telefono_1: pmtTelefono_1,
+                                              Telefono_2: pmtTelefono_2,
+                                              Email: pmtEmail,
+                                              Banco: pmtBanco,
+                                              Tipo_cuenta: pmtTipo_cuenta,
+                                              Numero_cuenta: pmtNumero_cuenta,
+                                              Titular_cuenta: pmtTitular_cuenta,
+                                              Estado:1,
+                                              A: 1
+                                          }, function(r){/* Callback ...   */
 
-              $.post('ctrlproveedor',{
-                         Id_proveedor: id_proveedor,
-                         Razon_social: txtRazon_social,
-                         Nit: txtNit,
-                         Contacto: txtContacto,
-                         Ciudad: txtCiudad,
-                         Direccion: txtDireccion,
-                         Telefono_1: txtTelefono_1,
-                         Telefono_2: txtTelefono_2,
-                         Email: txtEmail,
-                         Banco: txtBanco,
-                         Tipo_cuenta: txtTipo_cuenta,
-                         Numero_cuenta: txtNumero_cuenta,
-                         Titular_cuenta: txtTitular_cuenta,
-                         Estado:1,
-                         A: 1
-                     }, function(r){/* Callback ...   */
+                                              if(r != ''){
+                                                response = r;
+                                              }
+                                              resolve(response)
+                                    });
 
-                           console.log('id proveedor: ' +r);
+                                   if (!response) {
+                                     reject(new Error('No almacena proveedor!'))
+                                   }
+                         })/* promise */
 
-                        /* Clean fields proveedor */
-                           read_Proveedores();
-                           clean_Proveedor();
-               });
-}/* create update proveedor */
+                         return promise
+
+        }/* ## create update Proveedor ## */
+
 
 function delete_Proveedor(){
 
@@ -78,52 +74,31 @@ function delete_Proveedor(){
 
 }/* remove proveedor */
 
-function read_Proveedores(){
 
-  $.post('ctrlproveedor',{A:2},function(json_proveedor){
+/* 2. Lee proveedores */
+        function read_Proveedores(){
 
-              //console.log('json proveedor: '+json_proveedor);
-                    var elem = document.getElementById('descargar_proveedores');
-                        elem.download = "proveedores.json";
-                        elem.href = "data:application/octet-stream," + encodeURIComponent(json_proveedor);
+                    /* Lee proveedores */
+                       let list = {};
 
-            /* Limpiar lista */
-            $('div#listProveedores div.row').remove();
+                       const promise = new Promise(function (resolve, reject) {
 
-            var json_Proveedor = JSON.parse($.trim(json_proveedor));
+                                  $.post('../ctrlproveedor',{A:2},function(proveedores){
+                                          if(proveedores != ''){
+                                            list = JSON.parse(proveedores);
+                                          }
+                                          resolve(list)
+                                  });
 
-            for(i in json_Proveedor){
-                /* Crear objeto */
-                    var row = document.createElement('div');
-                        row.setAttribute('class','row');
-                        row.setAttribute('data-id',json_Proveedor[i].Id_proveedor);
-                        row.setAttribute('data-nit',json_Proveedor[i].Nit);
-                        row.setAttribute('data-contacto',json_Proveedor[i].Contacto);
-                        row.setAttribute('data-ciudad',json_Proveedor[i].Ciudad);
-                        row.setAttribute('data-direccion',json_Proveedor[i].Direccion);
-                        row.setAttribute('data-telefono_1',json_Proveedor[i].Telefono_1);
-                        row.setAttribute('data-telefono_2',json_Proveedor[i].Telefono_2);
-                        row.setAttribute('data-email',json_Proveedor[i].Email);
-                        row.setAttribute('data-banco',json_Proveedor[i].Banco);
-                        row.setAttribute('data-tipo_cuenta',json_Proveedor[i].Tipo_cuenta);
-                        row.setAttribute('data-numero_cuenta',json_Proveedor[i].Numero_cuenta);
-                        row.setAttribute('data-titular_cuenta',json_Proveedor[i].Titular_cuenta);
-                        row.setAttribute('data-estado',json_Proveedor[i].Estado);
-                        row.setAttribute('data-fecha_creacion',json_Proveedor[i].Fecha_creacion);
-                    var proveedor = document.createElement('div');
-                        proveedor.setAttribute('class','proveedor');
-                        proveedor.innerHTML = json_Proveedor[i].Razon_social;
-                        row.appendChild(proveedor);
+                                 if (!list) {
+                                   reject(new Error('No se encontraron proveedores!'))
+                                 }
+                       })/* promise */
 
-                        if(i>=20){
-                            row.setAttribute('class','row hidden');
-                        }else{/* Cantidad de items visibles */
-                            document.getElementById('listProveedores').setAttribute('data-items',i);
-                        }
-                        document.getElementById('listProveedores').appendChild(row);
-            }
-        });
-}/* read proveedor */
+                       return promise
+        }/* ## Lee proveedores ## */
+
+
 
 function load_info_Proveedor(id_proveedor,proveedor,nit,contacto,ciudad,
                              direccion,telefono_1,telefono_2,email,banco,

@@ -1,7 +1,46 @@
+/* 1. Buscar proveedores */
+    read_Proveedores().then(function(Proveedores){
+
+                /* Limpiar lista */
+                  $('div#listProveedores div.row').remove();
+
+                for(i in Proveedores){
+                    /* Crear objeto */
+                        var row = document.createElement('div');
+                            row.setAttribute('class','row');
+                            row.setAttribute('data-id',Proveedores[i].Id_proveedor);
+                            row.setAttribute('data-nit',Proveedores[i].Nit);
+                            row.setAttribute('data-contacto',Proveedores[i].Contacto);
+                            row.setAttribute('data-ciudad',Proveedores[i].Ciudad);
+                            row.setAttribute('data-direccion',Proveedores[i].Direccion);
+                            row.setAttribute('data-telefono_1',Proveedores[i].Telefono_1);
+                            row.setAttribute('data-telefono_2',Proveedores[i].Telefono_2);
+                            row.setAttribute('data-email',Proveedores[i].Email);
+                            row.setAttribute('data-banco',Proveedores[i].Banco);
+                            row.setAttribute('data-tipo_cuenta',Proveedores[i].Tipo_cuenta);
+                            row.setAttribute('data-numero_cuenta',Proveedores[i].Numero_cuenta);
+                            row.setAttribute('data-titular_cuenta',Proveedores[i].Titular_cuenta);
+                            row.setAttribute('data-estado',Proveedores[i].Estado);
+                            row.setAttribute('data-fecha_creacion',Proveedores[i].Fecha_creacion);
+                        var proveedor = document.createElement('div');
+                            proveedor.setAttribute('class','proveedor');
+                            proveedor.innerHTML = Proveedores[i].Razon_social;
+                            row.appendChild(proveedor);
+
+                            if(i>=20){
+                                row.setAttribute('class','row hidden');
+                            }else{/* Cantidad de items visibles */
+                                document.getElementById('listProveedores').setAttribute('data-items',i);
+                            }
+                            document.getElementById('listProveedores').appendChild(row);
+                }
+    })/* 1. Leer proveedores */
+
+
+
+
 $(document).on('ready', function(){
 
-     /* Carga proveedores */
-        read_Proveedores();
 
         $('div.tabMenu').on('click','div.tab',function(e){
 
@@ -81,7 +120,23 @@ $(document).on('ready', function(){
 
 
   $('div#btnAlmacenar').on('click',function(e){
-        create_update_Proveedor();
+
+        var pmtId_proveedor =    __('txtBuscador_proveedor').getAttribute('data-id_proveedor');
+        var pmtRazon_social = __('txtRazon_social').value;
+        var pmtNit = __('txtNit').value;
+        var pmtContacto = __('txtContacto').value;
+        var pmtCiudad = __('txtCiudad').value;
+        var pmtDireccion = __('txtDireccion').value;
+        var pmtTelefono_1 = __('txtTelefono_1').value;
+        var pmtTelefono_2 = __('txtTelefono_2').value;
+        var pmtEmail = __('txtEmail').value;
+        var pmtBanco = __('txtBanco').value;
+        var pmtTipo_cuenta = __('txtTipo_cuenta').value;
+        var pmtNumero_cuenta = __('txtNumero_cuenta').value;
+        var pmtTitular_cuenta = __('txtTitular_cuenta').value;
+
+        create_update_Proveedor(pmtId_proveedor,pmtRazon_social,pmtNit,pmtContacto,pmtCiudad,pmtDireccion,pmtTelefono_1,pmtTelefono_2,
+          pmtEmail,pmtBanco,pmtTipo_cuenta,pmtNumero_cuenta,pmtTitular_cuenta);
    });/* Almacena proveedores */
 
    $('div#addProveedor').on('click',function(e){

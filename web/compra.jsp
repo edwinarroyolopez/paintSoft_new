@@ -15,10 +15,7 @@
         <!-- Estilos  -->
          <!-- Js -->
         <script language="JavaScript" type="text/javascript" src="js/jquery-1.9.1.js"></script>
-        <script language="JavaScript" type="text/javascript" src="js/generals."></script>
-        <script language="JavaScript" type="text/javascript" src="js/compra.js"></script>
-        <script language="JavaScript" type="text/javascript" src="js/compra_facturas.js"></script>
-        <script language="JavaScript" type="text/javascript" src="js/compra_proveedor.js"></script>
+        <script language="JavaScript" type="text/javascript" src="js/generals.js"></script>
         <!-- Js -->
     </head>
     <body>
