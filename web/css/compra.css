@@ -198,85 +198,6 @@ div#btnEliminar_fila div.label{
     text-align: center;
 }
 
-div.datagrid div.encabezado,
-div.datagrid div.fila{
-    height: 20px;
-}
-div.datagrid div.encabezado{
-    background: rgba(213, 159, 20,0.89);
-}
-div.datagrid div.fila:hover{
-    background: rgba(213, 159, 20,0.2);
-    cursor: pointer;
-}
-div.datagrid div.encabezado div{
-    border: solid 1px rgba(17, 17, 17, 0.2);
-    color: rgba(255,255,255,1);
-    display: inline-block;
-    height: 16px;
-    padding: 3px 0 0 0;
-    text-align: center;
-    vertical-align: top;
-}
-/* Columnas encabezado */
-div.datagrid div.encabezado div.codigo,
-div.datagrid div.fila div.codigo{width: 70px;}
-div.datagrid div.encabezado div.descripcion,
-div.datagrid div.fila div.descripcion{width: 250px;}
-div.datagrid div.encabezado div.unidad,
-div.datagrid div.fila div.unidad{width: 60px;}
-div.datagrid div.encabezado div.cantidad,
-div.datagrid div.fila div.cantidad{width: 52px;}
-div.datagrid div.encabezado div.preciounidad,
-div.datagrid div.fila div.preciounidad{width: 60px;}
-div.datagrid div.encabezado div.iva,
-div.datagrid div.fila div.iva{width: 40px;}
-div.datagrid div.encabezado div.descuento,
-div.datagrid div.fila div.descuento{width: 70px;}
-div.datagrid div.encabezado div.precio,
-div.datagrid div.fila div.precio{width: 70px;}
-
-
-/* Filas */
-div.datagrid div.fila{
-    background: rgba(255,255,255,1);
-    border-bottom: solid 1px rgba(200,200,200,1);
-}
-
-div.datagrid div.fila div.codigo,
-div.datagrid div.fila div.descripcion,
-div.datagrid div.fila div.unidad,
-div.datagrid div.fila div.cantidad,
-div.datagrid div.fila div.preciounidad,
-div.datagrid div.fila div.iva,
-div.datagrid div.fila div.descuento,
-div.datagrid div.fila div.precio{
-    border: solid 1px rgba(17, 17, 17, 0.2);
-    color: rgb(91, 55, 166);
-    display: inline-block;
-    font-size: 0.9em;
-    height: 16px;
-    margin: 0 0 0 3px;
-    padding: 3px 0 0 0;
-    text-align: center;
-    vertical-align: top;
-}
-div.datagrid div.fila div.codigo{margin: 0 !important;}
-div.datagrid div.fila div.descripcion div{padding: 0 0 0 5px;}
-div.datagrid div.fila div.precio div,
-div.datagrid div.fila div.preciounidad div{padding: 0 5px 0 0;}
-
-div.datagrid div.fila div.descripcion{
-    text-align: left;
-}
-div.datagrid div.fila div.precio,
-div.datagrid div.fila div.preciounidad{
-    text-align: right;
-}
-
-div.datagrid div.fila div.listFracciones{
-    display: none;
-}
 /* END *** Datagrid *** END */
 
 /* Forma de pago */
@@ -616,7 +537,6 @@ div#stock_producto{
     }
     div.frame{
       max-width: none;
-      width: 80% !important;
     }
 
     /* Crud entrada */
@@ -649,6 +569,11 @@ div#stock_producto{
     margin: auto;
     padding: 10px 0 10px 0;
     text-align: center;
+        /* Quitar selección */
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
   }
   div#crudEntrada div.content_presentaciones div.presentacion{
     display: inline-block;
@@ -674,19 +599,39 @@ div#stock_producto{
   div#crudEntrada div.content_presentaciones div.presentacion span.x{
     background-image: url(../img/x.png);
     background-size: 18px 18px;
+    cursor: pointer;
     display: inline-block;
     height: 18px;
     vertical-align: text-bottom;
     width: 18px;
   }
+    div#crudEntrada div.content_presentaciones div.default{cursor: pointer;}
+    div#crudEntrada div.content_presentaciones div.custom{}
+    div#crudEntrada div.content_presentaciones div.custom span.text{margin-right: 7px;}
+    div#crudEntrada div.content_presentaciones div.selected{
+      background: rgb(240,240,240);
+    }
 
 /* Valores */
   div#crudEntrada div.content_values{
     border: solid 1px #CCC;
     margin: auto;
     text-align: center;
+
+        /* Quitar selección */
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
   }
-  div#crudEntrada div.content_values div.row{}
+  div#crudEntrada div.content_values div.encabezado_value{
+    border-bottom: solid 1px #CCC;
+    height: 20px;
+    text-align: center;
+  }
+  div#crudEntrada div.content_values div.encabezado_value div{padding: 2px 0 0 0;}
+
+  div#crudEntrada div.content_values div.row{padding: 5px 0 0 0;}
   div#crudEntrada div.content_values div.row div.field{
     display:inline-block;
     vertical-align: top;
@@ -720,6 +665,49 @@ div#stock_producto{
     div.field_cantidad div.control div.decrementa:active{
         background: rgb(230,230,230);
     }
+
+    div#crudEntrada div.content_data{
+      /* Quitar selección */
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      -ms-user-select: none;
+      user-select: none;
+    }
+    div#crudEntrada div.content_data div.datagrid{}
+    div#crudEntrada div.content_data div.datagrid div.encabezado{
+      background: rgb(255,255,255);
+      border-bottom: solid 1px rgb(213, 159, 20);
+      border-top: solid 1px rgb(213, 159, 20);
+      color: rgb(213, 159, 20);
+      height: 16px;
+      padding: 3px 0 3px 0;
+      text-align: center;
+    }
+    div#crudEntrada div.content_data div.datagrid div.row{
+      border-bottom: solid 1px #EEE;
+      cursor: pointer;
+      height: 16px;
+      padding: 3px 0 3px 0;
+    }
+    div#crudEntrada div.content_data div.datagrid div.row:hover{
+      background: rgba(213, 159, 20,.1);
+    }
+    div#crudEntrada div.content_data div.datagrid div.cell{
+      float: left;
+      padding: 0 6px;
+      text-align: center;
+      vertical-align: top;
+    }
+    div#crudEntrada div.content_data div.datagrid div.numero{width:10px;}
+    div#crudEntrada div.content_data div.datagrid div.descripcion{width: 280px;}
+    div#crudEntrada div.content_data div.datagrid div.presentacion{width: 110px;}
+    div#crudEntrada div.content_data div.datagrid div.cantidad{width:50px;}
+    div#crudEntrada div.content_data div.datagrid div.precio_unidad{width:80px;}
+    div#crudEntrada div.content_data div.datagrid div.row div.descripcion{text-align: left;}
+
+
+
+
 
 
 

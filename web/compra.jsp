@@ -40,7 +40,7 @@
                  <!-- Contenedor central -->
                  <section id="center">
                           <div class="title">
-                             <div class="label">Productos</div>
+                             <div class="label">Compras</div>
                          </div>
                          <br>
                              <div class="container">

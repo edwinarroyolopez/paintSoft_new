@@ -101,7 +101,7 @@
                                   <div class="presentacion">
                                      <span class="text">Presentacion One</span>
                                    </div>
-                                   <div class="presentacion">
+                                   <div class="presentacion custom">
                                      <span class="text">Presentacion Two</span>
                                      <span class="x"></span>
                                    </div>
@@ -117,6 +117,9 @@
                               </div><!-- presentaciones -->
                               <br>
                               <div class="content_values">
+                                <div class="encabezado_value">
+                                    <div id='info_presentacion'>Seleccione una presentacion</div>
+                                </div>
                                 <div class="row">
                                     <div class="field field_cantidad">
                                       <div class="cantidad">
@@ -145,55 +148,58 @@
                                       </div>
                                     </div><!-- Cantidad -->
                                     <div class="field">
-                                      <label for="txtCantidad">Precio unidad</label>
+                                      <label for="txtPrecio_unidad">Precio unidad</label>
                                       <div class="textbox">
-                                        <input type="text" name="txtCantidad" value="1" id="txtCantidad">
+                                        <input type="text" name="txtPrecio_unidad" value="" id="txtPrecio_unidad">
                                       </div>
                                     </div>
                                     <div class="field">
-                                      <label for="txtCantidad">Precio venta</label>
+                                      <label for="txtPrecio_venta">Precio venta</label>
                                       <div class="textbox">
-                                        <input type="text" name="txtCantidad" value="1" id="txtCantidad">
+                                        <input type="text" name="txtPrecio_venta" value="" id="txtPrecio_venta">
                                       </div>
                                     </div>
                                 </div><!-- row 1 -->
                                 <div class="row">
                                     <div class="field">
-                                      <label for="txtCantidad">Descuento</label>
+                                      <label for="txtDescuento">Descuento</label>
                                       <div class="textbox">
-                                        <input type="text" name="txtCantidad" value="1" id="txtCantidad">
+                                        <input type="text" name="txtDescuento" value="" id="txtDescuento">
                                       </div>
                                     </div>
                                     <div class="field">
-                                      <label for="txtCantidad">Precio sugerido</label>
+                                      <label for="txtPrecio_sugerido">Precio sugerido</label>
                                       <div class="textbox">
-                                        <input type="text" name="txtCantidad" value="1" id="txtCantidad">
+                                        <input type="text" name="txtPrecio_sugerido" value="" id="txtPrecio_sugerido">
                                       </div>
                                     </div>
                                     <div class="field">
-                                      <label for="txtCantidad">Margen de ganancia</label>
+                                      <label for="txtMargen_ganancia">Margen de ganancia</label>
                                       <div class="textbox">
-                                        <input type="text" name="txtCantidad" value="1" id="txtCantidad">
+                                        <input type="text" name="txtMargen_ganancia" value="" id="txtMargen_ganancia">
                                       </div>
                                     </div>
                                 </div><!-- row 2 -->
                                 <br>
                                 <div class="content_button">
-                                    <div class="button">
+                                    <div class="button" id="btnBajar">
                                         <label for="">bajar</label>
                                     </div>
                                 </div>
                               </div><!-- ## content values ## -->
                               <br>
                               <div class="content_data">
-                                <div class="datagrid">
+                                <div class="datagrid" id="dataCompra">
                                     <div class="encabezado">
+                                      <div class="cell numero">#</div>
                                       <div class="cell descripcion">Descripcion</div>
                                       <div class="cell presentacion">Presentación</div>
                                       <div class="cell cantidad">Cantidad</div>
                                       <div class="cell precio_unidad">Precio unidad</div>
                                     </div>
+                                    <!-- row -->
                                 </div>
+
                               </div><!-- ## content data ## -->
 
                 </div><!-- Box: Uno -->
