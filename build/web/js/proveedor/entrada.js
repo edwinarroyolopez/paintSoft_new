@@ -67,8 +67,15 @@
                        }
         })/* 2. Leer productos */
 
+        /* datepicker */
+            $( function() {
+              $( "input#txtFecha" ).datepicker();
+            } );
+
 /* eventos */
 $(document).on('ready', function(){
+
+
 
     /* 1. Visibilidad de la lista de proveedores */
         $('input#txtBuscador_proveedor').on('focusin',function(){
@@ -89,6 +96,7 @@ $(document).on('ready', function(){
     /* 3. Selecciona un proveedor */
         $('div#listProveedores').on('click','div.row',function(){
               __('info_proveedor').innerText =$(this).children('div.proveedor').html()
+              __('info_proveedor').setAttribute('data-id_proveedor',$(this).attr('data-id'))
               __('info_nit').innerHTML = $(this).attr('data-nit')
               __('info_ciudad').innerHTML = $(this).attr('data-ciudad')
               __('info_telefono').innerHTML = $(this).attr('data-telefono_1')
@@ -139,6 +147,8 @@ $(document).on('ready', function(){
       $('div.content_button').on('click','div#btnBajar',function(){
           console.log('Bajando...');
 
+           $.notify("Has bajado un producto!", "success");
+
           var producto = __('info_producto').innerHTML
           var id_producto = __('info_producto').getAttribute('data-id_producto')
           var presentacion = __('info_presentacion').innerHTML
@@ -150,7 +160,35 @@ $(document).on('ready', function(){
           var precio_sugerido = parseInt(__('txtPrecio_sugerido').value)
           var margen_ganancia = parseInt(__('txtMargen_ganancia').value)
 
-          /* construir fila */      console.log('despues!');
+          /* Quita selección y permite borrar la fila que se creará */
+          $('div.content_presentaciones div.selected').each(function(){
+                $(this).addClass('custom')
+                $(this).append('<span class="x"></span>');
+                $(this).removeClass('selected')
+                $(this).removeClass('default')
+          })
+
+          /* recorrer todas las filas para verificar que el producto y
+            la presentación no es están duplicando  */
+            $('div#dataCompra div.row').each(function(){
+                /* Si existe una igual debe eliminarse */
+                id_producto_seleccionado = __('info_producto').getAttribute('data-id_producto')
+                id_presentacion_seleccionada = __('info_presentacion').getAttribute('data-id_presentacion')
+
+
+                console.log('id_producto_seleccionado: '+id_producto_seleccionado);
+                console.log('id_presentacion_seleccionada: '+id_presentacion_seleccionada);
+
+                if((id_producto_seleccionado==$(this).attr('data-id_producto'))&&
+                  (id_presentacion_seleccionada==$(this).attr('data-id_presentacion'))){
+
+                        console.log('Ya este producto en esta presentacion existe!... reevaluar')
+
+                    }
+
+            })
+
+          /* construir fila */
 
           add_row(id_producto,producto,id_presentacion,presentacion,cantidad,precio_unidad,precio_venta,descuento,precio_sugerido,margen_ganancia)
           limpiar_valores()
@@ -333,8 +371,34 @@ $(document).on('ready', function(){
 
     })
 
-})
+    /* 14. Inserta una factura  */
+      $('div.content_button').on('click','div#btnIngresar_factura',function(){
 
+          /*
+              id_factura_compra
+              id_proveedor
+              numero_factura
+              fecha
+              forma_pago
+              fecha_vencimiento
+              estado
+              detalle
+              tipo
+              id_gestion
+          */
+          var id_proveedor = __('info_proveedor').getAttribute('data-id_proveedor')
+          var numero_factura = __('txtFactura').value
+          var fecha = __('txtFecha').value
+          var forma_pago = __('txtForma_pago').value
+
+          /* totalizadoras */
+
+          console.log('Ingresar factura...');
+
+      })
+
+
+})/* ## document.ready ## */
 
 
 

@@ -58,10 +58,7 @@ public final class compra_jsp extends org.apache.jasper.runtime.HttpJspBase
       out.write("        <!-- Estilos  -->\n");
       out.write("         <!-- Js -->\n");
       out.write("        <script language=\"JavaScript\" type=\"text/javascript\" src=\"js/jquery-1.9.1.js\"></script>\n");
-      out.write("        <script language=\"JavaScript\" type=\"text/javascript\" src=\"js/generals.\"></script>\n");
-      out.write("        <script language=\"JavaScript\" type=\"text/javascript\" src=\"js/compra.js\"></script>\n");
-      out.write("        <script language=\"JavaScript\" type=\"text/javascript\" src=\"js/compra_facturas.js\"></script>\n");
-      out.write("        <script language=\"JavaScript\" type=\"text/javascript\" src=\"js/compra_proveedor.js\"></script>\n");
+      out.write("        <script language=\"JavaScript\" type=\"text/javascript\" src=\"js/generals.js\"></script>\n");
       out.write("        <!-- Js -->\n");
       out.write("    </head>\n");
       out.write("    <body>\n");
@@ -86,7 +83,7 @@ public final class compra_jsp extends org.apache.jasper.runtime.HttpJspBase
       out.write("                 <!-- Contenedor central -->\n");
       out.write("                 <section id=\"center\">\n");
       out.write("                          <div class=\"title\">\n");
-      out.write("                             <div class=\"label\">Productos</div>\n");
+      out.write("                             <div class=\"label\">Compras</div>\n");
       out.write("                         </div>\n");
       out.write("                         <br>\n");
       out.write("                             <div class=\"container\">\n");

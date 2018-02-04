@@ -19,10 +19,16 @@
         <script language="JavaScript" type="text/javascript" src="../js/proveedor/ctrlProveedor.js"></script>
         <script language="JavaScript" type="text/javascript" src="../js/producto/ctrlProducto.js"></script>
         <script language="JavaScript" type="text/javascript" src="../js/proveedor/entrada.js"></script>
+        <script language="JavaScript" type="text/javascript" src="../js/libraries/notify.js"></script>
+         <!-- datepicker -->
+        <link rel="stylesheet" href="../js/libraries/datepicker/jquery-ui.css">
+        <link rel="stylesheet" href="../js/libraries/datepicker/style.css">
+        <script src="../js/libraries/datepicker/jquery-1.12.4.js"></script>
+        <script src="../js/libraries/datepicker/jquery-ui.js"></script>
+
         <!-- Js -->
     </head>
     <body>
-
       <!--  formulario: productos -->
         <div class="frame isVisible" id="frmEntrada">
           <div class="box">
@@ -34,7 +40,7 @@
                                 <div class="fieldSearch">
                                     <input class="txtSearch" data-id_grupo="0" id="txtBuscador_proveedor" placeholder="..."></input>
                                 </div>
-                                <div class="label" id='info_proveedor'>Seleccione un proveedor</div>
+                                <div class="label" id='info_proveedor' data-id_proveedor="0">Seleccione un proveedor</div>
                                 <div class="list hidden" id="listProveedores"></div>
                             </div>
                         </div>
@@ -98,22 +104,9 @@
                              </div>
                              <!-- presentaciones -->
                              <div class="content_presentaciones" id="content_presentaciones">
-                                  <div class="presentacion">
-                                     <span class="text">Presentacion One</span>
-                                   </div>
-                                   <div class="presentacion custom">
-                                     <span class="text">Presentacion Two</span>
-                                     <span class="x"></span>
-                                   </div>
-                                   <div class="presentacion">
-                                     <span class="text">Presentacion Three</span>
-                                   </div>
-                                   <div class="presentacion">
-                                     <span class="text">Presentacion Four</span>
-                                   </div>
-                                   <div class="presentacion">
+                                  <!-- <div class="presentacion">
                                      <span class="text">Presentacion Five</span>
-                                   </div>
+                                   </div> -->
                               </div><!-- presentaciones -->
                               <br>
                               <div class="content_values">
@@ -202,6 +195,11 @@
 
                               </div><!-- ## content data ## -->
 
+                              <div class="content_button">
+                                <div class="button" id="btnIngresar_factura">
+                                  <div class="label">Ingresar factura</div>
+                                </div>
+                              </div>
                 </div><!-- Box: Uno -->
               </div>
           </div>
